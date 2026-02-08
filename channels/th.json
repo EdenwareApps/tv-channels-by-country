@@ -1032,103 +1032,84 @@
   "Sports": [
     {
       "name": "Golf Channel Thailand",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "NBA",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Sky Net Sports",
-      "isFree": false,
       "keywords": "sky net sports -1 -2 -3 -4 -5 -6",
       "priority": 10
     },
     {
       "name": "Sky Net Sports 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sky Net Sports 3",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sky Net Sports 4",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sky Net Sports 5",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sky Net Sports 6",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "True Premier Football HD",
-      "isFree": false,
       "shortName": "TPFH",
       "priority": 5
     },
     {
       "name": "True Premier Football HD 2",
-      "isFree": false,
       "shortName": "TPFH 2",
       "priority": 5
     },
     {
       "name": "True Premier Football HD 3",
-      "isFree": false,
       "shortName": "TPFH 3",
       "priority": 5
     },
     {
       "name": "True Premier Football HD 4",
-      "isFree": false,
       "shortName": "TPFH 4",
       "priority": 5
     },
     {
       "name": "True Premier Football HD 5",
-      "isFree": false,
       "shortName": "TPFH 5",
       "priority": 5
     },
     {
       "name": "True Sport 5",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "True Sport 7",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "True Sport HD",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "True Sport HD 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "True Sport HD 3",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "True Sport HD 4",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -2140,7 +2121,6 @@
   "Movies & Series": [
     {
       "name": "FOX Thai",
-      "isFree": false,
       "priority": 5
     },
     {

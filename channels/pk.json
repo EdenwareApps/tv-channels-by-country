@@ -443,7 +443,6 @@
   "Sports": [
     {
       "name": "One Golf",
-      "isFree": false,
       "priority": 5
     },
     {

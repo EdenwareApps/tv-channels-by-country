@@ -2,12 +2,10 @@
   "Sports": [
     {
       "name": "Canal Motor",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "TV 2 Sporten",
-      "isFree": false,
       "priority": 10
     },
     {

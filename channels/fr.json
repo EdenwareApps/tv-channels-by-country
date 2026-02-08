@@ -636,7 +636,6 @@
     },
     {
       "name": "Canal+",
-      "isFree": false,
       "keywords": "canal+ -action centre -action myanmar -action ouest -box office -caraibes -cinema centre -cinema ouest -cinema reunion -cinemas -decale -docs -elles centre -elles ouest -family -family centre -family ouest -foot -formula 1 -grand ecran -ha ha! -kids -motogp -pop centre -pop ouest -premier league -premiere centre -premiere ouest -series -series reunion -sport -sport 1 -sport 2 -sport 3 -sport 360 -sport 4 -sport 5 -sport reunion -sports myanmar -top 14",
       "website": "https://www.canalplus.com",
       "priority": 5
@@ -4006,7 +4005,6 @@
   "Sports": [
     {
       "name": "Trace Sport Stars",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -4880,32 +4878,26 @@
   "Movies & Series": [
     {
       "name": "Action Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Drama Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Family Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Movies Central",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Wildside",
-      "isFree": false,
       "keywords": "wild side tv | wildside tv",
       "priority": 5
     },

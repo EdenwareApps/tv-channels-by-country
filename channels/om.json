@@ -21,7 +21,6 @@
   "Sports": [
     {
       "name": "Oman Sports",
-      "isFree": false,
       "priority": 10
     }
   ],

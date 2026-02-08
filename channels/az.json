@@ -92,7 +92,6 @@
   "Sports": [
     {
       "name": "İdman",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -271,7 +270,6 @@
   "Movies & Series": [
     {
       "name": "FTV",
-      "isFree": false,
       "priority": 5
     }
   ],

@@ -995,7 +995,6 @@
   "Sports": [
     {
       "name": "Fight Network",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -6386,12 +6385,10 @@
   "Movies & Series": [
     {
       "name": "Filmrise free movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "NETV Toronto",
-      "isFree": false,
       "priority": 5
     },
     {

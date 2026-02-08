@@ -3492,7 +3492,6 @@
   "Sports": [
     {
       "name": "World of Freesports",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -3972,32 +3971,26 @@
   "Movies & Series": [
     {
       "name": "Action Movies AT",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Action Movies CH",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Action Movies DE",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies AT",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies CH",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies DE",
-      "isFree": false,
       "priority": 5
     },
     {

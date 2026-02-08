@@ -2,7 +2,6 @@
   "Sports": [
     {
       "name": "Arryadia",
-      "isFree": false,
       "priority": 5
     },
     {

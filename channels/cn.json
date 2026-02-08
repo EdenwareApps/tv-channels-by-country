@@ -3161,7 +3161,6 @@
   "Sports": [
     {
       "name": "CCTV-5体育",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -4238,12 +4237,10 @@
   "Movies & Series": [
     {
       "name": "CCTV-6电影",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Sichuan Movie",
-      "isFree": false,
       "priority": 5
     },
     {

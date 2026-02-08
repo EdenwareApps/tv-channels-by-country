@@ -378,12 +378,12 @@
       "priority": 5
     },
     {
-      "name": "1+1 Marathon",
+      "name": "1,1 Marathon",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "1+1 Media Group",
+      "name": "1,1 Media Group",
       "isFree": true,
       "priority": 5
     },
@@ -538,17 +538,17 @@
       "priority": 5
     },
     {
-      "name": "Cine+ Legend UA",
+      "name": "Cine, Legend UA",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Cine+ Mix UA",
+      "name": "Cine, Mix UA",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Cine+ Hit UA",
+      "name": "Cine, Hit UA",
       "isFree": true,
       "priority": 5
     },
@@ -624,7 +624,7 @@
   ],
   "Kids": [
     {
-      "name": "Cine+ Kids",
+      "name": "Cine, Kids",
       "isFree": true,
       "priority": 5
     },
@@ -650,9 +650,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Kids+",
+      "name": "KS TV - Kids,",
       "isFree": true,
-      "keywords": "ks tv | kids+",
+      "keywords": "ks tv | kids,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64d60202e4b02862812bdf7a-ks-tv-kids",
       "priority": 5
     },
@@ -664,9 +664,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Paramount+ Kids",
+      "name": "KS TV - Paramount, Kids",
       "isFree": true,
-      "keywords": "ks tv | paramount+ kids",
+      "keywords": "ks tv | paramount, kids",
       "website": "https://tv.kyivstar.ua/en/live-channels/611ba845f51485075a2b4ff3-ks-tv-paramount-kids",
       "priority": 5
     },
@@ -724,7 +724,6 @@
   "Sports": [
     {
       "name": "Sport",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -805,7 +804,7 @@
       "priority": 5
     },
     {
-      "name": "Setanta Sports+ Ukraine",
+      "name": "Setanta Sports, Ukraine",
       "isFree": true,
       "website": "https://setantasports.com/uk/",
       "priority": 10
@@ -860,7 +859,7 @@
       "priority": 10
     },
     {
-      "name": "XSport+",
+      "name": "XSport,",
       "isFree": true,
       "website": "http://www.bighockey.ua/",
       "priority": 10
@@ -868,7 +867,7 @@
   ],
   "Local": [
     {
-      "name": "TV7+",
+      "name": "TV7,",
       "isFree": true,
       "priority": 5
     }
@@ -1160,25 +1159,25 @@
       "priority": 5
     },
     {
-      "name": "1+1 International",
+      "name": "1,1 International",
       "isFree": true,
       "website": "https://1plus1.international/",
       "priority": 5
     },
     {
-      "name": "1+1 Marafon",
+      "name": "1,1 Marafon",
       "isFree": true,
       "website": "https://1plus1.ua/",
       "priority": 5
     },
     {
-      "name": "1+1 Ukraina",
+      "name": "1,1 Ukraina",
       "isFree": true,
       "website": "https://1plus1.ua/",
       "priority": 5
     },
     {
-      "name": "2+2 Marathon",
+      "name": "2,2 Marathon",
       "isFree": true,
       "priority": 5
     },
@@ -1363,7 +1362,7 @@
       "priority": 5
     },
     {
-      "name": "Inter+",
+      "name": "Inter,",
       "isFree": true,
       "website": "http://interplus.ua/",
       "priority": 5
@@ -1472,9 +1471,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Comedy+",
+      "name": "KS TV - Comedy,",
       "isFree": true,
-      "keywords": "ks tv | comedy+",
+      "keywords": "ks tv | comedy,",
       "website": "https://tv.kyivstar.ua/en/live-channels/6425bcbc6e1448e07191cb7b-ks-tv-comedy-hd",
       "priority": 5
     },
@@ -1528,9 +1527,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Dorama+",
+      "name": "KS TV - Dorama,",
       "isFree": true,
-      "keywords": "ks tv | dorama+",
+      "keywords": "ks tv | dorama,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64b90aeee4b071015a3d08b2-ks-tv-dorama-hd",
       "priority": 5
     },
@@ -1542,9 +1541,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Drama+",
+      "name": "KS TV - Drama,",
       "isFree": true,
-      "keywords": "ks tv | drama+",
+      "keywords": "ks tv | drama,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5f87646744d662a28159f-ks-tv-drama",
       "priority": 5
     },
@@ -1609,9 +1608,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Humor+",
+      "name": "KS TV - Humor,",
       "isFree": true,
-      "keywords": "ks tv | humor+",
+      "keywords": "ks tv | humor,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5fd4e46744d662a50a976-ks-tv-humor",
       "priority": 5
     },
@@ -1664,9 +1663,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Mystic+",
+      "name": "KS TV - Mystic,",
       "isFree": true,
-      "keywords": "ks tv | mystic+",
+      "keywords": "ks tv | mystic,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5f1f446744d662a0b80c2-ks-tv-mystic",
       "priority": 5
     },
@@ -1685,16 +1684,16 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Reality+",
+      "name": "KS TV - Reality,",
       "isFree": true,
-      "keywords": "ks tv | reality+",
+      "keywords": "ks tv | reality,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e6006546744d662a6e6353-ks-tv-reality",
       "priority": 5
     },
     {
-      "name": "KS TV - Secret 18+",
+      "name": "KS TV - Secret 18,",
       "isFree": null,
-      "keywords": "ks tv | secret 18+",
+      "keywords": "ks tv | secret 18,",
       "priority": 5
     },
     {
@@ -1705,9 +1704,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Snidanok with 1+",
+      "name": "KS TV - Snidanok with 1,",
       "isFree": true,
-      "keywords": "ks tv | snidanok with 1+1",
+      "keywords": "ks tv | snidanok with 1,1",
       "website": "https://tv.kyivstar.ua/en/live-channels/60a7825672f48fe0cd659ef8-ks-tv-snidanok-with-1-1-hd",
       "priority": 5
     },
@@ -1719,9 +1718,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Team+",
+      "name": "KS TV - Team,",
       "isFree": true,
-      "keywords": "ks tv | team+",
+      "keywords": "ks tv | team,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5b20c6fb4afb023b742eb-ks-tv-team",
       "priority": 5
     },
@@ -1830,7 +1829,7 @@
       "priority": 5
     },
     {
-      "name": "Misto+",
+      "name": "Misto,",
       "isFree": true,
       "website": "https://irt.pl.ua/",
       "priority": 5
@@ -1986,7 +1985,7 @@
       "priority": 5
     },
     {
-      "name": "Super+",
+      "name": "Super,",
       "isFree": true,
       "priority": 5
     },
@@ -2187,9 +2186,9 @@
       "priority": 5
     },
     {
-      "name": "KS TV - History+",
+      "name": "KS TV - History,",
       "isFree": true,
-      "keywords": "ks tv | history+",
+      "keywords": "ks tv | history,",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5bc90e4b01e556c0af0cd-ks-tv-history",
       "priority": 7
     },
@@ -2337,20 +2336,20 @@
       "priority": 5
     },
     {
-      "name": "Cine+",
+      "name": "Cine,",
       "isFree": true,
-      "keywords": "cine+ -hit -kids -legend",
+      "keywords": "cine, -hit -kids -legend",
       "website": "https://cineplus.volia.com/",
       "priority": 5
     },
     {
-      "name": "Cine+ Hit",
+      "name": "Cine, Hit",
       "isFree": true,
       "website": "https://cineplus.volia.com/",
       "priority": 5
     },
     {
-      "name": "Cine+ Legend",
+      "name": "Cine, Legend",
       "isFree": true,
       "website": "https://cineplus.volia.com/",
       "priority": 5

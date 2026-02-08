@@ -1752,7 +1752,6 @@
   "Movies & Series": [
     {
       "name": "Cinevision Canal 19",
-      "isFree": false,
       "shortName": "CC",
       "priority": 5
     },

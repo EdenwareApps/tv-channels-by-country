@@ -2,56 +2,46 @@
   "Sports": [
     {
       "name": "Abu Dhabi Sports",
-      "isFree": false,
       "shortName": "ADS",
       "priority": 10
     },
     {
       "name": "Abu Dhabi Sports 2",
-      "isFree": false,
       "shortName": "ADS 2",
       "priority": 10
     },
     {
       "name": "Abu Dhabi Sports 3",
-      "isFree": false,
       "shortName": "ADS 3",
       "priority": 10
     },
     {
       "name": "Abu Dhabi Sports 4",
-      "isFree": false,
       "shortName": "ADS 4",
       "priority": 10
     },
     {
       "name": "Dubai Racing 3",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Dubai Sports",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Dubai Sports 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Dubai Sports 3",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "National Geographic Abu Dhabi",
-      "isFree": false,
       "priority": 7
     },
     {
       "name": "Yas",
-      "isFree": false,
       "website": "https://adtv.ae/ar/live/YAS%20Sports%20Channel",
       "priority": 5
     },
@@ -804,47 +794,38 @@
   "Movies & Series": [
     {
       "name": "AXN East Asia",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Bee Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Dubai Zaman",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "FOX Movies Asia",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "MBC Action",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "MBC Max",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "MBC Plus Drama",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "MBC Plus Variety",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Weyyak Drama",
-      "isFree": false,
       "priority": 5
     },
     {

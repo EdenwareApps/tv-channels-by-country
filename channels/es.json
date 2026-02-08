@@ -4792,22 +4792,18 @@
   "Sports": [
     {
       "name": "Love Nature Español",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Real Madrid",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "TV Sevilla FC",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Trace Sport Stars",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -5877,22 +5873,18 @@
   "Movies & Series": [
     {
       "name": "Action Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Family Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Rakuten Drama",
-      "isFree": false,
       "priority": 5
     },
     {

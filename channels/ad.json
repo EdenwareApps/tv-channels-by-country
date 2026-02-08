@@ -19,7 +19,6 @@
   "Sports": [
     {
       "name": "MavTV Europe",
-      "isFree": false,
       "priority": 5
     }
   ],

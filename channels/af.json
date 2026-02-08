@@ -51,22 +51,18 @@
   "Movies & Series": [
     {
       "name": "&Pictures",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "&TV",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "&privé",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Thrill",
-      "isFree": false,
       "priority": 5
     }
   ],

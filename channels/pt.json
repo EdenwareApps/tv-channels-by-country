@@ -886,13 +886,11 @@
     },
     {
       "name": "SIC Notícias",
-      "isFree": false,
       "website": "https://www.sicnoticias.pt",
       "priority": 10
     },
     {
       "name": "TVI 24",
-      "isFree": false,
       "website": "https://tvi24.iol.pt",
       "priority": 10
     },
@@ -938,7 +936,6 @@
   "Sports": [
     {
       "name": "Benfica",
-      "isFree": false,
       "website": "https://www.benfica.tv",
       "priority": 10
     },
@@ -1179,7 +1176,6 @@
   "Movies & Series": [
     {
       "name": "Kuriakos Cine",
-      "isFree": false,
       "priority": 5
     },
     {

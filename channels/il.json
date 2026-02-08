@@ -99,22 +99,18 @@
   "Sports": [
     {
       "name": "Sport 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sport 3",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sport 4",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sports",
-      "isFree": false,
       "priority": 10
     },
     {

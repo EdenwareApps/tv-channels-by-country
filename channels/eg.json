@@ -185,7 +185,6 @@
   "Sports": [
     {
       "name": "Nile TV Sport",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -539,7 +538,6 @@
   "Movies & Series": [
     {
       "name": "Nile TV Cinema",
-      "isFree": false,
       "priority": 5
     },
     {

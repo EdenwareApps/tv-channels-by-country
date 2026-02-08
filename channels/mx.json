@@ -2790,7 +2790,6 @@
   "Movies & Series": [
     {
       "name": "Moovimex",
-      "isFree": false,
       "priority": 5
     },
     {

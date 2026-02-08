@@ -2,7 +2,6 @@
   "Sports": [
     {
       "name": "Türkmenistan Sport",
-      "isFree": false,
       "priority": 10
     },
     {

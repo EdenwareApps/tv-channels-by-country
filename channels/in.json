@@ -87,7 +87,6 @@
     },
     {
       "name": "CNBC TV 18",
-      "isFree": false,
       "website": "https://www.cnbctv18.com",
       "priority": 5
     },
@@ -4551,7 +4550,6 @@
   "Sports": [
     {
       "name": "DD Sports",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -5251,175 +5249,141 @@
   "Movies & Series": [
     {
       "name": "&Flix",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "B4U Bhojpuri",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "B4U Hitz",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "B4U Kadak",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "B4U Plus",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "B4U movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Bflix Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Bhojpuri Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Box Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Dhinchaak",
-      "isFree": false,
       "keywords": "dhinchaak -2",
       "priority": 5
     },
     {
       "name": "Dhinchaak 2",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "KCV Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Maha Movie",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Manoranjan Grand",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Manoranjan Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Nee Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Public Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Star Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Studio One Plus",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Studio One Yuva",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Uthradam Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Utsav Gold",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Wow Cinema One",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Yupp Thirai",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Action",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Anmol Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Bangla",
-      "isFree": false,
       "keywords": "zee bangla -cinema",
       "priority": 5
     },
     {
       "name": "Zee Bangla Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Bollywood",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Cinema",
-      "isFree": false,
       "keywords": "zee cinema -middle east -uk -usa",
       "priority": 5
     },
     {
       "name": "Zee Cinema Middle East",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Cinema UK",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Cinema USA",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Zee Mundo",
-      "isFree": false,
       "priority": 5
     },
     {

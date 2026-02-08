@@ -234,28 +234,23 @@
   "Sports": [
     {
       "name": "KSA Sports",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "KSA Sports 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "SSC Action Waleed",
-      "isFree": false,
       "keywords": "ssc action waleed -extra",
       "priority": 5
     },
     {
       "name": "SSC Action Waleed Extra",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "SSC",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -680,23 +675,19 @@
   "Movies & Series": [
     {
       "name": "Rotana Cinema",
-      "isFree": false,
       "keywords": "rotana cinema -ksa",
       "priority": 5
     },
     {
       "name": "Rotana Cinema KSA",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Rotana Classic",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Thikrayat",
-      "isFree": false,
       "priority": 5
     },
     {

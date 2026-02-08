@@ -407,7 +407,6 @@
   "Sports": [
     {
       "name": "Iraqia Sport",
-      "isFree": false,
       "priority": 10
     },
     {

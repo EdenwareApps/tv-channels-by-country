@@ -106,7 +106,6 @@
   "Movies & Series": [
     {
       "name": "Blast",
-      "isFree": false,
       "priority": 5
     }
   ],
@@ -120,7 +119,6 @@
   "Sports": [
     {
       "name": "TDM Sport",
-      "isFree": false,
       "priority": 10
     },
     {

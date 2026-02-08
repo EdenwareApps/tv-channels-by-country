@@ -2247,18 +2247,15 @@
   "Sports": [
     {
       "name": "RedBull Batalla de Gallos",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Teletrak",
-      "isFree": false,
       "website": "https://www.teletrak.cl/",
       "priority": 5
     },
     {
       "name": "Turf Móvil",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -2744,12 +2741,10 @@
   "Movies & Series": [
     {
       "name": "Planetatv Movie",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Retro Plus 3",
-      "isFree": false,
       "priority": 5
     },
     {

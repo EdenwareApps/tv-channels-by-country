@@ -2,7 +2,6 @@
   "Sports": [
     {
       "name": "San Marino RTV Sport",
-      "isFree": false,
       "priority": 10
     }
   ],

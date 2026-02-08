@@ -64,7 +64,6 @@
   "Sports": [
     {
       "name": "Sportal.bg",
-      "isFree": false,
       "priority": 10
     },
     {

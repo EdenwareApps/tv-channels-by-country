@@ -2695,7 +2695,6 @@
   "Movies & Series": [
     {
       "name": "Hits Movies",
-      "isFree": false,
       "priority": 5
     },
     {

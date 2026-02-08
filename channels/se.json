@@ -2,7 +2,6 @@
   "Sports": [
     {
       "name": "ATG",
-      "isFree": false,
       "keywords": "atg -live",
       "priority": 5
     },

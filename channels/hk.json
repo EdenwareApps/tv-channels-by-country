@@ -220,7 +220,6 @@
   "Movies & Series": [
     {
       "name": "Celestial Movies",
-      "isFree": false,
       "priority": 5
     },
     {

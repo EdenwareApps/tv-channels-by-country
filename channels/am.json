@@ -298,12 +298,10 @@
   "Movies & Series": [
     {
       "name": "Armenia Premium",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Armenia Հայ Կինո",
-      "isFree": false,
       "priority": 5
     },
     {

@@ -683,17 +683,14 @@
   "Sports": [
     {
       "name": "Sports",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "TRT Spor",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "TV 8. 5",
-      "isFree": false,
       "priority": 5
     },
     {

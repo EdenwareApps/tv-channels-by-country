@@ -2313,17 +2313,14 @@
   "Sports": [
     {
       "name": "AgrotendenciaTV",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Claro Sports",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "DeporTV",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -2877,12 +2874,10 @@
   "Movies & Series": [
     {
       "name": "CINE.AR",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "SEO TV Novelas",
-      "isFree": false,
       "priority": 5
     },
     {

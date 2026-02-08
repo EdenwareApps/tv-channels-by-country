@@ -153,68 +153,55 @@
   "Sports": [
     {
       "name": "ERT Sports",
-      "isFree": false,
       "keywords": "ert sports -2 -3",
       "priority": 10
     },
     {
       "name": "ERT Sports 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "ERT Sports 3",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport Highlights",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 3",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 4",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 5",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 6",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 7",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 8",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Cosmote Sport 9",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -1153,27 +1140,22 @@
   "Movies & Series": [
     {
       "name": "Alfa Dramas",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Cosmote Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Cosmote Cinema 2",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Cosmote Cinema 3",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Wixlar",
-      "isFree": false,
       "priority": 5
     },
     {

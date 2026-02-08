@@ -2,13 +2,11 @@
   "Sports": [
     {
       "name": "Astro Arena",
-      "isFree": false,
       "keywords": "astro arena -2",
       "priority": 5
     },
     {
       "name": "Astro Arena 2",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -742,12 +740,10 @@
   "Movies & Series": [
     {
       "name": "Celestial Classic 天映经典",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "CinemaWorld",
-      "isFree": false,
       "priority": 5
     },
     {

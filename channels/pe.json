@@ -675,22 +675,18 @@
   "Sports": [
     {
       "name": "Best Cable Sports Perú",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Contacto Deportivo",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Monterrico",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Ovacion",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -2519,7 +2515,6 @@
   "Movies & Series": [
     {
       "name": "TelSatel Cine",
-      "isFree": false,
       "priority": 5
     },
     {

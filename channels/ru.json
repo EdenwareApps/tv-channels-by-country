@@ -74,7 +74,6 @@
     },
     {
       "name": "VIP Premiere Russia",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -3736,7 +3735,6 @@
   "Sports": [
     {
       "name": "Охотник и рыболов International",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -4597,73 +4595,59 @@
   "Movies & Series": [
     {
       "name": "A",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "A 2",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Amedia Hit",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Backus",
-      "isFree": false,
       "keywords": "backus tv -страшное",
       "priority": 5
     },
     {
       "name": "Backus TV Страшное",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "FOX Life Russia",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "FOX Russia",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Millenium",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Shot",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "TV1000 Action Russia",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "TV1000 Russia",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "VIP Megahit Russia",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "VIP Serial Russia",
-      "isFree": false,
       "priority": 5
     },
     {

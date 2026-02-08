@@ -456,7 +456,6 @@
     },
     {
       "name": "Rai Premium",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -3131,38 +3130,31 @@
   "Movies & Series": [
     {
       "name": "Action Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Cine 34",
-      "isFree": false,
       "keywords": "cine 34 | cine34",
       "priority": 5
     },
     {
       "name": "Comedy Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Family Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Minerva Bizzarro Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Minerva Cinema Segreto",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Rai Movie",
-      "isFree": false,
       "keywords": "rai movie",
       "priority": 5
     },
@@ -3502,12 +3494,10 @@
   "Sports": [
     {
       "name": "RTV San Marino Sport",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Rete8 Sport",
-      "isFree": false,
       "keywords": "rete 8 sport | rete8 sport",
       "priority": 10
     },

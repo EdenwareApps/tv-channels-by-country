@@ -2,17 +2,14 @@
   "Sports": [
     {
       "name": "ORF Sport+",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Red Bull",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Swamiji",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -222,7 +219,6 @@
     },
     {
       "name": "Premium",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -697,12 +693,10 @@
   "Movies & Series": [
     {
       "name": "Action Movies - AT",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies - AT",
-      "isFree": false,
       "priority": 5
     },
     {

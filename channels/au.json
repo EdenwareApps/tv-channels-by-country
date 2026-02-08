@@ -115,7 +115,6 @@
     },
     {
       "name": "Sky News Australia",
-      "isFree": false,
       "keywords": "sky news australia -extra 1 -extra 2 -extra 3",
       "shortName": "Sky News AU",
       "website": "https://www.skynews.com.au",
@@ -291,7 +290,6 @@
   "Sports": [
     {
       "name": "Snowy Mountains Television",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -1120,12 +1118,10 @@
   "Movies & Series": [
     {
       "name": "Action Hollywood Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "SBS World Movies",
-      "isFree": false,
       "priority": 5
     },
     {

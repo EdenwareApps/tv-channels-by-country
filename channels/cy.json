@@ -2,7 +2,6 @@
   "Sports": [
     {
       "name": "Alfa Sport",
-      "isFree": false,
       "priority": 10
     },
     {

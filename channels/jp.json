@@ -1475,27 +1475,22 @@
   "Sports": [
     {
       "name": "J Sports",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "J Sports 2",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "J Sports 3",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "J Sports 4",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "New Japan Pro Wrestling World",
-      "isFree": false,
       "priority": 5
     },
     {

@@ -1707,7 +1707,6 @@
   "Sports": [
     {
       "name": "AntenaSport",
-      "isFree": false,
       "priority": 10
     },
     {
@@ -2649,7 +2648,6 @@
   "Movies & Series": [
     {
       "name": "Pro Cinema",
-      "isFree": false,
       "priority": 5
     },
     {

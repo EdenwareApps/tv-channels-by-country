@@ -676,7 +676,6 @@
   "Sports": [
     {
       "name": "Motorvision",
-      "isFree": false,
       "priority": 5
     },
     {
@@ -842,12 +841,10 @@
   "Movies & Series": [
     {
       "name": "Action Movies - CH",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies - CH",
-      "isFree": false,
       "priority": 5
     },
     {

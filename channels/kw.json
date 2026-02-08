@@ -157,7 +157,6 @@
   "Sports": [
     {
       "name": "KTV Sport",
-      "isFree": false,
       "keywords": "ktv sport -plus",
       "priority": 10
     }

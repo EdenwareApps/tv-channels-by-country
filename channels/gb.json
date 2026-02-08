@@ -2629,32 +2629,26 @@
   "Sports": [
     {
       "name": "EDGESport",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "FreeSports",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Horse & Country",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "SKI",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Sports Tonight",
-      "isFree": false,
       "priority": 10
     },
     {
       "name": "Sporty Stuff",
-      "isFree": false,
       "keywords": "sporty stuff tv | sportystuff tv",
       "priority": 10
     },
@@ -3254,7 +3248,6 @@
     },
     {
       "name": "BBC Earth",
-      "isFree": false,
       "website": "https://www.bbcearth.com",
       "priority": 5
     },
@@ -5713,27 +5706,22 @@
   "Movies & Series": [
     {
       "name": "Action Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Comedy Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Dark Matter",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Family Movies",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Movies Central",
-      "isFree": false,
       "priority": 5
     },
     {

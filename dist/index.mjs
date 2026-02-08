@@ -12,7 +12,7 @@ function loadJson(relativePath) {
 }
 
 function setSourceDir(dir) {
-  const fullPath = require('path').resolve(dir);
+  const fullPath = join(__dirname$1, dir);
   if (existsSync(fullPath) && statSync(fullPath).isDirectory()) {
     dataDir = fullPath;
     cache.clear(); // Limpar cache para forçar recarregamento

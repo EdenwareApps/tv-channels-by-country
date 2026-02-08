@@ -2631,19 +2631,16 @@
   "Movies & Series": [
     {
       "name": "Chavo",
-      "isFree": false,
       "priority": 5
     },
     {
       "name": "Cinema +",
-      "isFree": false,
       "keywords": "cinema + | cinema+",
       "shortName": "Cinema +",
       "priority": 5
     },
     {
       "name": "MovieFe",
-      "isFree": false,
       "priority": 5
     },
     {

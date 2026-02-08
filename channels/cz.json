@@ -627,7 +627,6 @@
   "Movies & Series": [
     {
       "name": "Nova Cinema",
-      "isFree": false,
       "priority": 5
     },
     {
