@@ -84,11 +84,6 @@
       "priority": 5
     },
     {
-      "name": "TV NOE",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TV Natura",
       "isFree": true,
       "priority": 5
@@ -365,12 +360,6 @@
       "priority": 5
     },
     {
-      "name": "Sex With Muslims",
-      "isFree": null,
-      "website": "https://www.sexwithmuslims.com/",
-      "priority": 5
-    },
-    {
       "name": "Spektrum Home",
       "isFree": true,
       "website": "https://spektrumhome.cz/",
@@ -644,13 +633,7 @@
     {
       "name": "Film Europe",
       "isFree": true,
-      "keywords": "film europe -+",
-      "website": "https://filmeurope.cz/cs/tv",
-      "priority": 5
-    },
-    {
-      "name": "Film Europe +",
-      "isFree": true,
+      "keywords": "film europe -plus",
       "website": "https://filmeurope.cz/cs/tv",
       "priority": 5
     },

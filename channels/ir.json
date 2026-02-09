@@ -255,11 +255,6 @@
       "priority": 5
     },
     {
-      "name": "KHALIJEFARS",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "KHOOZESTAN",
       "isFree": true,
       "priority": 5
@@ -388,16 +383,11 @@
     {
       "name": "PERSIANA FAMILY",
       "isFree": true,
-      "keywords": "persiana family -+",
+      "keywords": "persiana family -plus",
       "priority": 5
     },
     {
       "name": "PERSIANA FAMILY +",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "PERSIANA GAME & TECH",
       "isFree": true,
       "priority": 5
     },
@@ -602,7 +592,7 @@
     {
       "name": "iFILM",
       "isFree": true,
-      "keywords": "ifilm -arabic -english -persian 2",
+      "keywords": "ifilm -arabic -english -persian -2",
       "priority": 5
     },
     {

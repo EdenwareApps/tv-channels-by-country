@@ -21,11 +21,6 @@
       "priority": 5
     },
     {
-      "name": "CCTV+",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CCTV+ 2",
       "isFree": true,
       "priority": 5
@@ -46,19 +41,9 @@
       "priority": 5
     },
     {
-      "name": "CCTV-3综艺",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CCTV- 4",
       "isFree": true,
       "website": "https://www.cctv.com",
-      "priority": 5
-    },
-    {
-      "name": "CCTV-4中文国际",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -68,21 +53,6 @@
     },
     {
       "name": "CCTV-8电视剧",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CCTV-女性时尚",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CCTV-老故事",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CETV",
       "isFree": true,
       "priority": 5
     },
@@ -144,11 +114,6 @@
     },
     {
       "name": "Huoshan",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Jinju",
       "isFree": true,
       "priority": 5
     },
@@ -219,123 +184,6 @@
     },
     {
       "name": "NewTV家庭剧场",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV怡伴健康",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV搏击",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV明星大片",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV武搏世界",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV潮妈辣婆",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV炫舞未来",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV爱情喜剧",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV精品体育",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV精品大剧",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV精品纪录",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV精品電影",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV超级体育",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV超级电影",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV超级电视剧",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV超级综艺",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "NewTV金牌综艺",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ninghua",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Phoenix Chinese",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTHK TV 32",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SDETV",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Sanming Public Channel",
-      "isFree": true,
-      "shortName": "SPC",
-      "priority": 5
-    },
-    {
-      "name": "Sanming Public Channel 2",
-      "isFree": true,
-      "shortName": "SPC 2",
-      "priority": 5
-    },
-    {
-      "name": "Shao Dong",
       "isFree": true,
       "priority": 5
     },
@@ -431,7 +279,7 @@
       "priority": 10
     },
     {
-      "name": "TV BRICS Chinese",
+      "name": "TV BRICS",
       "isFree": true,
       "priority": 5
     },
@@ -493,82 +341,6 @@
     {
       "name": "Zhao County TV 2",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "红牛REDBULL",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Anhui International",
-      "isFree": true,
-      "website": "http://www.ahtv.cn/",
-      "priority": 5
-    },
-    {
-      "name": "Anhui People",
-      "isFree": true,
-      "website": "http://www.ahtv.cn/",
-      "priority": 5
-    },
-    {
-      "name": "Anhui Public",
-      "isFree": true,
-      "website": "http://www.ahtv.cn/",
-      "priority": 5
-    },
-    {
-      "name": "Anhui Satellite",
-      "isFree": true,
-      "website": "http://www.ahtv.cn/",
-      "priority": 5
-    },
-    {
-      "name": "Anhui",
-      "isFree": true,
-      "website": "http://www.ahtv.cn/",
-      "priority": 5
-    },
-    {
-      "name": "Anhui Variety",
-      "isFree": true,
-      "website": "http://www.ahtv.cn/",
-      "priority": 5
-    },
-    {
-      "name": "Anshun Public",
-      "isFree": true,
-      "website": "http://www.gzastv.com/live/live_public.shtml",
-      "priority": 5
-    },
-    {
-      "name": "Baicheng",
-      "isFree": true,
-      "website": "https://www.jlntv.cn/newpc/wlt/dszb/folder3130/folder3140/",
-      "priority": 5
-    },
-    {
-      "name": "Beijing Satellite",
-      "isFree": true,
-      "website": "https://www.brtn.cn/btv/",
-      "priority": 5
-    },
-    {
-      "name": "Bingtuan Satellite",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Bread",
-      "isFree": true,
-      "website": "https://bread-tv.com/",
-      "priority": 5
-    },
-    {
-      "name": "BRTV International",
-      "isFree": true,
-      "website": "https://www.brtn.cn/btv/",
       "priority": 5
     },
     {
@@ -683,12 +455,6 @@
       "name": "CCTV-Women's Fashion",
       "isFree": true,
       "website": "http://tv.cctv.com/",
-      "priority": 5
-    },
-    {
-      "name": "CDTV 5",
-      "isFree": true,
-      "website": "http://www.cditv.cn/show-192-5-1.html",
       "priority": 5
     },
     {
@@ -1019,7 +785,7 @@
     {
       "name": "GTV",
       "isFree": true,
-      "keywords": "gtv -2 qipai -electronic sports",
+      "keywords": "gtv -2 -qipai -electronic -sports",
       "priority": 5
     },
     {
@@ -1246,7 +1012,7 @@
     {
       "name": "Henan",
       "isFree": true,
-      "keywords": "henan tv -city channel -international channel -satellite",
+      "keywords": "henan tv -city -channel -international -satellite",
       "website": "http://www.hntv.tv/",
       "priority": 5
     },
@@ -1821,7 +1587,7 @@
     {
       "name": "Nei Monggol",
       "isFree": true,
-      "keywords": "nei monggol tv -2 mongolian culture channel -agriculture & animal channel -children channel -culture entertainment channel -economic & life channel -news channel",
+      "keywords": "nei monggol tv -2 -mongolian -culture -channel -agriculture -animal -children -entertainment -economic -life -news",
       "website": "http://www.nmtv.cn/",
       "priority": 5
     },
@@ -1990,7 +1756,7 @@
     {
       "name": "Shaanxi",
       "isFree": true,
-      "keywords": "shaanxi tv -agriculture & forestry tv",
+      "keywords": "shaanxi tv -agriculture -forestry -tv",
       "website": "http://www.snrtv.com/",
       "priority": 5
     },
@@ -2015,7 +1781,7 @@
     {
       "name": "Shandong",
       "isFree": true,
-      "keywords": "shandong tv -agricultural science channel -children's channel -culture and tourism channel -life channel -movie and video channel -news channel -qilu channel -sports channel -variety channel",
+      "keywords": "shandong tv -agricultural -science -channel -children -s -culture -and -tourism -life -movie -video -news -qilu -sports -variety",
       "website": "http://www.iqilu.com/",
       "priority": 5
     },
@@ -3018,151 +2784,92 @@
       "priority": 5
     },
     {
-      "name": "CGTN French CN",
+      "name": "CCTV 4 English",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 4 English CN",
+      "name": "CCTV 1",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 1 CN",
+      "name": "CCTV 2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 2 CN",
+      "name": "CCTV 3",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 3 CN",
+      "name": "CCTV 4",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 4 CN",
+      "name": "CCTV 5",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 4 Europe CN",
+      "name": "CCTV 5+",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 4 America Chinese CN",
+      "name": "CCTV 7",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 5 CN",
+      "name": "CCTV 8",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 5+ CN",
+      "name": "CCTV 10",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 6 CN",
+      "name": "CCTV 11",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 7 CN",
+      "name": "CCTV 12",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 8 CN",
+      "name": "CCTV 13",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 9 CN",
+      "name": "CCTV 14",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 10 CN",
+      "name": "CCTV 15",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 11 CN",
+      "name": "TVS4广东影视",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CCTV 12 CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CCTV 13 CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CCTV 14 CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CCTV 15 CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CGTN English CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CGTN Español CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CGTN-Documentary En CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CCTV-新闻 CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ten Cent CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVS3广东综艺 CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVS4广东影视 CN",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVS5广东少儿 CN",
+      "name": "TVS5广东少儿",
       "isFree": true,
       "priority": 5
     }
   ],
   "Sports": [
-    {
-      "name": "CCTV-5体育",
-      "priority": 5
-    },
     {
       "name": "BRTV Winter Olympics Documentary",
       "isFree": true,
@@ -3179,13 +2886,10 @@
       "name": "CCTV- 5",
       "isFree": true,
       "website": "https://www.cctv.com",
-      "priority": 5
-    },
-    {
-      "name": "CCTV-5+",
-      "isFree": true,
-      "website": "http://tv.cctv.com/cctv5plus/",
-      "priority": 5
+      "priority": 5,
+      "_altWebsites": [
+        "http://tv.cctv.com/cctv5plus/"
+      ]
     },
     {
       "name": "CCTV-Billiards",
@@ -3321,11 +3025,6 @@
     }
   ],
   "News": [
-    {
-      "name": "CCTV-13新闻",
-      "isFree": true,
-      "priority": 5
-    },
     {
       "name": "CGTN",
       "isFree": true,
@@ -4236,10 +3935,6 @@
   ],
   "Movies & Series": [
     {
-      "name": "CCTV-6电影",
-      "priority": 5
-    },
-    {
       "name": "Sichuan Movie",
       "priority": 5
     },
@@ -4524,17 +4219,7 @@
   ],
   "Education & Culture": [
     {
-      "name": "CCTV-10科教",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CCTV-9纪录",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CGTN Documentary",
       "isFree": true,
       "priority": 5
     },
@@ -4945,11 +4630,6 @@
     }
   ],
   "Music Videos": [
-    {
-      "name": "CCTV-15音乐",
-      "isFree": true,
-      "priority": 5
-    },
     {
       "name": "CCTV- 11",
       "isFree": true,

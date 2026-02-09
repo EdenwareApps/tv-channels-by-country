@@ -8,7 +8,7 @@
     {
       "name": "Bloomberg TV Asia",
       "isFree": true,
-      "keywords": "bloomberg tv asia -live event",
+      "keywords": "bloomberg tv asia -live -event",
       "priority": 5
     },
     {
@@ -233,11 +233,6 @@
     },
     {
       "name": "Payam-e-Afghan",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Payame Afghan",
       "isFree": true,
       "priority": 5
     },

@@ -22,11 +22,6 @@
       "priority": 5
     },
     {
-      "name": "TV2 Bornholm",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TV2 Fyn",
       "isFree": true,
       "keywords": "tv 2 fyn | tv2 fyn",
@@ -38,11 +33,6 @@
       "priority": 5
     },
     {
-      "name": "TV2 Ost",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TV2 Ostjylland",
       "isFree": true,
       "priority": 5
@@ -50,21 +40,21 @@
     {
       "name": "TV 2/Bornholm",
       "isFree": true,
-      "keywords": "tv 2/bornholm | tv2/bornholm",
+      "keywords": "tv 2 bornholm | tv2 bornholm",
       "shortName": "TV 2/Bornholm",
       "priority": 5
     },
     {
       "name": "TV 2/Lorry",
       "isFree": true,
-      "keywords": "tv 2/lorry | tv2/lorry",
+      "keywords": "tv 2 lorry | tv2 lorry",
       "shortName": "TV 2/Lorry",
       "priority": 5
     },
     {
       "name": "TV 2/Østjylland",
       "isFree": true,
-      "keywords": "tv 2/østjylland | tv2/østjylland",
+      "keywords": "tv 2 østjylland | tv2 østjylland",
       "shortName": "TV 2/Østjylland",
       "priority": 5
     },
@@ -245,7 +235,7 @@
     {
       "name": "TV 2",
       "isFree": true,
-      "keywords": "tv 2 -charlie -fri -fyn -kosmopol -news -nord salto -sport -sport x -zulu",
+      "keywords": "tv 2 -charlie -fri -fyn -kosmopol -news -nord -salto -sport -x -zulu",
       "website": "https://tv2.dk/",
       "priority": 5
     },
@@ -302,12 +292,6 @@
       "name": "TV3 Puls",
       "isFree": true,
       "website": "https://www.viafree.dk/kanal/tv3",
-      "priority": 5
-    },
-    {
-      "name": "TVAarhus",
-      "isFree": true,
-      "website": "https://www.tvaarhus.dk/page/live",
       "priority": 5
     },
     {
@@ -432,11 +416,6 @@
       "priority": 5
     },
     {
-      "name": "TV/Midt-Vest",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "TV 2/Nord",
       "isFree": null,
       "priority": 5
@@ -448,16 +427,6 @@
     },
     {
       "name": "TV 2 Film",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "See",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "V Film",
       "isFree": null,
       "priority": 5
     },

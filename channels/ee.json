@@ -26,11 +26,6 @@
       "priority": 5
     },
     {
-      "name": "ETV+",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Life",
       "isFree": true,
       "priority": 5
@@ -120,18 +115,15 @@
       "name": "Kanal 7",
       "isFree": true,
       "website": "https://kanal7.ee/ru",
-      "priority": 5
+      "priority": 5,
+      "_altWebsites": [
+        "https://kanal7plus.ee/ru"
+      ]
     },
     {
       "name": "Kanal 7+",
       "isFree": true,
       "website": "https://kanal7plus.ee/ru",
-      "priority": 5
-    },
-    {
-      "name": "Orsent",
-      "isFree": true,
-      "website": "https://orsent.eu/",
       "priority": 5
     },
     {
@@ -259,12 +251,6 @@
   "Movies & Series": [
     {
       "name": "Filmzone",
-      "isFree": true,
-      "website": "http://filmzonetv.eu/",
-      "priority": 5
-    },
-    {
-      "name": "Filmzone+",
       "isFree": true,
       "website": "http://filmzonetv.eu/",
       "priority": 5

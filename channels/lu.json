@@ -8,7 +8,7 @@
     {
       "name": "RTL",
       "isFree": true,
-      "keywords": "rtl -2 tele letzeburg -tele letzeburg",
+      "keywords": "rtl -2 -tele -letzeburg",
       "priority": 5
     },
     {
@@ -140,42 +140,22 @@
       "priority": 5
     },
     {
-      "name": "Apart TV LU",
+      "name": "Apart TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Club RTL LU",
+      "name": "Club RTL",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Plug RTL LU",
+      "name": "Plug RTL",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "RTL 9 LU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Lucky Jack LU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTL Zwee LU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTL LU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTL Radio LU",
+      "name": "Lucky Jack",
       "isFree": true,
       "priority": 5
     }

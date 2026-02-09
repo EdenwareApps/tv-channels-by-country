@@ -345,7 +345,7 @@
     {
       "name": "AXN",
       "isFree": null,
-      "keywords": "axn -black -crime -sci fi -spin -white",
+      "keywords": "axn -black -crime -sci -fi -spin -white",
       "priority": 5
     },
     {
@@ -927,11 +927,6 @@
       "priority": 5
     },
     {
-      "name": "Eroxxx",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "FashionBox",
       "isFree": null,
       "priority": 5
@@ -944,7 +939,7 @@
     {
       "name": "Filmbox",
       "isFree": null,
-      "keywords": "filmbox -arthouse -extra (hd) -family -premium",
+      "keywords": "filmbox -arthouse -extra -hd -family -premium",
       "priority": 5
     },
     {
@@ -974,11 +969,6 @@
     },
     {
       "name": "Timeless Drama",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Mooz RO",
       "isFree": null,
       "priority": 5
     },
@@ -1150,7 +1140,7 @@
     {
       "name": "A+",
       "isFree": null,
-      "keywords": "a+ -anime",
+      "keywords": "aplus -anime",
       "priority": 5
     },
     {
@@ -1579,12 +1569,7 @@
       "priority": 5
     },
     {
-      "name": "Sport1 RO",
-      "isFree": null,
-      "priority": 10
-    },
-    {
-      "name": "SportKlub+",
+      "name": "Sport1",
       "isFree": null,
       "priority": 10
     },
@@ -2512,12 +2497,6 @@
       "isFree": true,
       "website": "https://vtv.ro/",
       "priority": 5
-    },
-    {
-      "name": "White Boxxx",
-      "isFree": null,
-      "website": "https://thewhiteboxxx.com/",
-      "priority": 5
     }
   ],
   "Music Videos": [
@@ -2533,11 +2512,6 @@
       "isFree": true,
       "keywords": "mooz hits | moozhits",
       "shortName": "Mooz Hits",
-      "priority": 5
-    },
-    {
-      "name": "MoozRo",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -2566,7 +2540,7 @@
     {
       "name": "H!t Music",
       "isFree": true,
-      "keywords": "h!t music channel -romania",
+      "keywords": "h t music channel -romania",
       "website": "http://hitmusic.hu/",
       "priority": 5
     },

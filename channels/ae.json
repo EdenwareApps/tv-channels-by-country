@@ -57,8 +57,9 @@
     {
       "name": "Al Arabiya",
       "isFree": true,
-      "keywords": "al arabiya -al hadath | alarabiya -portrait",
-      "priority": 5
+      "keywords": "al arabiya -portrait -hadath | alarabiya",
+      "priority": 5,
+      "website": "https://www.alarabiya.net/"
     },
     {
       "name": "Al Arabiya Al Hadath",
@@ -167,12 +168,6 @@
       "name": "Sky News Arabia Vertical",
       "isFree": true,
       "website": "https://www.skynewsarabia.com/",
-      "priority": 5
-    },
-    {
-      "name": "Alarabiya",
-      "isFree": true,
-      "website": "https://www.alarabiya.net/",
       "priority": 5
     },
     {
@@ -524,7 +519,7 @@
     {
       "name": "OSN Yahala",
       "isFree": true,
-      "keywords": "osn yahala -aflam -bil arabi",
+      "keywords": "osn yahala -aflam -bil -arabi",
       "website": "https://www.osn.com/en-ae/explore/channels/oyh/osn-yahala",
       "priority": 5
     },

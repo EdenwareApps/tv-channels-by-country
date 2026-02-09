@@ -60,287 +60,142 @@
       "priority": 4
     },
     {
-      "name": "MTV Finland FI",
+      "name": "MTV Finland",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Yle Areena FI",
+      "name": "Yle Areena",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "YLE TV1 FI",
+      "name": "YLE TV1",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "YLE TV2 FI",
+      "name": "YLE TV2",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "MTV3 FI",
+      "name": "MTV3",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Nelonen FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "JIM FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Sub FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Liv FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Kutonen FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TLC FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Star Channel FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Hero FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Frii FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "National Geographic FI",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "Eveo FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TV 5 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Yle Teema Fem FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Ava FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Eurosport 1 FI",
+      "name": "Eurosport 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Eurosport 2 FI",
+      "name": "MTV Liiga 3",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "MTV Liiga 4",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "MTV Liiga 6",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "MTV Liiga UHD",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "V Sport 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "MTV Max FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Urheilu FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Urheilu 2 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Urheilu 3 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga 1 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga 2 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga 3 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga 4 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga 5 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga 6 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga 7 FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV Liiga UHD FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "V Sport Golf FI",
+      "name": "V Sport 1 Suomi",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport Vinter FI",
+      "name": "V Sport 2",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport + FI",
+      "name": "V Sport Premium",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport 1 FI",
+      "name": "V Sport Live 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport Football FI",
+      "name": "V Sport Live 2",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport 1 Suomi FI",
+      "name": "V Sport Live 3",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport 2 FI",
+      "name": "V Sport Live 4",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport Premium FI",
+      "name": "V Sport Live 5",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport Live 1 FI",
+      "name": "Extreme Sports Channel",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "V Sport Live 2 FI",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "V Sport Live 3 FI",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "V Sport Live 4 FI",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "V Sport Live 5 FI",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Extreme Sports Channel FI",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "TotoTV FI",
+      "name": "TotoTV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "V Sport Ultra HD FI",
+      "name": "V Sport Ultra HD",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "MTV Aitio FI",
+      "name": "V Film Premiere",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "MTV Viihde FI",
+      "name": "V Film Action",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "V Film Premiere FI",
+      "name": "V Film Family",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "V Film Action FI",
+      "name": "V Film Hits",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "V Film Family FI",
+      "name": "Cartoon Network",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "V Film Hits FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Cartoon Network FI",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Disney Channel FI",
+      "name": "Disney Channel",
       "isFree": true,
       "priority": 4
     }
@@ -459,7 +314,7 @@
     {
       "name": "MTV",
       "isFree": true,
-      "keywords": "mtv -aitio -ava -juniori -max -sub -urheilu 1 -urheilu 2 -uutiset -viihde",
+      "keywords": "mtv -aitio -ava -juniori -max -sub -urheilu -1 -2 -uutiset -viihde",
       "website": "http://www.musictelevision.fi/",
       "priority": 5
     },
@@ -607,7 +462,7 @@
     {
       "name": "Yle Teema",
       "isFree": true,
-      "keywords": "yle teema -& fem",
+      "keywords": "yle teema -fem",
       "priority": 5
     },
     {

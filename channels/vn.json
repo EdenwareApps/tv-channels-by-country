@@ -310,7 +310,7 @@
     {
       "name": "VTC 4",
       "isFree": true,
-      "keywords": "vtc4 -yeah1 family",
+      "keywords": "vtc4 -yeah1 -family",
       "priority": 5
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "name": "VTV 5",
       "isFree": true,
-      "keywords": "vtv5 -tay nam bo -tay nguyen",
+      "keywords": "vtv5 -tay -nam -bo -nguyen",
       "website": "http://www.vtv5.net.vn/",
       "priority": 5
     },

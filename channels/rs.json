@@ -1,7 +1,7 @@
 {
   "News": [
     {
-      "name": "N1 RS",
+      "name": "N1",
       "isFree": true,
       "priority": 5
     },
@@ -92,48 +92,6 @@
     {
       "name": "TV Pi Canal Pirot",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Adult Channel",
-      "isFree": null,
-      "website": "http://www.prva.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Adult Channel 2",
-      "isFree": null,
-      "website": "http://www.prva.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Adult Channel 3",
-      "isFree": null,
-      "website": "http://www.prva.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Adult Channel 4",
-      "isFree": null,
-      "website": "http://www.prva.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Adult Channel 5",
-      "isFree": null,
-      "website": "http://www.prva.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Adult Channel 6",
-      "isFree": null,
-      "website": "http://www.prva.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Adult Channel 7",
-      "isFree": null,
-      "website": "http://www.prva.rs/",
       "priority": 5
     },
     {
@@ -231,55 +189,6 @@
       "priority": 5
     },
     {
-      "name": "Erotic",
-      "isFree": null,
-      "keywords": "erotic -2 -3 -4 -5 -6 -7 -8",
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Erotic 2",
-      "isFree": null,
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Erotic 3",
-      "isFree": null,
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Erotic 4",
-      "isFree": null,
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Erotic 5",
-      "isFree": null,
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Erotic 6",
-      "isFree": null,
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Erotic 7",
-      "isFree": null,
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
-      "name": "Erotic 8",
-      "isFree": null,
-      "website": "http://www.pink.rs/",
-      "priority": 5
-    },
-    {
       "name": "EX YU Melody",
       "isFree": true,
       "priority": 5
@@ -306,7 +215,7 @@
     {
       "name": "Happy",
       "isFree": true,
-      "keywords": "happy -reality 1 -reality 2",
+      "keywords": "happy -reality -1 -2",
       "website": "https://happytv.rs/televizija",
       "priority": 5
     },
@@ -461,13 +370,6 @@
       "name": "Pester",
       "isFree": true,
       "website": "http://www.pester.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Pink",
-      "isFree": true,
-      "keywords": "pink -action -classic -comedy -crime & mystery -extra -family -fashion -film -folk 1 -folk 2 -hits -hits 2 -horror -kids -koncert -kuvar -movies -music -music 2 -n roll -pedia -plus -premium -reality -romance -sci-fi & fantasy -serije -show -si -soap -style -super kids -thriller -western -world -world cinema -zabava",
-      "website": "http://www.rtvpink.co.rs/",
       "priority": 5
     },
     {

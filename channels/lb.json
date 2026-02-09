@@ -1,11 +1,6 @@
 {
   "News": [
     {
-      "name": "Al Manar",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Al Mayadeen",
       "isFree": true,
       "website": "https://www.almayadeen.net/",
@@ -76,11 +71,6 @@
     }
   ],
   "Religious": [
-    {
-      "name": "Aliman",
-      "isFree": true,
-      "priority": 4
-    },
     {
       "name": "Charity",
       "isFree": true,

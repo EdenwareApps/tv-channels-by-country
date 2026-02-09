@@ -13,7 +13,7 @@
     {
       "name": "ACV",
       "isFree": true,
-      "keywords": "acv -news -utsav -utsav plus",
+      "keywords": "acv -news -utsav -plus",
       "priority": 5
     },
     {
@@ -423,7 +423,8 @@
       "name": "MH1 Prime",
       "isFree": true,
       "keywords": "mh 1 prime | mh1 prime",
-      "priority": 6
+      "priority": 6,
+      "website": "https://www.mhone.in/"
     },
     {
       "name": "MK Six",
@@ -732,7 +733,7 @@
     {
       "name": "Zee 24",
       "isFree": true,
-      "keywords": "zee 24 -madhya pradesh chhattisgarh -taas",
+      "keywords": "zee 24 -madhya -pradesh -chhattisgarh -taas",
       "priority": 5
     },
     {
@@ -915,7 +916,7 @@
     {
       "name": "Asianet",
       "isFree": true,
-      "keywords": "asianet -middle east -movies -news -news bangla -news kannada -news tamil -plus -suvarna news",
+      "keywords": "asianet -middle -east -movies -news -bangla -kannada -tamil -plus -suvarna",
       "website": "https://www.asianet.co.in/",
       "priority": 5
     },
@@ -1112,7 +1113,7 @@
     {
       "name": "Darshana",
       "isFree": true,
-      "keywords": "darshana tv -middle east",
+      "keywords": "darshana tv -middle -east",
       "website": "http://www.darshanatv.in/",
       "priority": 5
     },
@@ -1556,7 +1557,7 @@
     {
       "name": "Mango",
       "isFree": true,
-      "keywords": "mango -mobile tv",
+      "keywords": "mango -mobile -tv",
       "priority": 5
     },
     {
@@ -2238,7 +2239,7 @@
       "priority": 5
     },
     {
-      "name": "TV BRICS English",
+      "name": "TV BRICS",
       "isFree": true,
       "priority": 5
     },
@@ -2406,7 +2407,7 @@
     {
       "name": "Zee",
       "isFree": true,
-      "keywords": "zee tv -apac -canada -middle east -russia -usa",
+      "keywords": "zee tv -apac -canada -middle -east -russia -usa",
       "website": "https://www.zee5.com",
       "priority": 5
     },
@@ -2436,12 +2437,6 @@
       "name": "Zodiak",
       "isFree": true,
       "priority": 5
-    },
-    {
-      "name": "Mh 1 Prime",
-      "isFree": true,
-      "website": "https://www.mhone.in/",
-      "priority": 6
     },
     {
       "name": "Mangalam",
@@ -2632,11 +2627,6 @@
     },
     {
       "name": "Malabar News",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Malaimurasu",
       "isFree": true,
       "priority": 5
     },
@@ -2876,7 +2866,7 @@
     {
       "name": "Zee News",
       "isFree": true,
-      "keywords": "zee news -mpcg -uttar pradesh uttrakhand",
+      "keywords": "zee news -mpcg -uttar -pradesh -uttrakhand",
       "priority": 5
     },
     {
@@ -3149,7 +3139,7 @@
     {
       "name": "Chardikla Time",
       "isFree": true,
-      "keywords": "chardikla time tv -north america",
+      "keywords": "chardikla time tv -north -america",
       "website": "https://timetv.news/live-tv/",
       "priority": 5
     },
@@ -4094,7 +4084,7 @@
     {
       "name": "Suvarna News",
       "isFree": true,
-      "keywords": "suvarna news -24 7",
+      "keywords": "suvarna news -24 -7",
       "website": "https://kannada.asianetnews.com/",
       "priority": 5
     },
@@ -4341,7 +4331,7 @@
     {
       "name": "Cartoon Network",
       "isFree": true,
-      "keywords": "cartoon network -hd+ -india",
+      "keywords": "cartoon network -hdplus -india",
       "website": "http://www.cartoonnetworkindia.com/",
       "priority": 5
     },
@@ -4747,7 +4737,7 @@
     {
       "name": "Aastha",
       "isFree": true,
-      "keywords": "aastha -bhajan -gujarati -international -kannada -prime 1 -prime 2 -tamil -telugu",
+      "keywords": "aastha -bhajan -gujarati -international -kannada -prime -1 -2 -tamil -telugu",
       "website": "http://www.aasthatv.tv/",
       "priority": 4
     },
@@ -5115,7 +5105,7 @@
     {
       "name": "Sadhna",
       "isFree": true,
-      "keywords": "sadhna -news madhya pradesh/chhattisgarh -news tv -plus -plus news",
+      "keywords": "sadhna -news -madhya -pradesh -chhattisgarh -tv -plus",
       "website": "http://www.sadhna.com/",
       "priority": 4
     },
@@ -5272,10 +5262,6 @@
       "priority": 5
     },
     {
-      "name": "Bflix Movies",
-      "priority": 5
-    },
-    {
       "name": "Bhojpuri Cinema",
       "priority": 5
     },
@@ -5367,7 +5353,7 @@
     },
     {
       "name": "Zee Cinema",
-      "keywords": "zee cinema -middle east -uk -usa",
+      "keywords": "zee cinema -middle -east -uk -usa",
       "priority": 5
     },
     {
@@ -5717,18 +5703,12 @@
     {
       "name": "Movies Now",
       "isFree": true,
-      "keywords": "movies now -+",
+      "keywords": "movies now -plus",
       "priority": 5
     },
     {
       "name": "Movies Now +",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Oscar Movies Bhojpuri",
-      "isFree": true,
-      "website": "http://www.oscarmoviesbhojpuri.tv/",
       "priority": 5
     },
     {
@@ -5798,7 +5778,7 @@
     {
       "name": "Sony Pix",
       "isFree": true,
-      "keywords": "sony pix -south asia",
+      "keywords": "sony pix -south -asia",
       "website": "http://www.sonypix.com/",
       "priority": 5
     },
@@ -6122,7 +6102,8 @@
       "name": "MH1 Music",
       "isFree": true,
       "keywords": "mh 1 music | mh1 music",
-      "priority": 5
+      "priority": 5,
+      "website": "https://music.mhone.in/"
     },
     {
       "name": "Mastiii",
@@ -6487,12 +6468,6 @@
       "name": "Zoom",
       "isFree": true,
       "website": "https://www.zoomtventertainment.com/live-tv",
-      "priority": 5
-    },
-    {
-      "name": "Mh 1 Music",
-      "isFree": true,
-      "website": "https://music.mhone.in/",
       "priority": 5
     }
   ],

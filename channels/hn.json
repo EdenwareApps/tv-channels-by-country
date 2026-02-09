@@ -789,12 +789,6 @@
       "priority": 5
     },
     {
-      "name": "Venus",
-      "isFree": true,
-      "website": "https://venustvhonduras.com/",
-      "priority": 5
-    },
-    {
       "name": "Villavision",
       "isFree": true,
       "priority": 5
@@ -959,7 +953,7 @@
     {
       "name": "Radio Ideal",
       "isFree": true,
-      "keywords": "radio ideal -104.7 fm",
+      "keywords": "radio ideal -104 -7 -fm",
       "website": "http://www.idealfm104-7.com/",
       "priority": 5
     }

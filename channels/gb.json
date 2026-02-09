@@ -709,11 +709,6 @@
       "priority": 4
     },
     {
-      "name": "The Adult",
-      "isFree": true,
-      "priority": 4
-    },
-    {
       "name": "Bloomberg",
       "isFree": true,
       "priority": 4
@@ -1025,11 +1020,6 @@
     },
     {
       "name": "Smithsonian Channel UK",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Television X UK",
       "isFree": true,
       "priority": 4
     },
@@ -2782,7 +2772,7 @@
     {
       "name": "FIFA+",
       "isFree": true,
-      "keywords": "fifa+ -women",
+      "keywords": "fifaplus -women",
       "website": "https://www.plus.fifa.com/",
       "priority": 5
     },
@@ -3854,11 +3844,6 @@
       "priority": 5
     },
     {
-      "name": "Magna Vision",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Manoto",
       "isFree": true,
       "priority": 5
@@ -4185,11 +4170,6 @@
       "priority": 5
     },
     {
-      "name": "Adult",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "Alb UK",
       "isFree": true,
       "website": "https://albuk.tv/",
@@ -4235,17 +4215,6 @@
       "name": "Babenation",
       "isFree": null,
       "website": "https://www.babenation.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Babes and Brazzers",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Babestation",
-      "isFree": null,
-      "website": "https://www.babestation.tv/",
       "priority": 5
     },
     {
@@ -4298,7 +4267,7 @@
     {
       "name": "BBC One",
       "isFree": true,
-      "keywords": "bbc one -cambridge -channel islands -east -east midlands -east yorkshire -london -north east -north west -northern ireland -oxford -scotland -south -south east -south west -wales -west -west midlands -yorks",
+      "keywords": "bbc one -cambridge -channel -islands -east -midlands -yorkshire -london -north -west -northern -ireland -oxford -scotland -south -wales -yorks",
       "website": "https://www.bbc.co.uk/iplayer",
       "priority": 5,
       "shortName": "BBC One"
@@ -4318,7 +4287,7 @@
     {
       "name": "BBC Two",
       "isFree": true,
-      "keywords": "bbc two -england -northen ireland -northern ireland hd -wales",
+      "keywords": "bbc two -england -northen -ireland -northern -hd -wales",
       "website": "https://www.bbc.co.uk/iplayer",
       "priority": 5,
       "shortName": "BBC Two"
@@ -4469,7 +4438,7 @@
     {
       "name": "Crime + Investigation",
       "isFree": true,
-      "keywords": "crime + investigation -benelux -cee",
+      "keywords": "crime plus investigation -benelux -cee",
       "website": "https://www.crimeandinvestigation.co.uk/",
       "priority": 5
     },
@@ -4646,7 +4615,7 @@
     {
       "name": "IBC Tamil",
       "isFree": true,
-      "keywords": "ibc tamil -canada -sri lanka",
+      "keywords": "ibc tamil -canada -sri -lanka",
       "website": "https://tvibctamil.com/",
       "priority": 5
     },
@@ -4819,11 +4788,6 @@
       "name": "Planet Fun",
       "isFree": true,
       "website": "https://www.mimyuni.com/",
-      "priority": 5
-    },
-    {
-      "name": "Playboy",
-      "isFree": null,
       "priority": 5
     },
     {
@@ -5112,12 +5076,6 @@
       "priority": 5
     },
     {
-      "name": "Television X",
-      "isFree": null,
-      "website": "https://www.televisionx.com/",
-      "priority": 5
-    },
-    {
       "name": "Thane Direct",
       "isFree": true,
       "website": "https://www.thanedirect.co.uk/",
@@ -5261,24 +5219,6 @@
       "priority": 5
     },
     {
-      "name": "Venus",
-      "isFree": true,
-      "website": "http://www.venustv.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Vivid Touch",
-      "isFree": null,
-      "website": "https://redlight.tv/vivid-touch/",
-      "priority": 5
-    },
-    {
-      "name": "Vivid TV Europe",
-      "isFree": null,
-      "website": "https://redlight.tv/vivid-tv-europe/",
-      "priority": 5
-    },
-    {
       "name": "VoxAfrica",
       "isFree": true,
       "website": "http://www.voxafrica.com/",
@@ -5300,12 +5240,6 @@
       "name": "Xpanded",
       "isFree": null,
       "website": "https://xpanded.com/",
-      "priority": 5
-    },
-    {
-      "name": "XXX Girl Girl",
-      "isFree": null,
-      "website": "https://www.televisionx.com/",
       "priority": 5
     },
     {
@@ -5688,7 +5622,7 @@
     {
       "name": "VH",
       "isFree": true,
-      "keywords": "vh1 -adria -classic europe",
+      "keywords": "vh1 -adria -classic -europe",
       "website": "http://vh1e.com/",
       "priority": 5
     },
@@ -5902,13 +5836,7 @@
     {
       "name": "Movies 24",
       "isFree": true,
-      "keywords": "movies 24 -+",
-      "website": "https://www.tvmovies24.com/",
-      "priority": 5
-    },
-    {
-      "name": "Movies 24 +",
-      "isFree": true,
+      "keywords": "movies 24 -plus",
       "website": "https://www.tvmovies24.com/",
       "priority": 5
     },
@@ -5944,7 +5872,7 @@
     {
       "name": "Sky Cinema Sci Fi",
       "isFree": true,
-      "keywords": "sky cinema sci-fi -horror",
+      "keywords": "sky cinema sci-fi-horror",
       "website": "https://www.sky.com/tv/cinema",
       "priority": 5
     },
@@ -6154,7 +6082,7 @@
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "keywords": "national geographic wild -middle east",
+      "keywords": "national geographic wild -middle -east",
       "website": "http://www.natgeowild.co.uk/",
       "priority": 7
     },

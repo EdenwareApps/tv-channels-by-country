@@ -43,3 +43,4 @@ fix_retransmits.js
 review_priorities.js
 test_countries.js
 test_priorities.js
+channels/*.bak*

@@ -48,17 +48,8 @@
       "priority": 5
     },
     {
-      "name": "TV BRICS English",
+      "name": "TV BRICS",
       "isFree": true,
-      "retransmits": "TV BRICS Russian",
-      "shortName": "TV BRICS",
-      "website": "https://tvbrics.com",
-      "priority": 5
-    },
-    {
-      "name": "TV BRICS Russian",
-      "isFree": true,
-      "shortName": "TV BRICS",
       "website": "https://tvbrics.com",
       "priority": 5
     },
@@ -92,17 +83,7 @@
       "priority": 5
     },
     {
-      "name": "РЕН ТВ International",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "СТС Love",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "ТНТ International",
       "isFree": true,
       "priority": 5
     },
@@ -146,18 +127,6 @@
       "name": "AIST",
       "isFree": true,
       "website": "https://aisttv.ru/",
-      "priority": 5
-    },
-    {
-      "name": "Alba XXX HD",
-      "isFree": null,
-      "website": "https://tvlider.net/",
-      "priority": 5
-    },
-    {
-      "name": "Alba XXX HD 2",
-      "isFree": null,
-      "website": "https://tvlider.net/",
       "priority": 5
     },
     {
@@ -282,7 +251,7 @@
     {
       "name": ".black",
       "isFree": true,
-      "keywords": ".black -russia",
+      "keywords": "black -russia",
       "website": "https://ntvplus.ru/channel/-black-318",
       "priority": 5
     },
@@ -552,7 +521,7 @@
     {
       "name": "Eda",
       "isFree": true,
-      "keywords": "eda -premium international",
+      "keywords": "eda -premium -international",
       "website": "https://www.tveda.ru/",
       "priority": 5
     },
@@ -578,12 +547,6 @@
       "name": "Eurasia",
       "isFree": true,
       "website": "https://eurasia.orsk.ru/",
-      "priority": 5
-    },
-    {
-      "name": "Exxxotica",
-      "isFree": null,
-      "website": "http://exxxotica.media/",
       "priority": 5
     },
     {
@@ -705,7 +668,7 @@
     {
       "name": "FOX",
       "isFree": true,
-      "keywords": "fox -life -life russia -russia",
+      "keywords": "fox -life -russia",
       "website": "http://www.foxtv.ru/",
       "priority": 5
     },
@@ -718,7 +681,7 @@
     {
       "name": "Friday!",
       "isFree": true,
-      "keywords": "friday! -international",
+      "keywords": "friday -international",
       "website": "https://friday.ru/",
       "priority": 5
     },
@@ -868,18 +831,6 @@
       "name": "Kinokomedija",
       "isFree": true,
       "website": "https://www.nastroykino.ru/kinokomedija/",
-      "priority": 5
-    },
-    {
-      "name": "Kinoshka Adult",
-      "isFree": null,
-      "website": "https://tvlider.net/",
-      "priority": 5
-    },
-    {
-      "name": "KinoXXX",
-      "isFree": null,
-      "website": "http://oxax.tv/kino-xxx.html",
       "priority": 5
     },
     {
@@ -1048,7 +999,7 @@
     {
       "name": "Moskva",
       "isFree": true,
-      "keywords": "moskva -24 -— otkrytyy mir",
+      "keywords": "moskva -24 -otkrytyy -mir",
       "website": "https://www.doverie-tv.ru/",
       "priority": 5
     },
@@ -1194,7 +1145,7 @@
     {
       "name": "NTV",
       "isFree": true,
-      "keywords": "ntv -law -mir -mir baltic -series -style",
+      "keywords": "ntv -law -mir -baltic -series -style",
       "website": "https://www.ntv.ru",
       "priority": 5
     },
@@ -1435,12 +1386,6 @@
       "priority": 5
     },
     {
-      "name": "Prokop TV XXX",
-      "isFree": true,
-      "website": "https://tvlider.net/",
-      "priority": 5
-    },
-    {
       "name": "Pro Lyubov",
       "isFree": true,
       "website": "https://www.tricolor.tv/channels/pro-lyubov/",
@@ -1497,7 +1442,7 @@
     {
       "name": ".red",
       "isFree": true,
-      "keywords": ".red -russia",
+      "keywords": "red -russia",
       "website": "https://mt.media/channels/red/",
       "priority": 5
     },
@@ -1564,7 +1509,7 @@
     {
       "name": "RTR Planeta",
       "isFree": true,
-      "keywords": "rtr-planeta -asia -cis -europe",
+      "keywords": "rtr-planeta-asia-cis-europe",
       "website": "http://rtr-planeta.com/",
       "priority": 5
     },
@@ -1691,7 +1636,7 @@
     {
       "name": ".sci fi",
       "isFree": true,
-      "keywords": ".sci-fi -russia",
+      "keywords": "sci-fi-russia",
       "website": "https://mt.media/channels/sci-fi/",
       "priority": 5
     },
@@ -1734,12 +1679,6 @@
       "name": "Silk",
       "isFree": null,
       "website": "http://silk2.tv/",
-      "priority": 5
-    },
-    {
-      "name": "SKY HIGH SEX VR",
-      "isFree": null,
-      "website": "https://tvlider.net/",
       "priority": 5
     },
     {
@@ -2065,7 +2004,7 @@
     {
       "name": "TV 4",
       "isFree": true,
-      "keywords": "tv4 -russkoe kino",
+      "keywords": "tv4 -russkoe -kino",
       "website": "https://vokka.online",
       "priority": 5
     },
@@ -2195,18 +2134,6 @@
       "priority": 5
     },
     {
-      "name": "VERAPORN GROUP SEX",
-      "isFree": null,
-      "website": "https://tvlider.net/",
-      "priority": 5
-    },
-    {
-      "name": "VERAPORN GROUP SEX 2",
-      "isFree": null,
-      "website": "https://tvlider.net/",
-      "priority": 5
-    },
-    {
       "name": "Vestnik Nadyma",
       "isFree": true,
       "website": "http://trknadym.ru/",
@@ -2293,12 +2220,6 @@
       "name": "World Fashion Channel International",
       "isFree": true,
       "website": "https://wfc.tv/en",
-      "priority": 5
-    },
-    {
-      "name": "XXX Love's Berry",
-      "isFree": null,
-      "website": "https://tvlider.net/",
       "priority": 5
     },
     {
@@ -2539,589 +2460,233 @@
       "priority": 5
     },
     {
-      "name": "History RU",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "History 2 RU",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "VIP Serial RU",
+      "name": "Кино UHD",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Кино UHD RU",
+      "name": "Cinema",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Cinema RU",
+      "name": "KinoJam 1",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "KinoJam 1 RU",
+      "name": "KinoJam 2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "KinoJam 2 RU",
+      "name": "1HD Music TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Plan B RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Trash RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "AIVA RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "1HD Music TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ultra HD Cinema RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Okko Sport RU",
+      "name": "Okko Sport",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Start World RU",
+      "name": "СТС Kids",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Duck TV RU",
+      "name": "Sony Sci Fi",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Nature/History RU",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "Hollywood RU",
+      "name": "VH1 Europe",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Start Air RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "СТС Kids RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Viju+ Comedy RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Viju+ Megahit RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Viju+ Premier RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Viasat History RU",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "Sony Sci Fi RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "FOX Life RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Bollywood RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ocean TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "VH1 Europe RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Eurosport 2 RU",
+      "name": "Viasat Sport",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Viasat Sport RU",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Extreme sports RU",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Gulli Girl RU",
+      "name": "Fashion TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Mezzo Live RU",
+      "name": "DocuBox",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Amedia Premium RU",
+      "name": "Epic Drama",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Че RU",
+      "name": "Luxury",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Fashion TV RU",
+      "name": "Luxury World",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": ".Black RU",
+      "name": "TraceUrban",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TiJi RU",
+      "name": "Fast & FunBox",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "О! RU",
+      "name": "M1 Global",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "RT International RU",
+      "name": "RU TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "DocuBox RU",
+      "name": "World Fashion Channel",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "CGTN Русский RU",
+      "name": "Fashion One",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Перец International RU",
+      "name": "FightBox",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Epic Drama RU",
+      "name": "А1",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Filmbox Arthouse RU",
+      "name": "RTG TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "DTX RU",
+      "name": "RTG TV HD",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Luxury RU",
+      "name": "RT Español",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Luxury World RU",
+      "name": "RT Arab",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TLC RU",
+      "name": "Bridge TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Bridge TV Шлягер RU",
+      "name": "Amedia Hit",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Music Box Gold RU",
+      "name": "C Music TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TraceUrban RU",
+      "name": "Da Vinci Learning",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Clubbing TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Fast & FunBox RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Fuel TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "M1 Global RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RU TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Boomerang RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "FOX RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Eurosport 1 RU",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Outdoor Channel RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "World Fashion Channel RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Fashion One RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "FightBox RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "ID RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "ТНТ International RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "А1 RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Food Network RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Russian Musicbox RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RT Doc English RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Mama RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTG TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTG TV HD RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTG TV International RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RT Español RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RT Arab RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "KHL RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "СТС Love RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Mezzo RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "MCM TOP RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Bridge TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Amedia Hit RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "C Music TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTVi RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Da Vinci Learning RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV XXI RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "English Club RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Discovery Channel RU",
+      "name": "Discovery Channel",
       "isFree": true,
       "priority": 7
     },
     {
-      "name": "Discovery Science RU",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "National Geographic RU",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "Sony Channel RU",
+      "name": "Bridge TV Русский Хит",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Bridge TV Hits RU",
+      "name": "Viasat Nature",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Bridge TV Русский Хит RU",
+      "name": "А2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Nature RU",
+      "name": "ТНТ Music",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "А2 RU",
+      "name": "Ю",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "ТНТ Music RU",
+      "name": "Viasat Kino World",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Disney Channel RU",
+      "name": "Viasat Kino Action",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Ю RU",
+      "name": "Viasat Kino",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Kino World RU",
+      "name": "Viasat Kino Megahit",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Explore RU",
+      "name": "TV1000",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Kino Action RU",
+      "name": "TV1000 Action",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Kino RU",
+      "name": "Travel + Adventure",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Kino Comedy RU",
+      "name": "A2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Viasat Kino Megahit RU",
+      "name": "Shot TV",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV1000 RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV1000 Action RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Travel + Adventure RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "A1 RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "A2 RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": ".Red RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Shot TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Zee TV RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Dorama RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ani RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Bridge Deluxe RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Bridge TV Classic RU",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTG",
-      "isFree": true,
-      "website": "http://www.rtgtv.ru/channels/rtgtv",
       "priority": 5
     }
   ],
@@ -3343,16 +2908,6 @@
       "priority": 5
     },
     {
-      "name": "Канал Disney",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "СТС Kids",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Ani",
       "isFree": true,
       "website": "https://ani.tlum.ru/",
@@ -3439,7 +2994,7 @@
     {
       "name": "Mult",
       "isFree": true,
-      "keywords": "mult -i muzyka",
+      "keywords": "mult -i -muzyka",
       "website": "http://mult-channel.ru/",
       "priority": 5
     },
@@ -3514,11 +3069,6 @@
       "name": "Skazki zayki",
       "isFree": true,
       "website": "https://skazki-zayki.com/",
-      "priority": 5
-    },
-    {
-      "name": "SKY HIGH ADULT",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -3608,11 +3158,6 @@
     },
     {
       "name": "Leomax Plus",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Luxury",
       "isFree": true,
       "priority": 4
     },
@@ -3801,7 +3346,7 @@
     {
       "name": "Match!",
       "isFree": true,
-      "keywords": "match! -arena -boets -futbol 1 -futbol 2 -futbol 3 -igra -planeta -premier -strana",
+      "keywords": "match -arena -boets -futbol -1 -2 -3 -igra -planeta -premier -strana",
       "website": "https://matchtv.ru/channel/matchtv",
       "priority": 5
     },
@@ -4057,7 +3602,7 @@
     {
       "name": "National Geographic",
       "isFree": true,
-      "keywords": "national geographic -wild russia",
+      "keywords": "national geographic -wild -russia",
       "priority": 7
     },
     {
@@ -4568,7 +4113,7 @@
     {
       "name": "Zhara",
       "isFree": true,
-      "keywords": "zhara -kids tv",
+      "keywords": "zhara -kids -tv",
       "website": "https://zhara.tv/",
       "priority": 5
     },
@@ -4587,7 +4132,7 @@
     {
       "name": "Nashe",
       "isFree": true,
-      "keywords": "nashe -krutoe -lubimoe kino -muzhskoe -novoe kino",
+      "keywords": "nashe -krutoe -lubimoe -kino -muzhskoe -novoe",
       "website": "https://www.tricolor.tv/channels/nashe/",
       "priority": 5
     }
@@ -4602,20 +4147,12 @@
       "priority": 5
     },
     {
-      "name": "Amedia Hit",
-      "priority": 5
-    },
-    {
       "name": "Backus",
       "keywords": "backus tv -страшное",
       "priority": 5
     },
     {
       "name": "Backus TV Страшное",
-      "priority": 5
-    },
-    {
-      "name": "Cinema",
       "priority": 5
     },
     {
@@ -4887,7 +4424,7 @@
     {
       "name": "Kino 18+",
       "isFree": null,
-      "keywords": "kino 18+ -international",
+      "keywords": "kino 18plus -international",
       "website": "https://catcast.tv/tvikseltv_kino18",
       "priority": 5
     },
@@ -4921,11 +4458,6 @@
     },
     {
       "name": "KinoJam",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "KinoJam 2",
       "isFree": true,
       "priority": 5
     },
@@ -5399,12 +4931,6 @@
       "name": "viju TV1000 russkoe",
       "isFree": true,
       "website": "https://viju.ru/telekanaly/viju-tv1000-russkoe",
-      "priority": 5
-    },
-    {
-      "name": "Yosso TV Sexy",
-      "isFree": true,
-      "website": "https://tvlider.net/",
       "priority": 5
     }
   ],

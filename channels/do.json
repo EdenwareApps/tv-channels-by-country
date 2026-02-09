@@ -265,7 +265,7 @@
     {
       "name": "Vallevision",
       "isFree": true,
-      "keywords": "vallevision -canal 10",
+      "keywords": "vallevision -canal -10",
       "priority": 5
     },
     {
@@ -743,7 +743,7 @@
     {
       "name": "GH Television",
       "isFree": true,
-      "keywords": "gh television -canal 10",
+      "keywords": "gh television -canal -10",
       "website": "https://ghtelevision.com/",
       "priority": 5
     },
@@ -1053,7 +1053,7 @@
     {
       "name": "PHTV",
       "isFree": true,
-      "keywords": "phtv -canal 34",
+      "keywords": "phtv -canal -34",
       "priority": 5
     },
     {
@@ -1083,7 +1083,7 @@
     {
       "name": "Punto",
       "isFree": true,
-      "keywords": "punto tv -digital 40",
+      "keywords": "punto tv -digital -40",
       "website": "https://dominicanchannels.com/punto-tv-canal-40/",
       "priority": 5
     },
@@ -1286,7 +1286,7 @@
     {
       "name": "Telefuturo",
       "isFree": true,
-      "keywords": "telefuturo -canal 23",
+      "keywords": "telefuturo -canal -23",
       "website": "http://telefuturo.com.do/",
       "priority": 5
     },
@@ -1424,7 +1424,7 @@
     {
       "name": "Television A",
       "isFree": true,
-      "keywords": "television a1 -canal 2",
+      "keywords": "television a1 -canal -2",
       "website": "https://www.televisiona1.com/",
       "priority": 5
     },

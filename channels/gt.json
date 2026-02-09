@@ -797,7 +797,7 @@
     {
       "name": "Vision",
       "isFree": true,
-      "keywords": "vision tv -canal 99",
+      "keywords": "vision tv -canal -99",
       "website": "https://www.visiontv.com.gt/",
       "priority": 5
     },

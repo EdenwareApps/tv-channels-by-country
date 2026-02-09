@@ -87,7 +87,7 @@
       "priority": 5
     },
     {
-      "name": "One PH",
+      "name": "One",
       "isFree": true,
       "website": "https://cignal.tv/channels/174/one-ph",
       "priority": 5
@@ -230,169 +230,44 @@
       "priority": 5
     },
     {
-      "name": "GMA Life PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "GMA Pinoy PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "GMA News PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Premier Football PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Premier Sports 1 PH",
+      "name": "Premier Sports 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Premier Sports 2 PH",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Tap Movies PH",
+      "name": "Tap Actionflix",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Tap Edge PH",
+      "name": "The Filipino Channel",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Tap TV PH",
+      "name": "ABS CBN News",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Tap Actionflix PH",
+      "name": "GMA 7",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Tap Sports PH",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Cinema Wrld PH",
+      "name": "AXN",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "One Sports PH",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "MYX PH",
+      "name": "Crime and Investigation",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "The Filipino Channel PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "ABS CBN News PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Kapamilya Channel PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV 5 PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "GMA 7 PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "IBC 13 PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "AXN PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Animax PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Cinema One PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Cinemax PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Crime and Investigation PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "History Channel PH",
+      "name": "History Channel",
       "isFree": true,
       "priority": 7
-    },
-    {
-      "name": "Jeepney TV PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "PBO PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Tagalized Movie Channel PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Telenovela Channel PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Viva Cinema PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "GTV PH",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "PTV PH",
-      "isFree": true,
-      "priority": 5
     }
   ],
   "Religious": [
@@ -588,7 +463,7 @@
     {
       "name": "GMA Pinoy",
       "isFree": true,
-      "keywords": "gma pinoy tv -asia-pacific -middle east -usa & canada",
+      "keywords": "gma pinoy tv -asia -pacific -middle -east -usa -canada",
       "website": "http://www.gmanetwork.com/international",
       "priority": 5
     },
@@ -810,7 +685,7 @@
     {
       "name": "Myx",
       "isFree": true,
-      "keywords": "myx -middle east",
+      "keywords": "myx -middle -east",
       "website": "https://myx.global/",
       "priority": 5
     },
@@ -868,13 +743,10 @@
       "name": "One Sports",
       "isFree": true,
       "website": "http://plus.tv5.com.ph/",
-      "priority": 10
-    },
-    {
-      "name": "One Sports+",
-      "isFree": true,
-      "website": "https://cignal.tv/channels/134/one-sports-hd",
-      "priority": 10
+      "priority": 10,
+      "_altWebsites": [
+        "https://cignal.tv/channels/134/one-sports-hd"
+      ]
     },
     {
       "name": "PBA Rush",

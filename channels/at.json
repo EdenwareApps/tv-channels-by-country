@@ -148,7 +148,7 @@
   ],
   "Entertainment": [
     {
-      "name": "Der Serienkanal - AT",
+      "name": "Der Serienkanal -",
       "isFree": true,
       "priority": 5
     },
@@ -158,7 +158,7 @@
       "priority": 5
     },
     {
-      "name": "Drama - AT",
+      "name": "Drama -",
       "isFree": true,
       "priority": 5
     },
@@ -168,7 +168,7 @@
       "priority": 5
     },
     {
-      "name": "Family - AT",
+      "name": "Family -",
       "isFree": true,
       "priority": 5
     },
@@ -238,7 +238,7 @@
       "priority": 5
     },
     {
-      "name": "Spotlight - AT",
+      "name": "Spotlight -",
       "isFree": true,
       "priority": 5
     },
@@ -692,11 +692,11 @@
   ],
   "Movies & Series": [
     {
-      "name": "Action Movies - AT",
+      "name": "Action Movies -",
       "priority": 5
     },
     {
-      "name": "Comedy Movies - AT",
+      "name": "Comedy Movies -",
       "priority": 5
     },
     {

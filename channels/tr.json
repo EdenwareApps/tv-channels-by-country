@@ -255,367 +255,147 @@
       "priority": 5
     },
     {
-      "name": "beIN Sports 1 TR",
+      "name": "beIN Sports 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Sports 2 TR",
+      "name": "beIN Sports 2",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Sports 3 TR",
+      "name": "beIN Sports 3",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Sports 4 TR",
+      "name": "beIN Sports 4",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Sports Haber TR",
+      "name": "beIN Sports 5",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Sports 5 TR",
+      "name": "beIN Series 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "beIN Sports Max 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Movies Stars TR",
+      "name": "TV8",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN TR",
+      "name": "Show TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN Movies Turk TR",
+      "name": "Semerkand TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN H&E TR",
+      "name": "KRT TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN Series 1 TR",
+      "name": "TRT Spor 2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN Series 2 TR",
+      "name": "24",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN Movies Premiere TR",
+      "name": "Star TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN İZ TR",
+      "name": "TRT 1",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN Gurme TR",
+      "name": "TRT Kurdî",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "beIN Sports Max 1 TR",
+      "name": "TRT Diyanet",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Eurosport 2",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Sports Max 2 TR",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "DMAX TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "FX TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Cartoon Network TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV8 TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Show TV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Kanal 7 TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT World TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "National Geographic TR",
+      "name": "Discovery Channel",
       "isFree": true,
       "priority": 7
     },
     {
-      "name": "Semerkand TV TR",
+      "name": "Ekol TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Meltem TV TR",
+      "name": "FB TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TV 100 TR",
+      "name": "Kanal B",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Haber Global TR",
+      "name": "Ulusal 1",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "KRT TV TR",
+      "name": "A2 TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TRT Spor 2 TR",
+      "name": "SinemaTV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "24 TR",
+      "name": "Sinema TV Yerli",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "A Haber TR",
+      "name": "Sinema TV Aksiyon",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "NTV TR",
+      "name": "SinemaTV Aile",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TRT Müzik TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Cocuk TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ülke TV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CNN Turk TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ekotürk TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Kanal D TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Now TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Star TV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT 1 TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV 2 TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Haber TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Turk TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Kurdî TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Avaz TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Al Arabiya TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Diyanet TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Nat Geo Wild TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Eurosport 1 TR",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Eurosport 2 TR",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Discovery Channel TR",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "ATV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ekol TV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "HT Spor TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "FB TV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Viasat Explore TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Haber Turk TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "A Spor TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Kanal B TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVNET TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ulusal 1 TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "minika Cocuk TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TMB TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "A2 TV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SinemaTV TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Sinema TV Yerli TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Sinema TV Aksiyon TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SinemaTV Aile TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SinemaTV 1001 TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SinemaTV Komedi TR",
+      "name": "SinemaTV 1001",
       "isFree": true,
       "priority": 5
     }
@@ -897,7 +677,7 @@
     {
       "name": "TRT Cocuk",
       "isFree": true,
-      "keywords": "trt cocuk -+8",
+      "keywords": "trt cocuk -plus8",
       "website": "https://www.trtcocuk.net.tr/",
       "priority": 5
     },
@@ -915,11 +695,6 @@
     }
   ],
   "Entertainment": [
-    {
-      "name": "24",
-      "isFree": true,
-      "priority": 5
-    },
     {
       "name": "AA Live",
       "isFree": true,
@@ -1103,11 +878,6 @@
     },
     {
       "name": "Deha",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Deni̇z Postasi",
       "isFree": true,
       "priority": 5
     },
@@ -1346,7 +1116,7 @@
     {
       "name": "Kanal 7",
       "isFree": true,
-      "keywords": "kanal 7 -avrupa -avrupa hd",
+      "keywords": "kanal 7 -avrupa -hd",
       "priority": 5
     },
     {
@@ -1359,17 +1129,6 @@
     {
       "name": "Kanal Alanya",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Kanal B",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Kanal D",
-      "isFree": true,
-      "keywords": "kanal d",
       "priority": 5
     },
     {
@@ -1630,11 +1389,6 @@
       "priority": 5
     },
     {
-      "name": "TLC TR",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TR 24",
       "isFree": true,
       "priority": 5
@@ -1655,27 +1409,7 @@
       "priority": 5
     },
     {
-      "name": "TRT Avaz",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TRT Belgesel",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Diyanet",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT EBA Ilkokul",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT EBA Lise",
       "isFree": true,
       "priority": 5
     },
@@ -1685,27 +1419,7 @@
       "priority": 5
     },
     {
-      "name": "TRT Haber",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TRT Kurdi",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Kurdî",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Muzik",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TRT Türk",
       "isFree": true,
       "priority": 5
     },
@@ -1749,7 +1463,7 @@
     {
       "name": "TV 4",
       "isFree": true,
-      "keywords": "tv 4 | tv4 -hd turkiye",
+      "keywords": "tv 4 | tv4 -hd -turkiye",
       "shortName": "TV 4",
       "priority": 5
     },
@@ -1775,11 +1489,6 @@
     },
     {
       "name": "Toprak",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Torba",
       "isFree": true,
       "priority": 5
     },
@@ -1911,7 +1620,7 @@
     {
       "name": "ATV",
       "isFree": true,
-      "keywords": "atv -+8 -alanya -avrupa",
+      "keywords": "atv -plus8 -alanya -avrupa",
       "website": "https://www.atv.com.tr/",
       "priority": 5
     },
@@ -2179,18 +1888,12 @@
     {
       "name": "GEM River",
       "isFree": true,
-      "keywords": "gem river -+",
+      "keywords": "gem river -plus",
       "website": "https://www.gemgroup.tv/",
       "priority": 5
     },
     {
       "name": "GEM River +",
-      "isFree": true,
-      "website": "https://www.gemgroup.tv/",
-      "priority": 5
-    },
-    {
-      "name": "GEM Travel",
       "isFree": true,
       "website": "https://www.gemgroup.tv/",
       "priority": 5
@@ -2529,7 +2232,7 @@
     {
       "name": "TRT Turk",
       "isFree": true,
-      "keywords": "trt turk -+8",
+      "keywords": "trt turk -plus8",
       "website": "https://www.trtturk.com.tr/",
       "priority": 5
     },
@@ -2824,13 +2527,7 @@
     {
       "name": "GEM Drama",
       "isFree": true,
-      "keywords": "gem drama -+",
-      "website": "https://www.gemgroup.tv/",
-      "priority": 5
-    },
-    {
-      "name": "GEM Drama +",
-      "isFree": true,
+      "keywords": "gem drama -plus",
       "website": "https://www.gemgroup.tv/",
       "priority": 5
     },
@@ -2855,20 +2552,13 @@
     {
       "name": "GEM Rubix",
       "isFree": true,
-      "keywords": "gem rubix -+",
+      "keywords": "gem rubix -plus",
       "website": "https://www.gemgroup.tv/",
       "priority": 5
     },
     {
       "name": "GEM Rubix +",
       "isFree": true,
-      "website": "https://www.gemgroup.tv/",
-      "priority": 5
-    },
-    {
-      "name": "GEM Series",
-      "isFree": true,
-      "keywords": "gem series -+",
       "website": "https://www.gemgroup.tv/",
       "priority": 5
     },
@@ -2881,13 +2571,7 @@
     {
       "name": "GEM",
       "isFree": true,
-      "keywords": "gem tv -+",
-      "website": "https://www.gemgroup.tv/",
-      "priority": 5
-    },
-    {
-      "name": "GEM TV +",
-      "isFree": true,
+      "keywords": "gem tv -plus",
       "website": "https://www.gemgroup.tv/",
       "priority": 5
     },
@@ -3026,13 +2710,7 @@
     {
       "name": "GEM Mifa",
       "isFree": true,
-      "keywords": "gem mifa -+",
-      "website": "https://www.gemgroup.tv/",
-      "priority": 5
-    },
-    {
-      "name": "GEM Mifa +",
-      "isFree": true,
+      "keywords": "gem mifa -plus",
       "website": "https://www.gemgroup.tv/",
       "priority": 5
     },

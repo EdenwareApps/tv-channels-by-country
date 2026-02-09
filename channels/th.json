@@ -4,7 +4,7 @@
       "name": "ABC Australia",
       "isFree": null,
       "priority": 5,
-      "keywords": "abc australia -(asia-pacific tv channel)"
+      "keywords": "abc australia -asia -pacific -tv -channel"
     },
     {
       "name": "ABC News Live",
@@ -49,7 +49,7 @@
     {
       "name": "Animal Planet",
       "isFree": null,
-      "keywords": "animal planet -(asia)",
+      "keywords": "animal planet -asia",
       "priority": 5
     },
     {
@@ -235,7 +235,7 @@
     {
       "name": "Discovery",
       "isFree": null,
-      "keywords": "discovery channel (south east asian tv channel) | discovery channel (southeast asian tv channel)",
+      "keywords": "discovery channel south east asian tv channel | discovery channel southeast asian tv channel",
       "priority": 7,
       "_alt_origName": [
         "Discovery Channel (South East Asian TV channel)"
@@ -372,7 +372,7 @@
       "name": "KBS World",
       "isFree": null,
       "priority": 5,
-      "keywords": "kbs world -(tv channel)"
+      "keywords": "kbs world -tv -channel"
     },
     {
       "name": "Kix",
@@ -774,7 +774,7 @@
     {
       "name": "True Sport",
       "isFree": null,
-      "keywords": "true sport -5 -7 -hd 1 -hd 2 -hd 3 -hd 4",
+      "keywords": "true sport -5 -7 -hd -1 -2 -3 -4",
       "priority": 10
     },
     {
@@ -970,11 +970,6 @@
     },
     {
       "name": "Toonami",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "CCTV 4",
       "isFree": null,
       "priority": 5
     },

@@ -16,14 +16,9 @@
       "priority": 4
     },
     {
-      "name": "Al-Resalah",
-      "isFree": true,
-      "priority": 4
-    },
-    {
       "name": "Iqraa",
       "isFree": true,
-      "keywords": "iqraa -europe africa",
+      "keywords": "iqraa -europe -africa",
       "priority": 4
     },
     {
@@ -525,11 +520,6 @@
     },
     {
       "name": "Romance",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Rotana Aflam",
       "isFree": true,
       "priority": 5
     },

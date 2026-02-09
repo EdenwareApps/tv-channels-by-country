@@ -25,11 +25,6 @@
       "priority": 5
     },
     {
-      "name": "Alpe d’Huez",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Amuse Animation",
       "isFree": true,
       "priority": 5
@@ -87,7 +82,7 @@
     {
       "name": "C Star",
       "isFree": true,
-      "keywords": "c star -hits france | cstar",
+      "keywords": "c star -hits -france | cstar",
       "priority": 5
     },
     {
@@ -391,7 +386,7 @@
     {
       "name": "TF",
       "isFree": true,
-      "keywords": "tf1 -series films",
+      "keywords": "tf1 -series -films",
       "website": "https://www.tf1.fr",
       "priority": 5
     },
@@ -432,7 +427,7 @@
       "priority": 5
     },
     {
-      "name": "TV5Monde Francia FR",
+      "name": "TV5Monde Francia",
       "isFree": true,
       "priority": 5
     },
@@ -636,7 +631,7 @@
     },
     {
       "name": "Canal+",
-      "keywords": "canal+ -action centre -action myanmar -action ouest -box office -caraibes -cinema centre -cinema ouest -cinema reunion -cinemas -decale -docs -elles centre -elles ouest -family -family centre -family ouest -foot -formula 1 -grand ecran -ha ha! -kids -motogp -pop centre -pop ouest -premier league -premiere centre -premiere ouest -series -series reunion -sport -sport 1 -sport 2 -sport 3 -sport 360 -sport 4 -sport 5 -sport reunion -sports myanmar -top 14",
+      "keywords": "canalplus -action -centre -myanmar -ouest -box -office -caraibes -cinema -reunion -cinemas -decale -docs -elles -family -foot -formula -1 -grand -ecran -ha -kids -motogp -pop -premier -league -premiere -series -sport -2 -3 -360 -4 -5 -sports -top -14",
       "website": "https://www.canalplus.com",
       "priority": 5
     },
@@ -667,7 +662,7 @@
     {
       "name": "Canal+ Family",
       "isFree": true,
-      "keywords": "canal+ family -centre -ouest",
+      "keywords": "canalplus family -centre -ouest",
       "website": "https://www.canalplus.com/",
       "priority": 5
     },
@@ -848,7 +843,7 @@
     {
       "name": "FashionTV Paris",
       "isFree": true,
-      "keywords": "fashiontv paris -l'original",
+      "keywords": "fashiontv paris -l -original",
       "website": "https://www.fashiontv.com/",
       "priority": 5
     },
@@ -1144,7 +1139,7 @@
     {
       "name": "OCS",
       "isFree": true,
-      "keywords": "ocs -choc -city -city generation hbo -geants -happy -max -novo -pulp",
+      "keywords": "ocs -choc -city -generation -hbo -geants -happy -max -novo -pulp",
       "priority": 5
     },
     {
@@ -1213,18 +1208,6 @@
       "priority": 5
     },
     {
-      "name": "Pink",
-      "isFree": true,
-      "website": "http://www.pinktv.fr/",
-      "priority": 5
-    },
-    {
-      "name": "Pink X",
-      "isFree": null,
-      "website": "https://pinkx.eu/",
-      "priority": 5
-    },
-    {
       "name": "Piwi+",
       "isFree": true,
       "website": "http://www.piwi.tv/",
@@ -1233,7 +1216,7 @@
     {
       "name": "Planete+",
       "isFree": true,
-      "keywords": "planete+ -aventure -crime -thalassa",
+      "keywords": "planeteplus -aventure -crime -thalassa",
       "website": "http://planeteplus.com/",
       "priority": 5
     },
@@ -1252,11 +1235,6 @@
     {
       "name": "Polar+",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Private Spice",
-      "isFree": null,
       "priority": 5
     },
     {
@@ -1485,7 +1463,7 @@
     {
       "name": "TV5 Monde",
       "isFree": true,
-      "keywords": "tv5 monde -europe -info -usa | tv5monde -africa -asia -europe -france belgium switzerland monaco -francia fr -info -latin america -maghreb-orient -pacific -style",
+      "keywords": "tv5 monde -europe -info -usa | tv5monde -africa -asia -france -belgium -switzerland -monaco -francia -fr -latin -america -maghreb -orient -pacific -style",
       "website": "http://www.tv5monde.com/",
       "priority": 5
     },
@@ -1563,7 +1541,7 @@
     {
       "name": "TV Pitchoun",
       "isFree": true,
-      "keywords": "tv pitchoun -kids music",
+      "keywords": "tv pitchoun -kids -music",
       "priority": 5
     },
     {
@@ -1633,7 +1611,7 @@
     {
       "name": "Via Occitanie",
       "isFree": true,
-      "keywords": "via occitanie | viaoccitanie -montpellier -pays catalan -pays gardois -toulouse",
+      "keywords": "via occitanie | viaoccitanie -montpellier -pays -catalan -gardois -toulouse",
       "website": "https://viaoccitanie.tv/",
       "priority": 5
     },
@@ -1710,12 +1688,6 @@
       "priority": 5
     },
     {
-      "name": "XXL",
-      "isFree": null,
-      "website": "https://www.xxltv.fr/",
-      "priority": 5
-    },
-    {
       "name": "Automoto La chaîne",
       "isFree": null,
       "priority": 5
@@ -1753,11 +1725,6 @@
     },
     {
       "name": "Chasse et Pêche",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Dorcel",
       "isFree": null,
       "priority": 5
     },
@@ -1992,7 +1959,7 @@
     {
       "name": "Télétoon+",
       "isFree": null,
-      "keywords": "teletoon+ -(france)",
+      "keywords": "teletoonplus -france",
       "priority": 5
     },
     {
@@ -2003,7 +1970,7 @@
     {
       "name": "Ushuaïa",
       "isFree": null,
-      "keywords": "ushuaia tv -for change",
+      "keywords": "ushuaia tv -for -change",
       "priority": 5
     },
     {
@@ -2027,22 +1994,12 @@
       "priority": 5
     },
     {
-      "name": "Hustler",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "Ligue 1+",
       "isFree": null,
       "priority": 5
     },
     {
       "name": "MCM",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Penthouse",
       "isFree": null,
       "priority": 5
     },
@@ -2352,11 +2309,6 @@
       "priority": 5
     },
     {
-      "name": "Penthouse HDTV",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "M6 Boutique & Co",
       "isFree": null,
       "priority": 5
@@ -2364,7 +2316,7 @@
     {
       "name": "M6 Boutique",
       "isFree": null,
-      "keywords": "m6 boutique -& co",
+      "keywords": "m6 boutique -co",
       "priority": 5
     },
     {
@@ -2398,11 +2350,6 @@
       "priority": 5
     },
     {
-      "name": "Numéro 23",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "M6 Music Black",
       "isFree": null,
       "priority": 5
@@ -2410,7 +2357,7 @@
     {
       "name": "Ciné+",
       "isFree": null,
-      "keywords": "cine+ -ocs",
+      "keywords": "cineplus -ocs",
       "priority": 5
     },
     {
@@ -2616,7 +2563,7 @@
     {
       "name": "Le Figaro",
       "isFree": null,
-      "keywords": "le figaro tv -ile-de-france",
+      "keywords": "le figaro tv -ile -de -france",
       "priority": 5
     },
     {
@@ -2637,11 +2584,6 @@
     },
     {
       "name": "Union",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Vixen",
       "isFree": null,
       "priority": 5
     },
@@ -3481,12 +3423,6 @@
       "priority": 5
     },
     {
-      "name": "Journal Du Golf",
-      "isFree": true,
-      "website": "http://www.journaldugolf.fr/",
-      "priority": 5
-    },
-    {
       "name": "Mezzo",
       "isFree": true,
       "keywords": "mezzo -live",
@@ -3496,7 +3432,7 @@
     {
       "name": "Fashion",
       "isFree": true,
-      "keywords": "fashion tv -new york -paris -paris-mumbai -pg13 -pg16 -singapore -tokyo -uhd",
+      "keywords": "fashion tv -new -york -paris -mumbai -pg13 -pg16 -singapore -tokyo -uhd",
       "website": "https://www.fashiontv.com/",
       "priority": 5
     },
@@ -3872,7 +3808,7 @@
     {
       "name": "Gulli",
       "isFree": true,
-      "keywords": "gulli -bil arabi",
+      "keywords": "gulli -bil -arabi",
       "priority": 5
     },
     {
@@ -3906,7 +3842,7 @@
     {
       "name": "Game One",
       "isFree": true,
-      "keywords": "game one -music hd",
+      "keywords": "game one -music -hd",
       "website": "https://gameone.net",
       "priority": 5
     },
@@ -4075,7 +4011,7 @@
     {
       "name": "Eurosport",
       "isFree": true,
-      "keywords": "eurosport -1 -2 -3 -360 hd 1 -360 hd 2 -360 hd 3 -360 hd 4 -360 hd 5 -360 hd 6 -360 hd 7 -360 hd 8 -360 hd 9 -4 -4k -5 -6 -7 -8 -9",
+      "keywords": "eurosport -1 -2 -3 -360 -hd -4 -5 -6 -7 -8 -9 -4k",
       "website": "https://www.eurosport.fr/",
       "priority": 10
     },
@@ -4196,7 +4132,7 @@
     {
       "name": "Foot+",
       "isFree": true,
-      "keywords": "foot+ -24/24",
+      "keywords": "footplus -24",
       "website": "http://www.canalsat.fr/",
       "priority": 5
     },
@@ -4438,7 +4374,7 @@
     {
       "name": "A+",
       "isFree": true,
-      "keywords": "a+ -international",
+      "keywords": "aplus -international",
       "website": "https://www.a-plus.com/",
       "priority": 5
     },
@@ -4677,7 +4613,7 @@
     {
       "name": "Melody",
       "isFree": true,
-      "keywords": "melody -d'afrique",
+      "keywords": "melody -d -afrique",
       "website": "https://www.melody.tv/",
       "priority": 5
     },
@@ -4756,7 +4692,7 @@
     {
       "name": "Qwest",
       "isFree": true,
-      "keywords": "qwest tv -classical -jazz & beyond -mix",
+      "keywords": "qwest tv -classical -jazz -beyond -mix",
       "website": "https://www.qwest.tv/",
       "priority": 5
     },
@@ -4899,7 +4835,8 @@
     {
       "name": "Wildside",
       "keywords": "wild side tv | wildside tv",
-      "priority": 5
+      "priority": 5,
+      "isFree": true
     },
     {
       "name": "Afro Novelas",
@@ -4969,7 +4906,7 @@
     {
       "name": "Canal+ Series",
       "isFree": true,
-      "keywords": "canal+ series -reunion",
+      "keywords": "canalplus series -reunion",
       "website": "https://www.canalplus.com/series/",
       "priority": 5
     },
@@ -5097,7 +5034,7 @@
     {
       "name": "OCS City",
       "isFree": true,
-      "keywords": "ocs city -generation hbo",
+      "keywords": "ocs city -generation -hbo",
       "website": "http://www.ocs.fr/ocscity/",
       "priority": 5
     },
@@ -5157,12 +5094,6 @@
     },
     {
       "name": "Persiana Family",
-      "isFree": true,
-      "website": "https://persianagroup.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Persiana Family+",
       "isFree": true,
       "website": "https://persianagroup.tv/",
       "priority": 5
@@ -5257,11 +5188,6 @@
       "isFree": true,
       "keywords": "warner tv -next",
       "website": "http://www.warnertv.fr/",
-      "priority": 5
-    },
-    {
-      "name": "Wild Side",
-      "isFree": true,
       "priority": 5
     }
   ],

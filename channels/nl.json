@@ -88,7 +88,7 @@
     {
       "name": "Omroep P&M",
       "isFree": true,
-      "keywords": "omroep p&m",
+      "keywords": "omroep p m",
       "priority": 5
     },
     {
@@ -165,11 +165,6 @@
     },
     {
       "name": "Insight",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Insight+",
       "isFree": true,
       "priority": 5
     },
@@ -261,7 +256,7 @@
     {
       "name": "Podium.TV",
       "isFree": true,
-      "keywords": "podium.tv -2 -3",
+      "keywords": "podium tv -2 -3",
       "priority": 5
     },
     {
@@ -480,7 +475,7 @@
       "priority": 5
     },
     {
-      "name": "BBC NL",
+      "name": "BBC",
       "isFree": true,
       "website": "https://www.bbcbenelux.com/zenders/nl",
       "priority": 5
@@ -494,12 +489,6 @@
       "name": "Beleef KPN",
       "isFree": true,
       "website": "https://tv.kpn.com/details/899047263.1/beleef-kpn",
-      "priority": 5
-    },
-    {
-      "name": "Blue Hustler",
-      "isFree": null,
-      "website": "https://www.bluehustler.com/",
       "priority": 5
     },
     {
@@ -562,25 +551,6 @@
       "priority": 5
     },
     {
-      "name": "Dorcel",
-      "isFree": null,
-      "keywords": "dorcel tv -africa",
-      "website": "http://www.dorceltv.com/",
-      "priority": 5
-    },
-    {
-      "name": "Dorcel TV Africa",
-      "isFree": null,
-      "website": "https://www.dorcel.com/en/dorceltv-africa/",
-      "priority": 5
-    },
-    {
-      "name": "Dorcel XXX",
-      "isFree": null,
-      "website": "https://www.dorcel.com/group/en/tv-channels/",
-      "priority": 5
-    },
-    {
       "name": "DRTV",
       "isFree": true,
       "priority": 5
@@ -623,12 +593,6 @@
     },
     {
       "name": "EroX",
-      "isFree": null,
-      "website": "http://spiintl.com/channels/erox",
-      "priority": 5
-    },
-    {
-      "name": "EroXXX",
       "isFree": null,
       "website": "http://spiintl.com/channels/erox",
       "priority": 5
@@ -714,18 +678,6 @@
       "name": "HTR",
       "isFree": true,
       "website": "https://htrmedia.evtmedia.nl/index.php/tv",
-      "priority": 5
-    },
-    {
-      "name": "Hustler",
-      "isFree": null,
-      "website": "https://www.hustlerhd.eu/",
-      "priority": 5
-    },
-    {
-      "name": "Hustler TV Europe",
-      "isFree": null,
-      "website": "https://hustlertv.eu/",
       "priority": 5
     },
     {
@@ -999,24 +951,6 @@
       "name": "OUTtv",
       "isFree": true,
       "website": "http://www.outtv.nl/",
-      "priority": 5
-    },
-    {
-      "name": "Passie XXX",
-      "isFree": null,
-      "website": "http://www.passiexxx.nl/",
-      "priority": 5
-    },
-    {
-      "name": "Passion XXX",
-      "isFree": null,
-      "keywords": "passion xxx -2",
-      "website": "https://www.passionxxx.net/",
-      "priority": 5
-    },
-    {
-      "name": "Passion XXX 2",
-      "isFree": null,
       "priority": 5
     },
     {
@@ -1535,7 +1469,7 @@
       "priority": 5
     },
     {
-      "name": "100% NL",
+      "name": "100%",
       "isFree": true,
       "website": "https://www.100p.nl/",
       "priority": 5
@@ -1601,7 +1535,7 @@
       "priority": 5
     },
     {
-      "name": "Radio NL",
+      "name": "Radio",
       "isFree": true,
       "website": "https://www.radionl.tv/",
       "priority": 5
@@ -1826,7 +1760,7 @@
     {
       "name": "Nick Jr.",
       "isFree": true,
-      "keywords": "nick jr. -scandinavia",
+      "keywords": "nick jr -scandinavia",
       "website": "https://www.nickjr.nl/",
       "priority": 5
     },

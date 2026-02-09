@@ -453,7 +453,7 @@
     {
       "name": "CTV",
       "isFree": true,
-      "keywords": "ctv -bravo -classic -news channel",
+      "keywords": "ctv -bravo -classic -news -channel",
       "website": "http://new.ctv.com.tw/",
       "priority": 5
     },
@@ -681,12 +681,6 @@
       "priority": 5
     },
     {
-      "name": "Pandora Pink",
-      "isFree": null,
-      "website": "https://www.pandoramove.tw/",
-      "priority": 5
-    },
-    {
       "name": "Parliamentary",
       "isFree": true,
       "website": "https://www.parliamentarytv.org.tw/#live",
@@ -701,7 +695,7 @@
     {
       "name": "PTS",
       "isFree": true,
-      "keywords": "pts -3 -news 24 -taigi",
+      "keywords": "pts -3 -news -24 -taigi",
       "website": "https://www.pts.org.tw/",
       "priority": 5
     },
@@ -826,7 +820,7 @@
     {
       "name": "TVBS",
       "isFree": true,
-      "keywords": "tvbs -entertainment channel -news",
+      "keywords": "tvbs -entertainment -channel -news",
       "website": "https://www.tvbs.com.tw/",
       "priority": 5
     },

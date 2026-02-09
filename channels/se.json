@@ -20,7 +20,7 @@
     {
       "name": "C More Sport",
       "isFree": true,
-      "keywords": "c more sport -/ sf-kanalen",
+      "keywords": "c more sport -undefined -sf -kanalen",
       "website": "http://www.cmore.se/",
       "priority": 10
     },
@@ -68,7 +68,7 @@
     {
       "name": "TV4 Sport",
       "isFree": true,
-      "keywords": "tv4 sport -live 1 -live 2 -live 3 -live 4 -xtra",
+      "keywords": "tv4 sport -live -1 -2 -3 -4 -xtra",
       "priority": 10
     },
     {
@@ -88,11 +88,6 @@
       "isFree": true,
       "website": "http://www.cmore.se/",
       "priority": 5
-    },
-    {
-      "name": "V Sport",
-      "isFree": true,
-      "priority": 10
     },
     {
       "name": "V Sport 2",
@@ -360,11 +355,6 @@
       "priority": 5
     },
     {
-      "name": "Blue Hustler",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "CBS Reality",
       "isFree": null,
       "priority": 5
@@ -460,11 +450,6 @@
       "priority": 5
     },
     {
-      "name": "Hustler",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "Investigation Discovery",
       "isFree": null,
       "priority": 7
@@ -505,11 +490,6 @@
       "priority": 5
     },
     {
-      "name": "Playboy",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "RT",
       "isFree": null,
       "priority": 5
@@ -526,11 +506,6 @@
     },
     {
       "name": "Sky News",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Spice Television",
       "isFree": null,
       "priority": 5
     },

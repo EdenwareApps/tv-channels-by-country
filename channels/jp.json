@@ -251,7 +251,7 @@
     {
       "name": "ABEMA Korean & Chinese",
       "isFree": true,
-      "keywords": "abema korean & chinese -2",
+      "keywords": "abema korean chinese -2",
       "website": "https://abema.tv/",
       "priority": 5
     },
@@ -1079,12 +1079,6 @@
       "priority": 5
     },
     {
-      "name": "Playboy",
-      "isFree": null,
-      "website": "https://playboychannel.jp/pbc/",
-      "priority": 5
-    },
-    {
       "name": "Power Plat's",
       "isFree": true,
       "website": "http://www.powerplats.co.jp/powerplats/",
@@ -1360,15 +1354,9 @@
       "priority": 5
     },
     {
-      "name": "VENUS",
-      "isFree": null,
-      "website": "http://www.powerplats.co.jp/venus/",
-      "priority": 5
-    },
-    {
       "name": "WakuWaku Japan",
       "isFree": true,
-      "keywords": "wakuwaku japan -south east asia -taiwan",
+      "keywords": "wakuwaku japan -south -east -asia -taiwan",
       "website": "https://www.wakuwakujapan.com/",
       "priority": 5
     },
@@ -1610,11 +1598,6 @@
       "priority": 5
     },
     {
-      "name": "NHK World Japan",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "NTV News 24",
       "isFree": true,
       "priority": 5
@@ -1634,7 +1617,7 @@
     {
       "name": "ABEMA News",
       "isFree": true,
-      "keywords": "abema news -press conference",
+      "keywords": "abema news -press -conference",
       "website": "https://abema.tv/",
       "priority": 5
     },
@@ -1866,7 +1849,7 @@
     {
       "name": "ABEMA Anime",
       "isFree": true,
-      "keywords": "abema anime -2 -80's -90's -live -live 2",
+      "keywords": "abema anime -2 -80 -s -90 -live",
       "website": "https://abema.tv/now-on-air/abema-anime?lang=en",
       "priority": 5
     },

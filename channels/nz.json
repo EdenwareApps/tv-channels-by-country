@@ -90,7 +90,7 @@
       "priority": 5
     },
     {
-      "name": "TVSN NZ",
+      "name": "TVSN",
       "isFree": true,
       "priority": 5
     },
@@ -171,7 +171,7 @@
     {
       "name": "JONES!",
       "isFree": true,
-      "keywords": "jones! -too",
+      "keywords": "jones -too",
       "website": "https://www.sky.co.nz/jones",
       "priority": 5
     },
@@ -427,7 +427,7 @@
     {
       "name": "Sky Sport",
       "isFree": true,
-      "keywords": "sky sport -1 -2 -3 -4 -5 -6 -7 -8 -9 -news -premier league -select",
+      "keywords": "sky sport -1 -2 -3 -4 -5 -6 -7 -8 -9 -news -premier -league -select",
       "website": "https://www.sky.co.nz/sky-sport",
       "priority": 10
     },

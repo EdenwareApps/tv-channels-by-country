@@ -103,11 +103,6 @@
       "priority": 5
     },
     {
-      "name": "TV3+",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "V Film",
       "isFree": null,
       "priority": 5
@@ -233,16 +228,6 @@
       "priority": 7
     },
     {
-      "name": "The Adult",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Playboy",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "Spice Network",
       "isFree": null,
       "priority": 5
@@ -344,11 +329,6 @@
     },
     {
       "name": "Motors",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Penthouse",
       "isFree": null,
       "priority": 5
     },

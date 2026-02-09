@@ -201,22 +201,12 @@
       "priority": 5
     },
     {
-      "name": "EBS+ Europe",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "EbS Live",
       "isFree": true,
       "priority": 5
     },
     {
       "name": "EbS+ Live",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Een",
       "isFree": true,
       "priority": 5
     },
@@ -267,12 +257,7 @@
       "priority": 5
     },
     {
-      "name": "TVO",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "XITE BE",
+      "name": "XITE",
       "isFree": true,
       "priority": 5
     },
@@ -363,14 +348,14 @@
     {
       "name": "EbS",
       "isFree": true,
-      "keywords": "ebs -live",
+      "keywords": "ebs -live | ebsplus",
       "website": "https://audiovisual.ec.europa.eu/",
       "priority": 5
     },
     {
       "name": "EbS+",
       "isFree": true,
-      "keywords": "ebs+ -live",
+      "keywords": "ebsplus -live",
       "website": "https://audiovisual.ec.europa.eu/",
       "priority": 5
     },
@@ -384,12 +369,6 @@
       "name": "Focus",
       "isFree": true,
       "website": "https://www.focus-wtv.be/",
-      "priority": 5
-    },
-    {
-      "name": "HGTV",
-      "isFree": true,
-      "website": "https://www2.telenet.be/",
       "priority": 5
     },
     {

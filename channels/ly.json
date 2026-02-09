@@ -22,11 +22,6 @@
       "priority": 5
     },
     {
-      "name": "Libya Al Hadath",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Libya",
       "isFree": true,
       "priority": 5
@@ -110,11 +105,6 @@
       "name": "Libya Al Wataniya",
       "isFree": true,
       "website": "http://www.ltv.ly/",
-      "priority": 5
-    },
-    {
-      "name": "Libya LY",
-      "isFree": true,
       "priority": 5
     },
     {

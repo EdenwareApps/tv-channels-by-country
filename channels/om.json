@@ -4,16 +4,11 @@
       "name": "Al Istiqama",
       "isFree": true,
       "keywords": "al istiqama tv | alistiqama tv",
-      "priority": 4
+      "priority": 4,
+      "website": "http://www.istiqama.tv/"
     },
     {
-      "name": "Alistiqama",
-      "isFree": true,
-      "website": "http://www.istiqama.tv/",
-      "priority": 4
-    },
-    {
-      "name": "Oman TV OM",
+      "name": "Oman TV",
       "isFree": true,
       "priority": 4
     }

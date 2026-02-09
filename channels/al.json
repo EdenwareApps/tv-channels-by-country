@@ -4,7 +4,8 @@
       "name": "Supersonic",
       "isFree": true,
       "keywords": "super sonic tv | supersonic tv",
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.super-sonic.tv/"
     },
     {
       "name": "AlbKanale Music",
@@ -77,7 +78,7 @@
     {
       "name": "RTSH",
       "isFree": null,
-      "keywords": "rtsh -1 -2 -24 -3 -agro -femije -femije -film -gjirokastra -korca -korca -kukesi -kukesi -kuvend -muzike -plus -satelit -shkolle -shkolle -shqip -sport",
+      "keywords": "rtsh -1 -2 -24 -3 -agro -femije -film -gjirokastra -korca -kukesi -kuvend -muzike -plus -satelit -shkolle -shqip -sport",
       "priority": 5
     },
     {
@@ -769,12 +770,6 @@
       "priority": 5
     },
     {
-      "name": "Super Sonic",
-      "isFree": true,
-      "website": "https://www.super-sonic.tv/",
-      "priority": 5
-    },
-    {
       "name": "CNA",
       "isFree": true,
       "website": "https://www.cna.al/",
@@ -834,7 +829,7 @@
       "priority": 5
     },
     {
-      "name": "News24 AL",
+      "name": "News24",
       "isFree": true,
       "priority": 5
     },
@@ -1032,7 +1027,7 @@
     {
       "name": "Digitalb",
       "isFree": true,
-      "keywords": "digitalb -aktion -autor -big brother vip 1 -big brother vip 2 -drame -dy -eurofilm -family -histori -hits -komedi -natyra -nje -shkense -stinet -thriller",
+      "keywords": "digitalb -aktion -autor -big -brother -vip -1 -2 -drame -dy -eurofilm -family -histori -hits -komedi -natyra -nje -shkense -stinet -thriller",
       "priority": 5
     },
     {

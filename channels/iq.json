@@ -393,7 +393,7 @@
     {
       "name": "NRT",
       "isFree": true,
-      "keywords": "nrt -2 -3 kids -4",
+      "keywords": "nrt -2 -3 -kids -4",
       "website": "https://www.nrttv.com/",
       "priority": 5
     },
@@ -445,7 +445,8 @@
       "name": "Al Sumaria",
       "isFree": true,
       "keywords": "al sumaria | alsumaria",
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.alsumaria.tv/"
     },
     {
       "name": "Ava Entertainment",
@@ -796,12 +797,6 @@
       "name": "W.TV",
       "isFree": true,
       "website": "https://www.wtv-watan.com/",
-      "priority": 5
-    },
-    {
-      "name": "Alsumaria",
-      "isFree": true,
-      "website": "https://www.alsumaria.tv/",
       "priority": 5
     }
   ],

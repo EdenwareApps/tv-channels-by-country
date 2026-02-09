@@ -141,12 +141,6 @@
       "priority": 5
     },
     {
-      "name": "Body Sex",
-      "isFree": null,
-      "website": "https://www.meo.pt/tv/canais-programacao/guia-tv/canal?canal=BODYSEX",
-      "priority": 5
-    },
-    {
       "name": "Bom Som",
       "isFree": true,
       "priority": 5
@@ -547,11 +541,6 @@
       "priority": 10
     },
     {
-      "name": "Sport TV+",
-      "isFree": null,
-      "priority": 9
-    },
-    {
       "name": "BTV",
       "isFree": null,
       "priority": 5
@@ -623,11 +612,6 @@
     },
     {
       "name": "Caçavision",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Playboy TV LA",
       "isFree": null,
       "priority": 5
     },
@@ -738,11 +722,6 @@
     },
     {
       "name": "CNBC",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Playboy",
       "isFree": null,
       "priority": 5
     },
@@ -866,7 +845,7 @@
       "priority": 5
     },
     {
-      "name": "Euronews PT",
+      "name": "Euronews",
       "isFree": true,
       "priority": 5
     },

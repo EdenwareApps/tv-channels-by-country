@@ -3,7 +3,7 @@
     {
       "name": "Oireachtas",
       "isFree": true,
-      "keywords": "oireachtas tv -committee room 1 -committee room 2 -committee room 3 -committee room 4 -dail eireann -seanad eireann",
+      "keywords": "oireachtas tv -committee -room -1 -2 -3 -4 -dail -eireann -seanad",
       "priority": 5
     },
     {
@@ -66,11 +66,6 @@
     }
   ],
   "Entertainment": [
-    {
-      "name": "TG4 IE",
-      "isFree": true,
-      "priority": 5
-    },
     {
       "name": "Blaze",
       "isFree": true,
@@ -330,7 +325,7 @@
     {
       "name": "Nick Jr.",
       "isFree": true,
-      "keywords": "nick jr. -too",
+      "keywords": "nick jr -too",
       "priority": 5
     },
     {
@@ -460,7 +455,7 @@
     {
       "name": "Virgin Media Sport",
       "isFree": true,
-      "keywords": "virgin media sport -extra 3 -extra 4 -extra 5 -extra 6",
+      "keywords": "virgin media sport -extra -3 -4 -5 -6",
       "website": "https://www.virginmediatelevision.ie",
       "priority": 10
     },

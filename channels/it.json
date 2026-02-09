@@ -142,11 +142,6 @@
       "priority": 5
     },
     {
-      "name": "DMAX IT",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Deejay",
       "isFree": true,
       "priority": 5
@@ -336,16 +331,6 @@
       "priority": 5
     },
     {
-      "name": "Nove IT",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Onda Novara",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Parole di Vita",
       "isFree": true,
       "priority": 5
@@ -469,11 +454,6 @@
       "priority": 10
     },
     {
-      "name": "Rai Sport+",
-      "isFree": true,
-      "priority": 10
-    },
-    {
       "name": "Rai Storia",
       "isFree": true,
       "priority": 5
@@ -486,11 +466,11 @@
     {
       "name": "Real Time",
       "isFree": true,
-      "keywords": "real time -italia it",
+      "keywords": "real time -italia -it",
       "priority": 5
     },
     {
-      "name": "Real Time Italia IT",
+      "name": "Real Time Italia",
       "isFree": true,
       "priority": 5
     },
@@ -605,7 +585,7 @@
     {
       "name": "Super",
       "isFree": true,
-      "keywords": "super -j tv teramo oristano | super tv -oristano",
+      "keywords": "super -j -tv -teramo -oristano | super tv",
       "priority": 5
     },
     {
@@ -620,11 +600,6 @@
     },
     {
       "name": "Super!",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SuperSix Lombardia",
       "isFree": true,
       "priority": 5
     },
@@ -1666,12 +1641,6 @@
       "priority": 5
     },
     {
-      "name": "Pink'O",
-      "isFree": null,
-      "website": "http://www.pinkotv.com/",
-      "priority": 5
-    },
-    {
       "name": "Premium Stories",
       "isFree": true,
       "priority": 5
@@ -1912,11 +1881,6 @@
       "name": "Sesta Rete",
       "isFree": true,
       "website": "https://sestarete.tv.it/",
-      "priority": 5
-    },
-    {
-      "name": "Sextosenso",
-      "isFree": null,
       "priority": 5
     },
     {
@@ -4005,7 +3969,7 @@
     {
       "name": "Virgin Radio",
       "isFree": true,
-      "keywords": "virgin radio tv - music",
+      "keywords": "virgin radio tv -music",
       "priority": 5
     },
     {

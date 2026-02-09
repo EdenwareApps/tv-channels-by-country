@@ -245,7 +245,7 @@
     {
       "name": "Global News",
       "isFree": true,
-      "keywords": "global news -british columbia -calgary -edmonton -halifax -kingston -lethbridge -montreal -national -okanagan -peterborough -regina -saskatoon -toronto -winnipeg",
+      "keywords": "global news -british -columbia -calgary -edmonton -halifax -kingston -lethbridge -montreal -national -okanagan -peterborough -regina -saskatoon -toronto -winnipeg",
       "website": "https://globalnews.ca/",
       "priority": 5
     },
@@ -394,12 +394,6 @@
     },
     {
       "name": "CHNU-DT",
-      "isFree": true,
-      "website": "https://www.joytv.ca/",
-      "priority": 4
-    },
-    {
-      "name": "CHNU-DT-",
       "isFree": true,
       "website": "https://www.joytv.ca/",
       "priority": 4
@@ -561,12 +555,6 @@
       "priority": 5
     },
     {
-      "name": "CHNM-DT-",
-      "isFree": true,
-      "website": "http://www.omnitv.ca/bc/en/",
-      "priority": 5
-    },
-    {
       "name": "CICA-DT",
       "isFree": true,
       "website": "https://www.tvo.org/",
@@ -633,12 +621,6 @@
       "priority": 5
     },
     {
-      "name": "CIVB-DT",
-      "isFree": true,
-      "website": "https://www.telequebec.tv/",
-      "priority": 5
-    },
-    {
       "name": "CIVB-DT-",
       "isFree": true,
       "website": "https://www.telequebec.tv/",
@@ -646,12 +628,6 @@
     },
     {
       "name": "CIVC-DT",
-      "isFree": true,
-      "website": "https://www.telequebec.tv/",
-      "priority": 5
-    },
-    {
-      "name": "CIVF-DT",
       "isFree": true,
       "website": "https://www.telequebec.tv/",
       "priority": 5
@@ -682,12 +658,6 @@
     },
     {
       "name": "CIVK-DT- 3",
-      "isFree": true,
-      "website": "https://www.telequebec.tv/",
-      "priority": 5
-    },
-    {
-      "name": "CIVM-DT",
       "isFree": true,
       "website": "https://www.telequebec.tv/",
       "priority": 5
@@ -756,12 +726,6 @@
       "name": "Documentary",
       "isFree": true,
       "website": "http://www.cbc.ca/documentarychannel/",
-      "priority": 5
-    },
-    {
-      "name": "ERT World",
-      "isFree": true,
-      "website": "http://odysseytv.ca/",
       "priority": 5
     },
     {
@@ -1405,14 +1369,14 @@
     {
       "name": "CTV",
       "isFree": true,
-      "keywords": "ctv -news -toronto -toronto cfto-dt",
+      "keywords": "ctv -news -toronto -cfto -dt",
       "website": "https://www.ctv.ca",
       "priority": 5
     },
     {
       "name": "CTV Toronto",
       "isFree": true,
-      "keywords": "ctv toronto -cfto-dt",
+      "keywords": "ctv toronto -cfto -dt",
       "priority": 5
     },
     {
@@ -1443,7 +1407,7 @@
     {
       "name": "CityTV Toronto",
       "isFree": true,
-      "keywords": "citytv toronto -cfto-dt",
+      "keywords": "citytv toronto -cfto -dt",
       "priority": 5
     },
     {
@@ -1727,7 +1691,8 @@
       "name": "NTV",
       "isFree": true,
       "keywords": "ntv -newfoundland",
-      "priority": 5
+      "priority": 5,
+      "website": "https://ntvplus.ca/"
     },
     {
       "name": "NTV Newfoundland",
@@ -1960,12 +1925,6 @@
       "name": "AnalOnly",
       "isFree": null,
       "website": "https://tour.analonly.com/",
-      "priority": 5
-    },
-    {
-      "name": "AOV Adult Movie",
-      "isFree": null,
-      "website": "http://www.aov.ca/",
       "priority": 5
     },
     {
@@ -2571,12 +2530,6 @@
       "priority": 5
     },
     {
-      "name": "CFEM-DT-",
-      "isFree": true,
-      "website": "https://tvaabitibi.ca/",
-      "priority": 5
-    },
-    {
       "name": "CFER-DT",
       "isFree": true,
       "priority": 5
@@ -2619,11 +2572,6 @@
     },
     {
       "name": "CFHO-TV-",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CFHO-TV- 2",
       "isFree": true,
       "priority": 5
     },
@@ -2848,11 +2796,6 @@
       "priority": 5
     },
     {
-      "name": "CFTF-DT- 11",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CFTF-DT- 2",
       "isFree": true,
       "priority": 5
@@ -2916,12 +2859,6 @@
       "priority": 5
     },
     {
-      "name": "CFTO-DT- 54",
-      "isFree": true,
-      "website": "https://toronto.ctvnews.ca/",
-      "priority": 5
-    },
-    {
       "name": "CFTO-TV- 21",
       "isFree": true,
       "website": "https://toronto.ctvnews.ca/",
@@ -2964,12 +2901,6 @@
       "priority": 5
     },
     {
-      "name": "CHAN-DT- 2",
-      "isFree": true,
-      "website": "https://globalnews.ca/bc/",
-      "priority": 5
-    },
-    {
       "name": "CHAN-DT- 3",
       "isFree": true,
       "website": "https://globalnews.ca/bc/",
@@ -2983,12 +2914,6 @@
     },
     {
       "name": "CHAN-DT- 5",
-      "isFree": true,
-      "website": "https://globalnews.ca/bc/",
-      "priority": 5
-    },
-    {
-      "name": "CHAN-DT- 6",
       "isFree": true,
       "website": "https://globalnews.ca/bc/",
       "priority": 5
@@ -3054,12 +2979,6 @@
       "priority": 5
     },
     {
-      "name": "CHAU-DT- 2",
-      "isFree": true,
-      "website": "https://cimtchau.ca/",
-      "priority": 5
-    },
-    {
       "name": "CHAU-DT- 3",
       "isFree": true,
       "website": "https://cimtchau.ca/",
@@ -3073,12 +2992,6 @@
     },
     {
       "name": "CHAU-DT- 5",
-      "isFree": true,
-      "website": "https://cimtchau.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CHAU-DT- 6",
       "isFree": true,
       "website": "https://cimtchau.ca/",
       "priority": 5
@@ -3162,11 +3075,6 @@
       "priority": 5
     },
     {
-      "name": "CHBL-TV",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CHBX-TV",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/",
@@ -3227,12 +3135,6 @@
       "priority": 5
     },
     {
-      "name": "CHCJ-DT",
-      "isFree": true,
-      "website": "https://barrie.ctvnews.ca/",
-      "priority": 5
-    },
-    {
       "name": "CHCO-TV",
       "isFree": true,
       "website": "http://www.chco.tv/",
@@ -3242,12 +3144,6 @@
       "name": "CHEM-DT",
       "isFree": true,
       "website": "https://www.tvanouvelles.ca/regional/tva-trois-rivieres",
-      "priority": 5
-    },
-    {
-      "name": "CHEX-DT",
-      "isFree": true,
-      "website": "https://globalnews.ca/peterborough/",
       "priority": 5
     },
     {
@@ -3341,12 +3237,6 @@
       "priority": 5
     },
     {
-      "name": "CHNB-TV- 11",
-      "isFree": true,
-      "website": "https://globalnews.ca/new-brunswick/",
-      "priority": 5
-    },
-    {
       "name": "CHNB-TV- 12",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/",
@@ -3371,12 +3261,6 @@
       "priority": 5
     },
     {
-      "name": "CHRO-TV",
-      "isFree": true,
-      "website": "http://ctvottawamorning.ca/",
-      "priority": 5
-    },
-    {
       "name": "CHWI-DT",
       "isFree": true,
       "website": "https://windsor.ctvnews.ca/",
@@ -3396,12 +3280,6 @@
     },
     {
       "name": "CICC-TV- 2",
-      "isFree": true,
-      "website": "http://regina.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CICC-TV- 3",
       "isFree": true,
       "website": "http://regina.ctvnews.ca/",
       "priority": 5
@@ -3496,12 +3374,6 @@
       "priority": 5
     },
     {
-      "name": "CIHF-DT- 3",
-      "isFree": true,
-      "website": "https://globalnews.ca/halifax/",
-      "priority": 5
-    },
-    {
       "name": "CIHF-DT- 4",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/",
@@ -3533,12 +3405,6 @@
     },
     {
       "name": "CIII-DT",
-      "isFree": true,
-      "website": "https://globalnews.ca/toronto/",
-      "priority": 5
-    },
-    {
-      "name": "CIII-DT- 12",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/",
       "priority": 5
@@ -3700,12 +3566,6 @@
       "priority": 5
     },
     {
-      "name": "CITL-DT",
-      "isFree": true,
-      "website": "http://www.citltv.ca/",
-      "priority": 5
-    },
-    {
       "name": "CITM-DT",
       "isFree": true,
       "website": "https://globalnews.ca/bc/",
@@ -3751,12 +3611,6 @@
       "name": "CITO-TV- 4",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CITS-DT",
-      "isFree": true,
-      "website": "https://www.yestv.com/",
       "priority": 5
     },
     {
@@ -3820,12 +3674,6 @@
       "priority": 5
     },
     {
-      "name": "CIVT-DT",
-      "isFree": true,
-      "website": "https://bc.ctvnews.ca/",
-      "priority": 5
-    },
-    {
       "name": "CIWH-TV",
       "isFree": true,
       "website": "https://regina.ctvnews.ca/",
@@ -3839,12 +3687,6 @@
     },
     {
       "name": "CJCB-TV",
-      "isFree": true,
-      "website": "https://atlantic.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CJCB-TV-",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/",
       "priority": 5
@@ -3880,12 +3722,6 @@
       "priority": 5
     },
     {
-      "name": "CJCH-TV-",
-      "isFree": true,
-      "website": "https://atlantic.ctvnews.ca/",
-      "priority": 5
-    },
-    {
       "name": "CJCH-TV- 2",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/",
@@ -3899,12 +3735,6 @@
     },
     {
       "name": "CJCH-TV- 4",
-      "isFree": true,
-      "website": "https://atlantic.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CJCH-TV- 5",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/",
       "priority": 5
@@ -3967,12 +3797,6 @@
     },
     {
       "name": "CJOH-DT",
-      "isFree": true,
-      "website": "https://ottawa.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CJOH-TV- 47",
       "isFree": true,
       "website": "https://ottawa.ctvnews.ca/",
       "priority": 5
@@ -4149,11 +3973,6 @@
       "priority": 5
     },
     {
-      "name": "CKMC-TV",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CKMC-TV-",
       "isFree": true,
       "priority": 5
@@ -4183,12 +4002,6 @@
     },
     {
       "name": "CKND-DT",
-      "isFree": true,
-      "website": "https://globalnews.ca/winnipeg/",
-      "priority": 5
-    },
-    {
-      "name": "CKND-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/winnipeg/",
       "priority": 5
@@ -4237,11 +4050,6 @@
     },
     {
       "name": "CKRN-DT",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CKRN-TV- 2",
       "isFree": true,
       "priority": 5
     },
@@ -4305,12 +4113,6 @@
       "priority": 5
     },
     {
-      "name": "CKSH-DT",
-      "isFree": true,
-      "website": "https://ici.radio-canada.ca/estrie/",
-      "priority": 5
-    },
-    {
       "name": "CKTM-DT",
       "isFree": true,
       "website": "https://ici.radio-canada.ca/mauricie/",
@@ -4318,12 +4120,6 @@
     },
     {
       "name": "CKTN-DT- 2",
-      "isFree": true,
-      "website": "https://globalnews.ca/bc/",
-      "priority": 5
-    },
-    {
-      "name": "CKTN-TV",
       "isFree": true,
       "website": "https://globalnews.ca/bc/",
       "priority": 5
@@ -4376,12 +4172,6 @@
       "priority": 5
     },
     {
-      "name": "CKVU-DT- 2",
-      "isFree": true,
-      "website": "http://www.citytv.com/vancouver",
-      "priority": 5
-    },
-    {
       "name": "CKVU-TV-",
       "isFree": true,
       "website": "http://www.citytv.com/vancouver",
@@ -4425,12 +4215,6 @@
     },
     {
       "name": "CKY-DT",
-      "isFree": true,
-      "website": "https://winnipeg.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CKYD-TV",
       "isFree": true,
       "website": "https://winnipeg.ctvnews.ca/",
       "priority": 5
@@ -4509,12 +4293,6 @@
       "priority": 5
     },
     {
-      "name": "CTV Life",
-      "isFree": true,
-      "website": "https://www.ctv.ca/life",
-      "priority": 5
-    },
-    {
       "name": "CTV Sci-Fi",
       "isFree": true,
       "website": "https://www.ctv.ca/sci-fi",
@@ -4569,12 +4347,6 @@
       "priority": 7
     },
     {
-      "name": "Dorcel TV Canada",
-      "isFree": null,
-      "website": "https://vanessatv.com/signal-lineaire/",
-      "priority": 5
-    },
-    {
       "name": "Dream 2",
       "isFree": true,
       "priority": 5
@@ -4586,33 +4358,15 @@
       "priority": 5
     },
     {
-      "name": "E!",
-      "isFree": true,
-      "website": "http://eonline.com/ca",
-      "priority": 5
-    },
-    {
       "name": "Elle Fictions",
       "isFree": true,
       "website": "https://ellefictions.ca/",
       "priority": 5
     },
     {
-      "name": "Erotic Spice",
-      "isFree": null,
-      "website": "https://www.eroticspice.com/",
-      "priority": 5
-    },
-    {
       "name": "Evasion",
       "isFree": true,
       "website": "https://www.evasion.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Exxxtasy",
-      "isFree": null,
-      "website": "http://exxxtasy.com/exxxtasytv",
       "priority": 5
     },
     {
@@ -4743,7 +4497,7 @@
     {
       "name": "Legislative Assembly of British Columbia",
       "isFree": true,
-      "keywords": "legislative assembly of british columbia -committee a",
+      "keywords": "legislative assembly of british columbia -committee -a",
       "website": "https://www.leg.bc.ca/",
       "priority": 5
     },
@@ -4793,12 +4547,6 @@
       "name": "Makeful",
       "isFree": true,
       "website": "https://tv.bemakeful.com/",
-      "priority": 5
-    },
-    {
-      "name": "Maleflixxx Television",
-      "isFree": null,
-      "website": "https://maleflixxx.tv/",
       "priority": 5
     },
     {
@@ -4874,12 +4622,6 @@
       "priority": 5
     },
     {
-      "name": "NTV+",
-      "isFree": true,
-      "website": "https://ntvplus.ca/",
-      "priority": 5
-    },
-    {
       "name": "OLN",
       "isFree": true,
       "website": "http://www.oln.ca/",
@@ -4910,21 +4652,9 @@
       "priority": 5
     },
     {
-      "name": "Penthouse",
-      "isFree": null,
-      "website": "https://exxxtasy.com/penthousetv/",
-      "priority": 5
-    },
-    {
       "name": "Planete+ Canada",
       "isFree": true,
       "website": "http://www.planetepluscanada.ca/",
-      "priority": 5
-    },
-    {
-      "name": "Playmen",
-      "isFree": null,
-      "website": "http://exxxtasy.com/playmen-tv",
       "priority": 5
     },
     {
@@ -4967,12 +4697,6 @@
       "name": "RDS Info",
       "isFree": true,
       "website": "http://www.rdsinfo.ca/",
-      "priority": 5
-    },
-    {
-      "name": "Red Hot",
-      "isFree": null,
-      "website": "http://exxxtasy.com/redhottv/",
       "priority": 5
     },
     {
@@ -5121,12 +4845,6 @@
       "name": "Showcase",
       "isFree": true,
       "website": "http://showcase.ca/",
-      "priority": 5
-    },
-    {
-      "name": "Skinemax",
-      "isFree": null,
-      "website": "http://exxxtasy.com/skinemax-hd/",
       "priority": 5
     },
     {
@@ -5304,7 +5022,7 @@
     {
       "name": "TLN",
       "isFree": true,
-      "keywords": "tln -en espanol",
+      "keywords": "tln -en -espanol",
       "website": "http://www.tln.ca/",
       "priority": 5
     },
@@ -5414,85 +5132,9 @@
       "priority": 5
     },
     {
-      "name": "Venus",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 10",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 11",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 12",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 2",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 3",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 4",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 5",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 6",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 7",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 8",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus 9",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus Information",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Venus Preview",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "VisionTV",
       "isFree": true,
       "website": "http://www.visiontv.ca/",
-      "priority": 5
-    },
-    {
-      "name": "Vixen",
-      "isFree": null,
-      "website": "https://www.vixen.com/",
       "priority": 5
     },
     {
@@ -5691,12 +5333,6 @@
       "priority": 5
     },
     {
-      "name": "408 Stingray Pop Adult",
-      "isFree": true,
-      "shortName": "4SPA",
-      "priority": 5
-    },
-    {
       "name": "409 Stingray Urban Beat",
       "isFree": true,
       "shortName": "4SUB",
@@ -5886,11 +5522,6 @@
       "name": "Qello Concerts by Stingray",
       "isFree": true,
       "website": "https://qello.com/en/",
-      "priority": 5
-    },
-    {
-      "name": "Stingray Adult Alternative",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -6242,12 +5873,6 @@
       "priority": 5
     },
     {
-      "name": "Stingray Pop Adult",
-      "isFree": true,
-      "website": "https://music.stingray.com/en/CA/channels/004/pop-adult",
-      "priority": 5
-    },
-    {
       "name": "Stingray Popular Classical / Classique populaire",
       "isFree": true,
       "priority": 5
@@ -6282,7 +5907,7 @@
     {
       "name": "Stingray Rock",
       "isFree": true,
-      "keywords": "stingray rock -alternative -en espanol",
+      "keywords": "stingray rock -alternative -en -espanol",
       "priority": 5
     },
     {

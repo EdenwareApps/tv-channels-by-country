@@ -34,7 +34,7 @@
     {
       "name": "TVR Parlemen",
       "isFree": true,
-      "keywords": "tvr parlemen -badan anggaran -badan legislatif -badan musyawarah -bakn -bksap -komisi i -komisi ii -komisi iii -komisi iv -komisi ix -komisi v -komisi vi -komisi vii -komisi viii -komisi x -komisi xi",
+      "keywords": "tvr parlemen -badan -anggaran -legislatif -musyawarah -bakn -bksap -komisi -i -ii -iii -iv -ix -v -vi -vii -viii -x -xi",
       "priority": 5
     },
     {
@@ -545,7 +545,7 @@
     {
       "name": "Independent",
       "isFree": null,
-      "keywords": "independent -(community) -(public)",
+      "keywords": "independent -community -public",
       "_alt_origName": [
         "Independent (Public)"
       ],
@@ -1694,7 +1694,7 @@
     {
       "name": "TVRI",
       "isFree": true,
-      "keywords": "tvri -4 -aceh -bali -bangka belitung -bengkulu -dki jakarta -gorontalo -jambi -jawa barat -jawa tengah -jawa timur -kalimantan barat -kalimantan selatan -kalimantan tengah -kalimantan timur -kanal 3 -lampung -maluku -nasional -nusa tenggara barat -nusa tenggara timur -papua -riau -sport hd -sulawesi barat -sulawesi selatan -sulawesi tengah -sulawesi tenggara -sulawesi utara -sumatera barat -sumatera selatan -sumatera utara -yogyakarta",
+      "keywords": "tvri -4 -aceh -bali -bangka -belitung -bengkulu -dki -jakarta -gorontalo -jambi -jawa -barat -tengah -timur -kalimantan -selatan -kanal -3 -lampung -maluku -nasional -nusa -tenggara -papua -riau -sport -hd -sulawesi -utara -sumatera -yogyakarta",
       "priority": 5
     },
     {

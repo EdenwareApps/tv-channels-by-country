@@ -1200,12 +1200,6 @@
       "priority": 5
     },
     {
-      "name": "Sextavision",
-      "isFree": true,
-      "website": "https://sextavision.cl/",
-      "priority": 5
-    },
-    {
       "name": "Soberania",
       "isFree": true,
       "website": "https://www.soberaniaradio.cl/",
@@ -1220,7 +1214,7 @@
     {
       "name": "Spectrum",
       "isFree": true,
-      "keywords": "spectrum channel -lgbtq+",
+      "keywords": "spectrum channel -lgbtqplus",
       "website": "https://spectrumtv.cl",
       "priority": 5
     },
@@ -1381,7 +1375,7 @@
     {
       "name": "TV+",
       "isFree": true,
-      "keywords": "tv+ -2",
+      "keywords": "tvplus -2",
       "website": "https://www.tvmas.tv/",
       "priority": 5
     },
@@ -1454,7 +1448,7 @@
     {
       "name": "UTV",
       "isFree": true,
-      "keywords": "utv -san clemente",
+      "keywords": "utv -san -clemente",
       "website": "https://www.utv.cl/",
       "priority": 5
     },
@@ -1916,7 +1910,7 @@
     {
       "name": "Telecanal",
       "isFree": true,
-      "keywords": "telecanal -santa cruz",
+      "keywords": "telecanal -santa -cruz",
       "website": "https://www.telecanal.cl/",
       "priority": 5
     },

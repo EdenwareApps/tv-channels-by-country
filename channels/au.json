@@ -115,7 +115,7 @@
     },
     {
       "name": "Sky News Australia",
-      "keywords": "sky news australia -extra 1 -extra 2 -extra 3",
+      "keywords": "sky news australia -extra -1 -2 -3",
       "shortName": "Sky News AU",
       "website": "https://www.skynews.com.au",
       "priority": 5
@@ -506,7 +506,7 @@
       "priority": 5
     },
     {
-      "name": "ABC Adelaide AU",
+      "name": "ABC Adelaide",
       "isFree": true,
       "priority": 5
     },
@@ -517,12 +517,12 @@
       "priority": 5
     },
     {
-      "name": "ABC Darwin AU",
+      "name": "ABC Darwin",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "ABC Hobart AU",
+      "name": "ABC Hobart",
       "isFree": true,
       "priority": 5
     },
@@ -540,17 +540,17 @@
       "priority": 5
     },
     {
-      "name": "ABC Melbourne AU",
+      "name": "ABC Melbourne",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "ABC Perth AU",
+      "name": "ABC Perth",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "ABC Sydney AU",
+      "name": "ABC Sydney",
       "isFree": true,
       "priority": 5
     },
@@ -834,6 +834,7 @@
     },
     {
       "name": "A&E",
+      "keywords": "a e | a&e | aee | arts entertainment",
       "isFree": true,
       "website": "https://www.foxtel.com.au/tv-guide/channel/AE/AES/",
       "priority": 5
@@ -896,7 +897,7 @@
     {
       "name": "CTB Perth",
       "isFree": true,
-      "keywords": "ctb perth -movies channel",
+      "keywords": "ctb perth -movies -channel",
       "website": "https://ctbperth.net.au/",
       "priority": 5
     },
@@ -1063,7 +1064,7 @@
     {
       "name": "SBS",
       "isFree": true,
-      "keywords": "sbs -food -viceland -world movies -worldwatch",
+      "keywords": "sbs -food -viceland -world -movies -worldwatch",
       "website": "https://www.sbs.com.au/guide/channel/SBS",
       "priority": 5
     },
@@ -1133,7 +1134,7 @@
     {
       "name": "Crime",
       "isFree": true,
-      "keywords": "crime -+ investigation",
+      "keywords": "crime -plus -investigation",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-Crime/IOI/",
       "priority": 5
     },

@@ -532,12 +532,6 @@
       "priority": 5
     },
     {
-      "name": "Venus Media",
-      "isFree": true,
-      "website": "https://www.venus.com.py/",
-      "priority": 5
-    },
-    {
       "name": "Villa Elisa Radio",
       "isFree": true,
       "website": "https://villaelisaradiotv.com.py/",
@@ -556,7 +550,7 @@
     {
       "name": "Tigo",
       "isFree": null,
-      "keywords": "tigo -cinema & series ppv -max (teledeportes paraguay s.a) -movies -music -sat network -sports -sports+",
+      "keywords": "tigo -cinema -series -ppv -max -teledeportes -paraguay -s -a -movies -music -sat -network -sports -sportsplus",
       "priority": 5
     },
     {
@@ -852,12 +846,6 @@
     },
     {
       "name": "Tigo Sports",
-      "isFree": true,
-      "website": "http://www.tigosports.com.py/",
-      "priority": 10
-    },
-    {
-      "name": "Tigo Sports+",
       "isFree": true,
       "website": "http://www.tigosports.com.py/",
       "priority": 10

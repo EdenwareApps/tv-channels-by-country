@@ -13,12 +13,7 @@
     {
       "name": "ATV",
       "isFree": true,
-      "keywords": "atv -թավա tv -խաղալիք -կինոման -հայ tv -ֆիլմզոն",
-      "priority": 5
-    },
-    {
-      "name": "ATV Թավա",
-      "isFree": true,
+      "keywords": "atv -թավա -tv -խաղալիք -կինոման -հայ -ֆիլմզոն",
       "priority": 5
     },
     {

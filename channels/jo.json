@@ -123,7 +123,7 @@
     {
       "name": "Hala",
       "isFree": true,
-      "keywords": "hala -control studio",
+      "keywords": "hala -control -studio",
       "website": "https://www.hala.jo/",
       "priority": 5
     },

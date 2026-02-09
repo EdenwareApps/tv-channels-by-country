@@ -39,7 +39,7 @@
     {
       "name": "Canal 8",
       "isFree": true,
-      "keywords": "canal 8 -costa rica",
+      "keywords": "canal 8 -costa -rica",
       "priority": 5
     },
     {
@@ -220,7 +220,7 @@
       "priority": 5
     },
     {
-      "name": "Caribe TV CR",
+      "name": "Caribe TV",
       "isFree": true,
       "priority": 5
     },
@@ -319,7 +319,7 @@
       "priority": 5
     },
     {
-      "name": "MetaVersus CR",
+      "name": "MetaVersus",
       "isFree": true,
       "website": "https://metaversuscr.com/",
       "priority": 5

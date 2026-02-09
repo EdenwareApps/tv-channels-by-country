@@ -91,10 +91,6 @@
   ],
   "Sports": [
     {
-      "name": "İdman",
-      "priority": 5
-    },
-    {
       "name": "CBC Sport",
       "isFree": true,
       "website": "http://www.cbcsport.tv/",
@@ -132,7 +128,7 @@
     {
       "name": "Azad",
       "isFree": true,
-      "keywords": "azad tv --2 --4",
+      "keywords": "azad tv -2 -4",
       "priority": 5
     },
     {
@@ -184,11 +180,6 @@
     },
     {
       "name": "Xəzər",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "İctimai",
       "isFree": true,
       "priority": 5
     },

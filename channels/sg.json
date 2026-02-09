@@ -139,7 +139,10 @@
       "name": "meWATCH LIVE",
       "isFree": true,
       "website": "https://www.mewatch.sg/channels/live-1/97073",
-      "priority": 5
+      "priority": 5,
+      "_altWebsites": [
+        "https://www.mewatch.sg/channels/live-plus-1/267994"
+      ]
     },
     {
       "name": "meWATCH LIVE 2",
@@ -151,12 +154,6 @@
       "name": "meWATCH LIVE 5",
       "isFree": true,
       "website": "https://www.mewatch.sg/channels/live-5/98202",
-      "priority": 5
-    },
-    {
-      "name": "meWATCH LIVE+",
-      "isFree": true,
-      "website": "https://www.mewatch.sg/channels/live-plus-1/267994",
       "priority": 5
     },
     {

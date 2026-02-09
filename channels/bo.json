@@ -8,7 +8,7 @@
     {
       "name": "Bolivia",
       "isFree": true,
-      "keywords": "bolivia tv -7.2",
+      "keywords": "bolivia tv -7 -2",
       "priority": 5
     },
     {
@@ -23,11 +23,6 @@
     },
     {
       "name": "RTP",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Red Advenir",
       "isFree": true,
       "priority": 5
     },
@@ -350,7 +345,7 @@
     {
       "name": "CTV",
       "isFree": true,
-      "keywords": "ctv -canal 38 -canal 38 digital",
+      "keywords": "ctv -canal -38 -digital",
       "website": "https://ctvbolivia.com/",
       "priority": 5
     },
@@ -854,7 +849,7 @@
     {
       "name": "TV Latina",
       "isFree": true,
-      "keywords": "tv latina -canal 42",
+      "keywords": "tv latina -canal -42",
       "website": "https://www.audiokiss.com/tvlatina/",
       "priority": 5
     },
@@ -961,7 +956,7 @@
     {
       "name": "Zoy",
       "isFree": true,
-      "keywords": "zoy tv -music -sports 1 -sports 2 -sports 3 -sports 4 -sports 5 -turcas",
+      "keywords": "zoy tv -music -sports -1 -2 -3 -4 -5 -turcas",
       "website": "https://www.tucableip.com/tv.php?llave=zoytv",
       "priority": 5
     },

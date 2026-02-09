@@ -444,7 +444,7 @@
     {
       "name": "NTA",
       "isFree": true,
-      "keywords": "nta -2 -entertainment -hausa -igbo -international -knowledge -lagos channel 10 -news 24 -parliament -sports 24 -yoruba",
+      "keywords": "nta -2 -entertainment -hausa -igbo -international -knowledge -lagos -channel -10 -news -24 -parliament -sports -yoruba",
       "website": "https://www.nta.ng/",
       "priority": 5
     },
@@ -636,12 +636,6 @@
       "name": "Soundcity",
       "isFree": true,
       "website": "https://soundcity.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Spice",
-      "isFree": true,
-      "website": "https://myspice.tv/",
       "priority": 5
     },
     {

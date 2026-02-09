@@ -1,11 +1,6 @@
 {
   "Entertainment": [
     {
-      "name": "Aruba.TV",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Nos Isla",
       "isFree": true,
       "priority": 5

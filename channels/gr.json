@@ -610,7 +610,7 @@
       "priority": 5
     },
     {
-      "name": "Magic TV GR",
+      "name": "Magic TV",
       "isFree": true,
       "priority": 5
     },
@@ -906,7 +906,7 @@
     {
       "name": "FOX",
       "isFree": true,
-      "keywords": "fox -greece -life greece",
+      "keywords": "fox -greece -life",
       "website": "https://www.fox-greece.gr/",
       "priority": 5
     },
@@ -1245,7 +1245,7 @@
     {
       "name": "Baraza",
       "isFree": true,
-      "keywords": "baraza tv -classic hits -greek music hits",
+      "keywords": "baraza tv -classic -hits -greek -music",
       "priority": 5
     },
     {

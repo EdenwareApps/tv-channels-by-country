@@ -31,11 +31,6 @@
       "priority": 5
     },
     {
-      "name": "TV Regionalna",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TV Republika",
       "isFree": true,
       "priority": 5
@@ -346,7 +341,7 @@
     {
       "name": "Crime + Investigation Polsat",
       "isFree": true,
-      "keywords": "crime + investigation polsat | crime+investigation polsat",
+      "keywords": "crime plus investigation polsat | crimeplusinvestigation polsat",
       "website": "https://www.crimeinvestigation.pl/",
       "priority": 5
     },
@@ -579,7 +574,7 @@
     {
       "name": "Polsat",
       "isFree": true,
-      "keywords": "polsat -1 -2 -cafe -comedy central extra -doku -film -film 2 -games -jimjam -music -news -news 2 -news polityka -play -reality -rodzina -seriale -sport -sport 1 -sport 2 -sport 3 -sport extra -sport fight -sport news -sport premium 1 -sport premium 2 -sport premium 3 ppv -sport premium 4 ppv -sport premium 5 ppv -sport premium 6 ppv -viasat explore -viasat history -viasat nature -x",
+      "keywords": "polsat -1 -2 -cafe -comedy -central -extra -doku -film -games -jimjam -music -news -polityka -play -reality -rodzina -seriale -sport -3 -fight -premium -ppv -4 -5 -6 -viasat -explore -history -nature -x",
       "website": "https://www.polsat.pl/",
       "priority": 5
     },
@@ -1232,7 +1227,7 @@
       "priority": 5
     },
     {
-      "name": "W Polsce PL",
+      "name": "W Polsce",
       "isFree": true,
       "website": "http://wpolsce.pl/",
       "priority": 5
@@ -1279,7 +1274,7 @@
     {
       "name": "General",
       "isFree": null,
-      "keywords": "general -/ teleshopping",
+      "keywords": "general -undefined -teleshopping",
       "priority": 5
     },
     {
@@ -1295,7 +1290,7 @@
     {
       "name": "Sport",
       "isFree": null,
-      "keywords": "sport -and movies -klub",
+      "keywords": "sport -and -movies -klub",
       "priority": 10
     },
     {
@@ -1401,7 +1396,7 @@
     {
       "name": "Movies",
       "isFree": null,
-      "keywords": "movies -/ documentaries -/ series",
+      "keywords": "movies -undefined -documentaries -series",
       "priority": 5
     },
     {
@@ -1427,7 +1422,7 @@
     {
       "name": "Music",
       "isFree": null,
-      "keywords": "music -box polska",
+      "keywords": "music -box -polska",
       "priority": 5
     },
     {
@@ -1472,11 +1467,6 @@
     },
     {
       "name": "TTV**",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "TTV HD**",
       "isFree": null,
       "priority": 5
     },
@@ -1714,13 +1704,13 @@
     {
       "name": "Comedy",
       "isFree": null,
-      "keywords": "comedy -central -central hd* -channel extra",
+      "keywords": "comedy -central -hd* -channel -extra",
       "priority": 5
     },
     {
       "name": "Crime",
       "isFree": null,
-      "keywords": "crime -+ investigation polsat",
+      "keywords": "crime -plus -investigation -polsat",
       "priority": 5
     },
     {
@@ -2155,41 +2145,6 @@
       "priority": 5
     },
     {
-      "name": "Pornography",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Hustler",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Dorcel",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Dorcel XXX",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Playboy TV HD*",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Brazzers TV Europe",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Brazzers TV Europe HD*",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "Reality Kings",
       "isFree": null,
       "priority": 5
@@ -2450,11 +2405,6 @@
       "priority": 5
     },
     {
-      "name": "TeleToon+",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "FilmBox Premium",
       "isFree": null,
       "priority": 5
@@ -2540,11 +2490,6 @@
       "priority": 5
     },
     {
-      "name": "Playboy",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "RTK",
       "isFree": null,
       "priority": 5
@@ -2552,7 +2497,7 @@
     {
       "name": "Canal+ Sport",
       "isFree": true,
-      "keywords": "canal+ sport -2 -3 -4 -5",
+      "keywords": "canalplus sport -2 -3 -4 -5",
       "website": "https://tv.pl.canalplus.com/sport/oferta-sportowa",
       "priority": 10
     },
@@ -2946,7 +2891,7 @@
     {
       "name": "Kino Polska",
       "isFree": true,
-      "keywords": "kino polska -international -muzyka -muzyka international",
+      "keywords": "kino polska -international -muzyka",
       "website": "http://kinopolska.pl/",
       "priority": 5
     },

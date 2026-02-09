@@ -201,26 +201,6 @@
       "priority": 5
     },
     {
-      "name": "대구 MBC",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "대전MBC",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "제주 MBC",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "춘천MBC",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "9colors",
       "isFree": true,
       "website": "http://www.9colors.co.kr/",
@@ -793,7 +773,7 @@
     {
       "name": "KCTV",
       "isFree": true,
-      "keywords": "kctv -광주 ch05",
+      "keywords": "kctv -광주 -ch05",
       "website": "https://www.kctv.co.kr/",
       "priority": 5
     },
@@ -910,12 +890,6 @@
       "name": "ONT",
       "isFree": true,
       "website": "https://ont.mediagenie.co.kr/",
-      "priority": 5
-    },
-    {
-      "name": "Playboy",
-      "isFree": null,
-      "website": "http://playboytv.co.kr/",
       "priority": 5
     },
     {
@@ -1499,7 +1473,7 @@
     {
       "name": "NBS",
       "isFree": true,
-      "keywords": "nbs -korea agricultural broadcasting",
+      "keywords": "nbs -korea -agricultural -broadcasting",
       "website": "https://www.inbs.co.kr/main.do",
       "priority": 5
     },
@@ -1723,7 +1697,7 @@
     {
       "name": "JTBC Golf",
       "isFree": true,
-      "keywords": "jtbc golf -& sports",
+      "keywords": "jtbc golf -sports",
       "website": "http://www.jtbcgolf.com/",
       "priority": 5
     },
@@ -1815,7 +1789,7 @@
     {
       "name": "SPOTV",
       "isFree": true,
-      "keywords": "spotv -golf & health",
+      "keywords": "spotv -golf -health",
       "website": "https://spotv.net/",
       "priority": 5
     },
@@ -1852,12 +1826,6 @@
       "priority": 4
     },
     {
-      "name": "CJ OnStyle+",
-      "isFree": true,
-      "website": "http://display.cjonstyle.com/",
-      "priority": 4
-    },
-    {
       "name": "Gongyoung Home Shopping",
       "isFree": true,
       "website": "https://www.gongyoungshop.kr/",
@@ -1884,7 +1852,7 @@
     {
       "name": "Hyundai Home Shopping",
       "isFree": true,
-      "keywords": "hyundai home shopping -+ shop",
+      "keywords": "hyundai home shopping -plus -shop",
       "website": "https://www.hmall.com/",
       "priority": 4
     },

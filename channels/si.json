@@ -107,12 +107,6 @@
       "priority": 5
     },
     {
-      "name": "Balkan Erotic",
-      "isFree": null,
-      "website": "https://tv2go.t-2.net/tv/epg/1000645/",
-      "priority": 5
-    },
-    {
       "name": "BK",
       "isFree": true,
       "priority": 5
@@ -230,12 +224,6 @@
       "priority": 5
     },
     {
-      "name": "Hot XXL",
-      "isFree": null,
-      "website": "https://tv2go.t-2.net/tv/epg/1000643/",
-      "priority": 5
-    },
-    {
       "name": "Kanal A",
       "isFree": true,
       "website": "https://pro-plus.si/",
@@ -281,12 +269,6 @@
       "priority": 5
     },
     {
-      "name": "MIxxx",
-      "isFree": null,
-      "website": "https://tv2go.t-2.net/tv/epg/1000834/day/2023/11/13",
-      "priority": 5
-    },
-    {
       "name": "Naughty",
       "isFree": null,
       "website": "https://tv2go.t-2.net/tv/epg/1000674/",
@@ -296,12 +278,6 @@
       "name": "Net",
       "isFree": true,
       "website": "https://net-tv.si/",
-      "priority": 5
-    },
-    {
-      "name": "Net XXL",
-      "isFree": null,
-      "website": "https://tv2go.t-2.net/tv/epg/1000228/",
       "priority": 5
     },
     {
@@ -347,12 +323,6 @@
       "priority": 5
     },
     {
-      "name": "RED xxx",
-      "isFree": null,
-      "website": "https://tv2go.t-2.net/tv/epg/1000490/",
-      "priority": 5
-    },
-    {
       "name": "R kanal +",
       "isFree": true,
       "website": "https://www.rkanal.si/",
@@ -366,12 +336,6 @@
     {
       "name": "Savinjska",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Sexation",
-      "isFree": null,
-      "website": "https://tv2go.t-2.net/tv/epg/1000408/",
       "priority": 5
     },
     {
@@ -526,12 +490,6 @@
     {
       "name": "vZIVO.si",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "XXXTazy",
-      "isFree": null,
-      "website": "https://tv2go.t-2.net/tv/epg/1000828/day/2023/11/13",
       "priority": 5
     },
     {

@@ -1180,7 +1180,7 @@
       "priority": 5
     },
     {
-      "name": "Radio Online EC",
+      "name": "Radio Online",
       "isFree": true,
       "website": "https://radioonline.ec/",
       "priority": 5
@@ -1226,7 +1226,7 @@
   ],
   "Movies & Series": [
     {
-      "name": "Pantalla Clasica EC",
+      "name": "Pantalla Clasica",
       "isFree": true,
       "website": "https://www.radiopasionecuador.com/",
       "priority": 5

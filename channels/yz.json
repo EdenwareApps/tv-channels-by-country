@@ -431,11 +431,6 @@
       "priority": 5
     },
     {
-      "name": "Music",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Muzzik AMVA 2020 Serbia",
       "isFree": true,
       "shortName": "MA2S",
@@ -768,7 +763,7 @@
     {
       "name": "105'5 Spreeradio",
       "isFree": true,
-      "keywords": "105'5 spreeradio -80er",
+      "keywords": "105 5 spreeradio -80er",
       "priority": 5
     },
     {

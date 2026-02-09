@@ -74,7 +74,7 @@
     {
       "name": "TVB",
       "isFree": null,
-      "keywords": "tvb -asian select -chinese drama -chinese opera channel -classic -classic movies -finance sports & information channel -food -hd jade -j1 -j5 -jade -japanese drama -network vision -news channel -pearl -plus -xing he",
+      "keywords": "tvb -asian -select -chinese -drama -opera -channel -classic -movies -finance -sports -information -food -hd -jade -j1 -j5 -japanese -network -vision -news -pearl -plus -xing -he",
       "priority": 5
     },
     {
@@ -418,12 +418,6 @@
       "name": "ATV Home",
       "isFree": true,
       "website": "http://www.hkatv.com/",
-      "priority": 5
-    },
-    {
-      "name": "Channel Adult",
-      "isFree": null,
-      "website": "https://nowplayer.now.com/tvguide/channeldetail/903/1",
       "priority": 5
     },
     {
@@ -823,7 +817,7 @@
     {
       "name": "now Sports",
       "isFree": true,
-      "keywords": "now sports -1 -2 -3 -4 -4k 1 -4k 2 -4k 616 -4k 617 -5 -6 -618 -619 -650 -651 -681 -7 -plus -premier league 1 -premier league 2 -premier league 3 -premier league 4 -premier league 5 -premier league 6 -premier league tv -prime",
+      "keywords": "now sports -1 -2 -3 -4 -4k -616 -617 -5 -6 -618 -619 -650 -651 -681 -7 -plus -premier -league -tv -prime",
       "website": "https://nowplayer.now.com/tvguide/channeldetail/600/1",
       "priority": 10
     },

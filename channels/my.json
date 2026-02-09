@@ -3,11 +3,8 @@
     {
       "name": "Astro Arena",
       "keywords": "astro arena -2",
-      "priority": 5
-    },
-    {
-      "name": "Astro Arena 2",
-      "priority": 5
+      "priority": 5,
+      "isFree": true
     },
     {
       "name": "Astro Cricket",
@@ -154,11 +151,6 @@
       "priority": 5
     },
     {
-      "name": "TV 2",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "TV Okey",
       "isFree": null,
       "priority": 5
@@ -169,37 +161,7 @@
       "priority": 5
     },
     {
-      "name": "Media Prima Berhad",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "TV 3",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "TV Pendidikan",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "8TV",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "TV 9",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "SUKE",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Enjoy TV 5",
       "isFree": null,
       "priority": 5
     },
@@ -209,262 +171,182 @@
       "priority": 5
     },
     {
-      "name": "TVS",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "beIN Sports 1 MY",
+      "name": "beIN Sports 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "beIN Sports 3 MY",
+      "name": "beIN Sports 3",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "RugbyPass MY",
+      "name": "RugbyPass",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Astro Grandstand 2 MY",
+      "name": "Astro Grandstand 2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Astro Premier League MY",
+      "name": "Astro Premier League 4",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Astro Premier League 2 MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Astro Premier League 4 MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Astro Badminton MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Astro Sports+ MY",
+      "name": "Astro Sports+",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Astro Arena MY",
+      "name": "Astro Arena 2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Astro Arena 2 MY",
+      "name": "TVN Movies",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Showcase Movies MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVN Movies MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "HBO Hits MY",
+      "name": "HBO Hits",
       "isFree": true,
       "priority": 6
     },
     {
-      "name": "Ria MY",
+      "name": "Ria",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Prima MY",
+      "name": "Prima",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Citra MY",
+      "name": "Citra",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Awani MY",
+      "name": "Awani",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Bernama TV MY",
+      "name": "Bernama TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Tutor TV MY",
+      "name": "Tutor TV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Ceria MY",
+      "name": "Ceria",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Vaanavil MY",
+      "name": "Vaanavil",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Hua Hee Dai MY",
+      "name": "Hua Hee Dai",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "AEC MY",
+      "name": "AEC",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Discovery Asia MY",
+      "name": "Discovery Asia",
       "isFree": true,
       "priority": 7
     },
     {
-      "name": "Astro Cricket MY",
+      "name": "NTV7",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "NTV7 MY",
+      "name": "TV 3",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TV 1 MY",
+      "name": "TV 8",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TV 3 MY",
+      "name": "TV 9",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TV 8 MY",
+      "name": "AFN",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "TV 9 MY",
+      "name": "Al Hijrah",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "AFN MY",
+      "name": "Okey",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Al Hijrah MY",
+      "name": "HGTV",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Okey MY",
+      "name": "Hits",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Astro Aura MY",
+      "name": "Boo",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Astro Rania MY",
+      "name": "TV2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "HBO MY",
-      "isFree": true,
-      "priority": 6
-    },
-    {
-      "name": "HGTV MY",
+      "name": "SPO TV 1",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Food Network MY",
+      "name": "SPO TV 2",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Nickelodeon MY",
+      "name": "Sukan RTM",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Hits Movies MY",
+      "name": "Dewan Rakyat",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Hits MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Boo MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Oasis MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV2 MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SPO TV 1 MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "SPO TV 2 MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV6 MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Sukan RTM MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Dewan Rakyat MY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Dewan Negara MY",
+      "name": "Dewan Negara",
       "isFree": true,
       "priority": 5
     }
@@ -491,11 +373,6 @@
       "priority": 5
     },
     {
-      "name": "Boo",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Hello",
       "isFree": true,
       "priority": 5
@@ -511,22 +388,7 @@
       "priority": 5
     },
     {
-      "name": "OKEY",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Sukan RTM",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TVB Xing He 星河",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVIKIM",
       "isFree": true,
       "priority": 5
     },

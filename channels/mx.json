@@ -21,13 +21,6 @@
       "priority": 5
     },
     {
-      "name": "Foro TV MX",
-      "isFree": true,
-      "shortName": "Foro",
-      "website": "https://www.tvazteca.com/forotv",
-      "priority": 5
-    },
-    {
       "name": "ForoTV",
       "isFree": true,
       "retransmits": "TV Azteca",
@@ -116,7 +109,7 @@
       "priority": 5
     },
     {
-      "name": "Meganoticias MX",
+      "name": "Meganoticias",
       "isFree": true,
       "website": "https://meganoticias.mx/",
       "priority": 5
@@ -147,7 +140,7 @@
     {
       "name": "N+",
       "isFree": true,
-      "keywords": "n+ -bajio -media",
+      "keywords": "nplus -bajio -media",
       "website": "https://www.nmas.com.mx/",
       "priority": 5
     },
@@ -271,12 +264,6 @@
     {
       "name": "Alcarria",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Canal 10",
-      "isFree": true,
-      "keywords": "canal 10 -cancun",
       "priority": 5
     },
     {
@@ -514,7 +501,7 @@
     {
       "name": "TVP",
       "isFree": true,
-      "keywords": "tvp -culiacan -los mochis -obregon",
+      "keywords": "tvp -culiacan -los -mochis -obregon",
       "priority": 5
     },
     {
@@ -682,7 +669,7 @@
     {
       "name": "bitMe",
       "isFree": true,
-      "keywords": "bitme -latin america",
+      "keywords": "bitme -latin -america",
       "website": "https://www.bitme.gg/",
       "priority": 5
     },
@@ -715,7 +702,8 @@
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.diezpuntounotam.com/",
-      "priority": 5
+      "priority": 5,
+      "keywords": "canal 10 -cancun"
     },
     {
       "name": "Canal 105 de Tacambaro",
@@ -1260,7 +1248,7 @@
     {
       "name": "Golden",
       "isFree": true,
-      "keywords": "golden -edge -multiplex -plus -premier -premier 2",
+      "keywords": "golden -edge -multiplex -plus -premier -2",
       "website": "http://televisa-networks.ioncom.mx/portfolio/golden/",
       "priority": 5
     },
@@ -1335,7 +1323,7 @@
     {
       "name": "Las Estrellas",
       "isFree": true,
-      "keywords": "las estrellas -europa -latin america",
+      "keywords": "las estrellas -europa -latin -america",
       "website": "https://www.lasestrellas.tv/",
       "priority": 5
     },
@@ -1482,7 +1470,7 @@
     {
       "name": "PSN",
       "isFree": true,
-      "keywords": "psn -canal 45.2",
+      "keywords": "psn -canal -45 -2",
       "website": "https://psn.si/",
       "priority": 5
     },
@@ -1795,7 +1783,7 @@
     {
       "name": "TVC",
       "isFree": true,
-      "keywords": "tvc -deportes -deportes 2",
+      "keywords": "tvc -deportes -2",
       "website": "http://www.pctvcanales.mx/canales/meganoticias-tvc",
       "priority": 5
     },

@@ -389,17 +389,7 @@
       "priority": 4
     },
     {
-      "name": "Dorcel",
-      "isFree": true,
-      "priority": 4
-    },
-    {
       "name": "Private",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Hustler",
       "isFree": true,
       "priority": 4
     },
@@ -754,11 +744,6 @@
       "priority": 10
     },
     {
-      "name": "Humor",
-      "isFree": true,
-      "priority": 4
-    },
-    {
       "name": "Jetix",
       "isFree": true,
       "priority": 4
@@ -802,11 +787,6 @@
     },
     {
       "name": "H!T Music",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "MUSIC +",
       "isFree": true,
       "priority": 5
     },
@@ -862,11 +842,6 @@
     },
     {
       "name": "FEM 3",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "H!T Music HU",
       "isFree": true,
       "priority": 5
     },
@@ -1369,12 +1344,6 @@
       "priority": 5
     },
     {
-      "name": "Spektrum Home+",
-      "isFree": true,
-      "website": "https://www.spektrumhome.hu/",
-      "priority": 5
-    },
-    {
       "name": "Super TV 2",
       "isFree": true,
       "website": "https://tv2play.hu/supertv2",
@@ -1606,12 +1575,6 @@
     },
     {
       "name": "M4 Sport",
-      "isFree": true,
-      "website": "https://m4sport.hu/",
-      "priority": 10
-    },
-    {
-      "name": "M4 Sport+",
       "isFree": true,
       "website": "https://m4sport.hu/",
       "priority": 10

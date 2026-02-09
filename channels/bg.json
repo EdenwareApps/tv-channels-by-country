@@ -81,7 +81,7 @@
     {
       "name": "Diema Sport",
       "isFree": true,
-      "keywords": "diema sport -2 -2 4k -3 -3 4k",
+      "keywords": "diema sport -2 -4k -3",
       "website": "https://diemaxtra.nova.bg/diemasport",
       "priority": 10
     },
@@ -182,11 +182,6 @@
     },
     {
       "name": "MM",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV+",
       "isFree": true,
       "priority": 5
     },
@@ -683,7 +678,7 @@
     {
       "name": "Diema",
       "isFree": true,
-      "keywords": "diema -family -sport -sport 2 -sport 2 4k -sport 3 -sport 3 4k",
+      "keywords": "diema -family -sport -2 -4k -3",
       "website": "https://diema.nova.bg/",
       "priority": 5
     },

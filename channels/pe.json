@@ -582,7 +582,7 @@
     {
       "name": "ATV+",
       "isFree": true,
-      "keywords": "atv+ -noticias",
+      "keywords": "atvplus -noticias",
       "website": "https://www.atv.pe/",
       "priority": 5
     },
@@ -811,7 +811,7 @@
     {
       "name": "Vision",
       "isFree": true,
-      "keywords": "vision -sur musica",
+      "keywords": "vision -sur -musica",
       "website": "https://www.vision.org.pe/",
       "priority": 4
     }

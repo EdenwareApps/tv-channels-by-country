@@ -313,7 +313,7 @@
     {
       "name": "GTV",
       "isFree": true,
-      "keywords": "gtv -sports +",
+      "keywords": "gtv -sports -plus",
       "website": "https://www.gbcghanaonline.com/",
       "priority": 5
     },
@@ -323,7 +323,7 @@
       "priority": 5
     },
     {
-      "name": "Hot GH",
+      "name": "Hot",
       "isFree": true,
       "priority": 5
     },
@@ -1133,7 +1133,7 @@
   ],
   "News": [
     {
-      "name": "ABC News GH",
+      "name": "ABC News",
       "isFree": true,
       "website": "https://abcnewsgh.com/",
       "priority": 5

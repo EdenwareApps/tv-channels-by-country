@@ -597,7 +597,7 @@
     {
       "name": "Canal 13",
       "isFree": true,
-      "keywords": "canal 13 -jujuy -la rioja -san juan -san luis",
+      "keywords": "canal 13 -jujuy -la -rioja -san -juan -luis",
       "website": "https://imperiotv.com.ar/programas2913/",
       "priority": 5
     },
@@ -1881,7 +1881,7 @@
     {
       "name": "Telefe",
       "isFree": true,
-      "keywords": "telefe -bahia blanca -buenos aires -cordoba -internacional -mar del plata -rosario -salta -santa fe -tucuman",
+      "keywords": "telefe -bahia -blanca -buenos -aires -cordoba -internacional -mar -del -plata -rosario -salta -santa -fe -tucuman",
       "website": "https://www.telefe.com",
       "priority": 5
     },
@@ -2024,7 +2024,7 @@
     {
       "name": "TV Publica",
       "isFree": true,
-      "keywords": "tv publica -fueguina -marcos paz",
+      "keywords": "tv publica -fueguina -marcos -paz",
       "website": "https://www.tvpublica.com.ar/",
       "priority": 5
     },
@@ -2084,12 +2084,6 @@
       "name": "VariedTV",
       "isFree": true,
       "website": "https://www.variedtv.online/",
-      "priority": 5
-    },
-    {
-      "name": "Venus",
-      "isFree": null,
-      "website": "http://www.venusgo.com/",
       "priority": 5
     },
     {
@@ -2379,7 +2373,7 @@
     {
       "name": "TyC Sports",
       "isFree": true,
-      "keywords": "tyc sports -2 -3 -4 -latin america -usa",
+      "keywords": "tyc sports -2 -3 -4 -latin -america -usa",
       "website": "http://www.tycsports.com/",
       "priority": 10
     },

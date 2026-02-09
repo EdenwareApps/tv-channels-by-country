@@ -115,42 +115,7 @@
       "priority": 4
     },
     {
-      "name": "24 Horas",
-      "isFree": null,
-      "priority": 4
-    },
-    {
       "name": "Clan",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Nova",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Mega",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Cuatro",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "FDF",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Divinity",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Energy",
       "isFree": null,
       "priority": 4
     },
@@ -160,52 +125,7 @@
       "priority": 4
     },
     {
-      "name": "DMAX",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "DKISS",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Ten",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Real Madrid CF",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Avista Televisión de Andalucía",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Corporación Aragonesa de Radio y Televisión",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "TPA 7",
-      "isFree": null,
-      "priority": 4
-    },
-    {
       "name": "TPA 8",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "IB 3",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "TV3 CAT",
       "isFree": null,
       "priority": 4
     },
@@ -256,21 +176,6 @@
       "priority": 4
     },
     {
-      "name": "Canal Extremadura",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "TVG",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "TVG 2",
-      "isFree": null,
-      "priority": 4
-    },
-    {
       "name": "Grupo Squirrel",
       "isFree": null,
       "priority": 4
@@ -281,37 +186,7 @@
       "priority": 4
     },
     {
-      "name": "Sumando",
-      "isFree": null,
-      "priority": 4
-    },
-    {
       "name": "Popular Television",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "La 7",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Televisión Murciana S.A",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Popular",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "La Verdad Radio y TV S.A",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "À Punt",
       "isFree": null,
       "priority": 4
     },
@@ -326,22 +201,7 @@
       "priority": 4
     },
     {
-      "name": "Menorca - Ibiza and Formentera",
-      "isFree": null,
-      "priority": 4
-    },
-    {
       "name": "Canal 4",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Canal Ocho*",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Menorca",
       "isFree": null,
       "priority": 4
     },
@@ -351,17 +211,7 @@
       "priority": 4
     },
     {
-      "name": "Santa Cruz de Tenerife - Arona - Tenerife",
-      "isFree": null,
-      "priority": 4
-    },
-    {
       "name": "El Hierro and La Gomera",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "La Provincia*",
       "isFree": null,
       "priority": 4
     },
@@ -398,7 +248,7 @@
     {
       "name": "8",
       "isFree": null,
-      "keywords": "8 tv -cadiz -catalunya -cadiz -estepaandalucia digital tvgiganet tv -moron",
+      "keywords": "8 tv -cadiz -catalunya -estepaandalucia -digital -tvgiganet -tv -moron",
       "priority": 4
     },
     {
@@ -1288,7 +1138,7 @@
     {
       "name": "Teve 4",
       "isFree": null,
-      "keywords": "teve 4 -la vall",
+      "keywords": "teve 4 -la -vall",
       "priority": 4
     },
     {
@@ -1322,812 +1172,377 @@
       "priority": 4
     },
     {
-      "name": "Lancelot TV ES",
+      "name": "Lancelot TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "LA 2 ES",
+      "name": "Cuatro",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Cuatro ES",
+      "name": "TV Canarias",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "La Sexta ES",
+      "name": "Castilla la Mancha TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M+ Vamos ES",
+      "name": "La 7",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "À Punt ES",
+      "name": "Canal Extremadura",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "TV Canarias ES",
+      "name": "Navarra TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Castilla la Mancha TV ES",
+      "name": "TVG TV Galicia",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "La 7 ES",
+      "name": "La Otra",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Canal Extremadura ES",
+      "name": "M+ Estrenos",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Navarra TV ES",
+      "name": "M+ Originales",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "TPA ES",
+      "name": "M+ Documentales",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "TVG TV Galicia ES",
+      "name": "M+ Acción",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "33 ES",
+      "name": "M+ Drama",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "La Ocho TV ES",
+      "name": "BBC Top Gear",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "La Otra ES",
+      "name": "Energy",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M+ Estrenos ES",
+      "name": "M+ Laliga TV 2",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M+ Originales ES",
+      "name": "M+ Deportes 2",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M+ Documentales ES",
+      "name": "M+ Golf",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "La Resistencia ES",
+      "name": "DAZN 2",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M+ Acción ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Drama ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Indie ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Max Avances ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TCM ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "BBC Top Gear ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Be Mad ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "AXN ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Comedy Central ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Cosmo ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "AXN Movies ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Energy ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Neox ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Atreseries ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "DAZN Laliga ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Laliga TV 2 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Laliga TV Hypermotion 2 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 2 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Deportes ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Deportes 2 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Deportes 3 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Ellas V ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Golf ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Golf 2 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "DAZN F1 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "DAZN 1 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "DAZN 2 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Eurosport 1 ES",
+      "name": "Eurosport 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Eurosport 2 ES",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Gol Play ES",
+      "name": "Gol Play",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Teledeporte ES",
+      "name": "Real Madrid TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Real Madrid TV ES",
+      "name": "Iberalia TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Caza y Pesca ES",
+      "name": "El Garage TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Iberalia TV ES",
+      "name": "Nat Geo Wild",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "El Garage TV ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Ubeat ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "National Geographic ES",
+      "name": "BBC History",
       "isFree": true,
       "priority": 7
     },
     {
-      "name": "Nat Geo Wild ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "BBC History ES",
+      "name": "Discovery",
       "isFree": true,
       "priority": 7
     },
     {
-      "name": "Discovery ES",
+      "name": "BBC Food",
       "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "DMAX ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "BBC Food ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "DKiss ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Divinity ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Nova ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Mega ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Ten ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Baby TV ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Disney Junior ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Nick Jr ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Nickelodeon ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Dreamworks ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Boing ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Clan TVE ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "ETB 3 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "SX3 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "MTV 00s ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Mezzo ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Mezzo Live ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Stingray Classica ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "24 Horas ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "BBC World ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "CNN Int ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Euronews ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TV5 Monde ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Bloomberg ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "El Toro TV ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Negocios TV ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "CGTN Español ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "EWTN ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Canal Sur Andalucía ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TVG Europa ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Canal Extremadura Sat ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TV3 Cat ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "EITB Basque ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Aragón TV Int ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Telemadrid Int",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Esport 3 ES",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Betevé ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Laliga TV 3 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Laliga TV 4 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Movistar Plus+ 2 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Laliga TV Hypermotion 3 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 4 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 5 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 6 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 7 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 8 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 9 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 10 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 11 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 12 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Liga de Campeones 13 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Deportes 4 ES",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "M+ Deportes 5 ES",
-      "isFree": true,
       "priority": 4
     },
     {
-      "name": "M+ Deportes 6 ES",
+      "name": "DKiss",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M+ Deportes 7 ES",
+      "name": "Mega",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "DAZN 3 ES",
+      "name": "Baby TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "DAZN 4 ES",
+      "name": "SX3",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Alquiler 1 ES",
+      "name": "MTV 00s",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Canal Fútbol Replay ES",
+      "name": "Mezzo",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Canal Historia ES",
+      "name": "Mezzo Live",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "AMC ES",
+      "name": "Stingray Classica",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "BOM Cine ES",
+      "name": "24 Horas",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Somos ES",
+      "name": "BBC World",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "LaLiga TV ES",
+      "name": "CNN Int",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Sol Musica ES",
+      "name": "El Toro TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Crimen & Investigacion ES",
+      "name": "EITB Basque",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "beIN LaLiga MAX 1 ES",
+      "name": "Laliga TV Hypermotion 3",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "beIN LaLiga MAX 2 ES",
+      "name": "M+ Liga de Campeones 4",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "beIN LaLiga MAX 3 ES",
+      "name": "M+ Liga de Campeones 5",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Canal Cocina ES",
+      "name": "M+ Liga de Campeones 6",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "AMC Break ES",
+      "name": "M+ Liga de Campeones 7",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Canal Decasa ES",
+      "name": "M+ Liga de Campeones 8",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "EnFamilia ES",
+      "name": "M+ Liga de Campeones 9",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "TVE Internacional Asia/Oceanía ES",
+      "name": "M+ Liga de Campeones 11",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Canal Sur 2 ES",
+      "name": "M+ Liga de Campeones 13",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Odisea ES",
+      "name": "M+ Deportes 4",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "TVE Internacional Europa/África ES",
+      "name": "M+ Deportes 5",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "A3Cine ES",
+      "name": "M+ Deportes 6",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "ISB TV ES",
+      "name": "DAZN 4",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Xtrm ES",
+      "name": "Canal Fútbol Replay",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Canal Hollywood ES",
+      "name": "Canal Historia",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Sundance TV ES",
+      "name": "AMC",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Dark ES",
+      "name": "LaLiga TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "AMC Crime ES",
+      "name": "beIN LaLiga MAX 2",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Antena 3 Internacional ES",
+      "name": "beIN LaLiga MAX 3",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Barca TV ES",
+      "name": "Canal Decasa",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Buen Viaje ES",
+      "name": "TVE Internacional Asia/Oceanía",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel En ES",
+      "name": "TVE Internacional Europa/África",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel De ES",
+      "name": "A3Cine",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Fr ES",
+      "name": "ISB TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Ru ES",
+      "name": "Sundance TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Es ES",
+      "name": "Barca TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Ar ES",
+      "name": "Buen Viaje",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Jp ES",
+      "name": "Olympic Channel De",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel It ES",
+      "name": "Olympic Channel Ru",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Pt ES",
+      "name": "Olympic Channel Es",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Ko ES",
+      "name": "Olympic Channel Ar",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel In ES",
+      "name": "Olympic Channel It",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Olympic Channel Cn ES",
+      "name": "Olympic Channel Ko",
       "isFree": true,
       "priority": 4
     },
@@ -2365,7 +1780,7 @@
     {
       "name": "Canal Taronja Osona",
       "isFree": true,
-      "keywords": "canal taronja osona -i moianes",
+      "keywords": "canal taronja osona -i -moianes",
       "priority": 5
     },
     {
@@ -2666,7 +2081,7 @@
     {
       "name": "Mijas 3",
       "isFree": true,
-      "keywords": "mijas 3.40 tv | mijas 3.40tv",
+      "keywords": "mijas 3 40 tv | mijas 3 40tv",
       "priority": 5
     },
     {
@@ -3357,7 +2772,7 @@
     {
       "name": "Canal 2000",
       "isFree": true,
-      "keywords": "canal 2000 -la solana",
+      "keywords": "canal 2000 -la -solana",
       "website": "http://www.canal2000.com/",
       "priority": 5
     },
@@ -3476,7 +2891,7 @@
     {
       "name": "Canal Sur",
       "isFree": true,
-      "keywords": "canal sur -2 -andalucia -andalucia -noticias",
+      "keywords": "canal sur -2 -andalucia -noticias",
       "website": "https://www.canalsur.es",
       "priority": 5
     },
@@ -3616,11 +3031,6 @@
       "isFree": true,
       "website": "https://www.dieztv.es/",
       "priority": 5
-    },
-    {
-      "name": "Discovery",
-      "isFree": true,
-      "priority": 7
     },
     {
       "name": "Durangaldeko Telebista",
@@ -3975,7 +3385,7 @@
     {
       "name": "Movistar Plus+",
       "isFree": true,
-      "keywords": "movistar plus+ -2",
+      "keywords": "movistar plusplus -2",
       "website": "https://www.movistarplus.es/",
       "priority": 5
     },
@@ -4119,7 +3529,7 @@
     {
       "name": "Punt 3",
       "isFree": true,
-      "keywords": "punt 3 -vall uixo",
+      "keywords": "punt 3 -vall -uixo",
       "website": "https://www.punt3.es/",
       "priority": 5
     },
@@ -4446,7 +3856,7 @@
     {
       "name": "TV 4",
       "isFree": true,
-      "keywords": "tv4 -la vall",
+      "keywords": "tv4 -la -vall",
       "website": "https://teve4.com/",
       "priority": 5
     },
@@ -4469,7 +3879,7 @@
       "priority": 5
     },
     {
-      "name": "TV BRICS Spanish",
+      "name": "TV BRICS",
       "isFree": true,
       "priority": 5
     },
@@ -4809,7 +4219,7 @@
     {
       "name": "Barca",
       "isFree": true,
-      "keywords": "barca tv -+",
+      "keywords": "barca tv -plus",
       "website": "http://barcatv.fcbarcelona.cat/",
       "priority": 5
     },
@@ -4965,7 +4375,7 @@
     {
       "name": "LaLiga",
       "isFree": true,
-      "keywords": "laliga tv -bar -bar 1 -bar 2 -bar 3 -bar 4",
+      "keywords": "laliga tv -bar -1 -2 -3 -4",
       "website": "http://www.laliga.es/laligatv",
       "priority": 5
     },
@@ -5508,7 +4918,7 @@
   "Travel": [],
   "Kids": [
     {
-      "name": "Animes TV ES",
+      "name": "Animes TV",
       "isFree": true,
       "priority": 5
     },
@@ -6070,7 +5480,7 @@
     {
       "name": "La Resistencia",
       "isFree": true,
-      "keywords": "la resistencia -por movistar plus+",
+      "keywords": "la resistencia -por -movistar -plusplus",
       "priority": 5
     },
     {

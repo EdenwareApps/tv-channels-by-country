@@ -96,7 +96,7 @@
       "priority": 5
     },
     {
-      "name": "I UA",
+      "name": "I",
       "isFree": true,
       "website": "https://i-ua.tv/",
       "priority": 5
@@ -213,7 +213,7 @@
       "priority": 5
     },
     {
-      "name": "Music Box UA",
+      "name": "Music Box",
       "isFree": true,
       "priority": 5
     },
@@ -503,84 +503,33 @@
       "priority": 5
     },
     {
-      "name": "ICTV UA",
+      "name": "К1",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "К1 UA",
+      "name": "Enter фильм",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Enter фильм UA",
+      "name": "News One",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "М1 UA",
+      "name": "ZIK",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "News One UA",
+      "name": "Pro Все",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "ZIK UA",
+      "name": "Cine, Mix",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Pro Все UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Cine, Legend UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Cine, Mix UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Cine, Hit UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Da Vinci Learning UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Zoom UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "К2 UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "НЛО TV UA",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Xsport UA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "Sonce",
-      "isFree": true,
-      "website": "https://sonce.tv/",
       "priority": 5
     }
   ],
@@ -638,22 +587,18 @@
     {
       "name": "KS TV - Kids",
       "isFree": true,
-      "keywords": "ks tv | kids -planet",
+      "keywords": "ks tv | kids -planet | kids",
       "website": "https://tv.kyivstar.ua/en/live-channels/5fc642585414554c17e4cb9e-ks-tv-kids-hd",
-      "priority": 5
+      "priority": 5,
+      "_altWebsites": [
+        "https://tv.kyivstar.ua/en/live-channels/64d60202e4b02862812bdf7a-ks-tv-kids"
+      ]
     },
     {
       "name": "KS TV - Kids Planet",
       "isFree": true,
       "keywords": "ks tv | kids planet",
       "website": "https://tv.kyivstar.ua/en/live-channels/64d602eee4b0286281387875-ks-tv-kids-planet",
-      "priority": 5
-    },
-    {
-      "name": "KS TV - Kids,",
-      "isFree": true,
-      "keywords": "ks tv | kids,",
-      "website": "https://tv.kyivstar.ua/en/live-channels/64d60202e4b02862812bdf7a-ks-tv-kids",
       "priority": 5
     },
     {
@@ -666,7 +611,7 @@
     {
       "name": "KS TV - Paramount, Kids",
       "isFree": true,
-      "keywords": "ks tv | paramount, kids",
+      "keywords": "ks tv | paramount kids",
       "website": "https://tv.kyivstar.ua/en/live-channels/611ba845f51485075a2b4ff3-ks-tv-paramount-kids",
       "priority": 5
     },
@@ -807,13 +752,10 @@
       "name": "Setanta Sports, Ukraine",
       "isFree": true,
       "website": "https://setantasports.com/uk/",
-      "priority": 10
-    },
-    {
-      "name": "Setanta Sports Ukraine",
-      "isFree": true,
-      "website": "https://www.setanta.com.ua/",
-      "priority": 10
+      "priority": 10,
+      "_altWebsites": [
+        "https://www.setanta.com.ua/"
+      ]
     },
     {
       "name": "Shakhtar",
@@ -1405,28 +1347,28 @@
     {
       "name": "KS TV - Above the clouds",
       "isFree": true,
-      "keywords": "ks tv | above the clouds. relax",
+      "keywords": "ks tv | above the clouds relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611d0c84f51485075ae81121-ks-tv-clouds-relax",
       "priority": 5
     },
     {
       "name": "KS TV - Air",
       "isFree": true,
-      "keywords": "ks tv | air. relax",
+      "keywords": "ks tv | air relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611d09c4f51485075ae5d183-ks-tv-air-relax",
       "priority": 5
     },
     {
       "name": "KS TV - Animals",
       "isFree": true,
-      "keywords": "ks tv | animals. relax",
+      "keywords": "ks tv | animals relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611d0d69f51485075ae8dc9c-ks-tv-animals-relax",
       "priority": 5
     },
     {
       "name": "KS TV - Aquarium",
       "isFree": true,
-      "keywords": "ks tv | aquarium. relax",
+      "keywords": "ks tv | aquarium relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611d07c9f51485075ae46a9b-ks-tv-aquarium-relax",
       "priority": 5
     },
@@ -1440,7 +1382,7 @@
     {
       "name": "KS TV - Beach",
       "isFree": true,
-      "keywords": "ks tv | beach. relax",
+      "keywords": "ks tv | beach relax",
       "priority": 5
     },
     {
@@ -1459,22 +1401,18 @@
     {
       "name": "KS TV - Comedy",
       "isFree": true,
-      "keywords": "ks tv | comedy -series",
+      "keywords": "ks tv | comedy -series | comedy",
       "website": "https://tv.kyivstar.ua/en/live-channels/5f99574855b4a5677105b49e-ks-tv-comedy-hd",
-      "priority": 5
+      "priority": 5,
+      "_altWebsites": [
+        "https://tv.kyivstar.ua/en/live-channels/6425bcbc6e1448e07191cb7b-ks-tv-comedy-hd"
+      ]
     },
     {
       "name": "KS TV - Comedyland",
       "isFree": true,
       "keywords": "ks tv | comedyland",
       "website": "https://tv.kyivstar.ua/en/live-channels/64d5fc8ae4b028628122256f-ks-tv-comedyland",
-      "priority": 5
-    },
-    {
-      "name": "KS TV - Comedy,",
-      "isFree": true,
-      "keywords": "ks tv | comedy,",
-      "website": "https://tv.kyivstar.ua/en/live-channels/6425bcbc6e1448e07191cb7b-ks-tv-comedy-hd",
       "priority": 5
     },
     {
@@ -1501,7 +1439,7 @@
     {
       "name": "KS TV - Crimean bridge it's over",
       "isFree": true,
-      "keywords": "ks tv | crimean bridge it's over",
+      "keywords": "ks tv | crimean bridge it s over",
       "website": "https://tv.kyivstar.ua/en/live-channels/634155b445b4e86497aa384f-ks-tv-crimean-bridge-its-over",
       "priority": 5
     },
@@ -1522,14 +1460,14 @@
     {
       "name": "KS TV - Doctors' hearts",
       "isFree": true,
-      "keywords": "ks tv | doctors' hearts",
+      "keywords": "ks tv | doctors hearts",
       "website": "https://tv.kyivstar.ua/en/live-channels/646df4f5e4b0f13e55a40d2f-ks-tv-doctors-hearts",
       "priority": 5
     },
     {
       "name": "KS TV - Dorama,",
       "isFree": true,
-      "keywords": "ks tv | dorama,",
+      "keywords": "ks tv | dorama",
       "website": "https://tv.kyivstar.ua/en/live-channels/64b90aeee4b071015a3d08b2-ks-tv-dorama-hd",
       "priority": 5
     },
@@ -1538,20 +1476,16 @@
       "isFree": true,
       "keywords": "ks tv | drama",
       "website": "https://tv.kyivstar.ua/en/live-channels/60a7807d72f48fe0cd655927-ks-tv-drama-hd",
-      "priority": 5
+      "priority": 5,
+      "_altWebsites": [
+        "https://tv.kyivstar.ua/en/live-channels/64e5f87646744d662a28159f-ks-tv-drama"
+      ]
     },
     {
       "name": "KS TV - Drama,",
       "isFree": true,
-      "keywords": "ks tv | drama,",
+      "keywords": "ks tv | drama",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5f87646744d662a28159f-ks-tv-drama",
-      "priority": 5
-    },
-    {
-      "name": "KS TV - Earth",
-      "isFree": true,
-      "keywords": "ks tv | earth. relax",
-      "website": "https://tv.kyivstar.ua/en/live-channels/611d089af51485075ae46c6a-ks-tv-earth-relax",
       "priority": 5
     },
     {
@@ -1559,12 +1493,6 @@
       "isFree": true,
       "keywords": "ks tv | el secreto de puente viejo",
       "website": "https://tv.kyivstar.ua/en/live-channels/636a58801774ee006e1a03ac-ks-tv-el-secreto-de-puente-viejo",
-      "priority": 5
-    },
-    {
-      "name": "KS TV - Erotica",
-      "isFree": null,
-      "keywords": "ks tv | erotica",
       "priority": 5
     },
     {
@@ -1590,7 +1518,7 @@
     {
       "name": "KS TV - Fire",
       "isFree": true,
-      "keywords": "ks tv | fire. relax",
+      "keywords": "ks tv | fire relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611d0bcaf51485075ae7bbda-ks-tv-fire-relax",
       "priority": 5
     },
@@ -1610,7 +1538,7 @@
     {
       "name": "KS TV - Humor,",
       "isFree": true,
-      "keywords": "ks tv | humor,",
+      "keywords": "ks tv | humor",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5fd4e46744d662a50a976-ks-tv-humor",
       "priority": 5
     },
@@ -1644,7 +1572,7 @@
     {
       "name": "KS TV - Lullaby",
       "isFree": true,
-      "keywords": "ks tv | lullaby. relax",
+      "keywords": "ks tv | lullaby relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611d0e29f51485075ae8e50a-ks-tv-lullaby-relax",
       "priority": 5
     },
@@ -1660,12 +1588,15 @@
       "isFree": true,
       "keywords": "ks tv | mystic",
       "website": "https://tv.kyivstar.ua/en/live-channels/64aeb7b5e4b07101483f8e18-ks-tv-mystic",
-      "priority": 5
+      "priority": 5,
+      "_altWebsites": [
+        "https://tv.kyivstar.ua/en/live-channels/64e5f1f446744d662a0b80c2-ks-tv-mystic"
+      ]
     },
     {
       "name": "KS TV - Mystic,",
       "isFree": true,
-      "keywords": "ks tv | mystic,",
+      "keywords": "ks tv | mystic",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5f1f446744d662a0b80c2-ks-tv-mystic",
       "priority": 5
     },
@@ -1677,23 +1608,16 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Reality",
-      "isFree": true,
-      "keywords": "ks tv | reality",
-      "website": "https://tv.kyivstar.ua/en/live-channels/60f57fa2d0348f88859b2c60-ks-tv-reality-hd",
-      "priority": 5
-    },
-    {
       "name": "KS TV - Reality,",
       "isFree": true,
-      "keywords": "ks tv | reality,",
+      "keywords": "ks tv | reality",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e6006546744d662a6e6353-ks-tv-reality",
       "priority": 5
     },
     {
       "name": "KS TV - Secret 18,",
       "isFree": null,
-      "keywords": "ks tv | secret 18,",
+      "keywords": "ks tv | secret 18",
       "priority": 5
     },
     {
@@ -1704,23 +1628,16 @@
       "priority": 5
     },
     {
-      "name": "KS TV - Snidanok with 1,",
-      "isFree": true,
-      "keywords": "ks tv | snidanok with 1,1",
-      "website": "https://tv.kyivstar.ua/en/live-channels/60a7825672f48fe0cd659ef8-ks-tv-snidanok-with-1-1-hd",
-      "priority": 5
-    },
-    {
       "name": "KS TV - Space",
       "isFree": true,
-      "keywords": "ks tv | space. relax",
+      "keywords": "ks tv | space relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/644a18bff8f476b40042739f-ks-tv-space-relax",
       "priority": 5
     },
     {
       "name": "KS TV - Team,",
       "isFree": true,
-      "keywords": "ks tv | team,",
+      "keywords": "ks tv | team",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5b20c6fb4afb023b742eb-ks-tv-team",
       "priority": 5
     },
@@ -1776,14 +1693,14 @@
     {
       "name": "KS TV - Waterfall",
       "isFree": true,
-      "keywords": "ks tv | waterfall. relax",
+      "keywords": "ks tv | waterfall relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611d100ff51485075aebcf58-ks-tv-waterfall-relax",
       "priority": 5
     },
     {
       "name": "KS TV - Water",
       "isFree": true,
-      "keywords": "ks tv | water. relax",
+      "keywords": "ks tv | water relax",
       "website": "https://tv.kyivstar.ua/en/live-channels/611bc98ffeb4c2e51c22054f-ks-tv-water-relax",
       "priority": 5
     },
@@ -2188,7 +2105,7 @@
     {
       "name": "KS TV - History,",
       "isFree": true,
-      "keywords": "ks tv | history,",
+      "keywords": "ks tv | history",
       "website": "https://tv.kyivstar.ua/en/live-channels/64e5bc90e4b01e556c0af0cd-ks-tv-history",
       "priority": 7
     },
@@ -2241,7 +2158,7 @@
     {
       "name": "Black",
       "isFree": true,
-      "keywords": "black -sea tv",
+      "keywords": "black -sea -tv",
       "priority": 5
     },
     {
@@ -2338,7 +2255,7 @@
     {
       "name": "Cine,",
       "isFree": true,
-      "keywords": "cine, -hit -kids -legend",
+      "keywords": "cine -hit -kids -legend",
       "website": "https://cineplus.volia.com/",
       "priority": 5
     },
@@ -2438,7 +2355,7 @@
     {
       "name": "KS TV - Series",
       "isFree": true,
-      "keywords": "ks tv | series -about love",
+      "keywords": "ks tv | series -about -love",
       "website": "https://tv.kyivstar.ua/en/live-channels/5fc643105414554c17e4ce62-ks-tv-series-hd",
       "priority": 5
     },

@@ -35,16 +35,13 @@
       "priority": 4
     },
     {
-      "name": "Faith Africa",
-      "isFree": true,
-      "website": "https://africa.myfaith.tv/",
-      "priority": 4
-    },
-    {
       "name": "Faith",
       "isFree": true,
-      "website": "https://myfaith.tv/",
-      "priority": 4
+      "website": "https://africa.myfaith.tv/",
+      "priority": 4,
+      "_altWebsites": [
+        "https://myfaith.tv/"
+      ]
     },
     {
       "name": "Fano",
@@ -59,7 +56,7 @@
       "priority": 4
     },
     {
-      "name": "GOD TV Africa",
+      "name": "GOD TV",
       "isFree": true,
       "website": "https://www.god.tv/",
       "priority": 4
@@ -77,7 +74,7 @@
       "priority": 4
     },
     {
-      "name": "Hope Channel Africa",
+      "name": "Hope Channel",
       "isFree": true,
       "website": "https://www.hopeafrica.tv/",
       "priority": 4
@@ -177,7 +174,7 @@
       "priority": 4
     },
     {
-      "name": "SOTV Africa",
+      "name": "SOTV",
       "isFree": true,
       "website": "https://sotv.africa/",
       "priority": 4
@@ -201,627 +198,192 @@
       "priority": 4
     },
     {
-      "name": "Akwaaba Magic Abusua ZA",
+      "name": "Akwaaba Magic Abusua",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "W Sport ZA",
+      "name": "W Sport",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Boing ZA",
+      "name": "Boing",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Cartoonito ZA",
+      "name": "Cartoonito",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "ST Sino Drama ZA",
+      "name": "ST Sino Drama",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "EWTN ZA",
+      "name": "EWTN",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "SuperSport Blitz ZA",
+      "name": "SuperSport Maximo 1",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "SuperSport Grandstand ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport PSL ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Premier League ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport LaLiga ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Football ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Action ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Variety 2 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Variety 3 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport WWE ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Variety 1 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Rugby ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Cricket ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Golf ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Tennis ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Motorsport ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport School ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport ESPN ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport ESPN 2 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Maximo 1 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Community Services Network ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport Events ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport OTT ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport OTT 2 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport OTT 3 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport OTT 5 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport OTT 6 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport OTT 7 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "SuperSport OTT 8 ZA",
-      "isFree": true,
-      "priority": 10
-    },
-    {
-      "name": "1 KZN ZA",
+      "name": "BBC Brit",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "BBC Brit ZA",
+      "name": "Bay TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "BBC Earth ZA",
+      "name": "Bloomberg",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "BBC Lifestyle ZA",
+      "name": "Business Day TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "BET ZA",
+      "name": "CNBC Africa",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Bay TV ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Bloomberg ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Business Day TV ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "CBS Justice ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "CBS Reality ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "CNBC Africa ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Cape Town TV ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Cartoon Network ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Cbeebies ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Channel O ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Comedy Central ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Curiosity Channel ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "DaVinci Kids ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Discovery Channel ZA",
+      "name": "Discovery Channel",
       "isFree": true,
       "priority": 7
     },
     {
-      "name": "Discovery Family ZA",
+      "name": "Discovery IDx",
       "isFree": true,
       "priority": 7
     },
     {
-      "name": "Discovery IDx ZA",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "Disney Channel ZA",
+      "name": "E! Entertainment",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Disney Junior ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Dumisa ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "E! Entertainment ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "ESPN 1 Africa ZA",
+      "name": "ESPN 1 Africa",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "ESPN 2 Africa ZA",
+      "name": "ESPN 2 Africa",
       "isFree": true,
       "priority": 10
     },
     {
-      "name": "Emmanuel TV ZA",
+      "name": "Emmanuel TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "EuroNews Africa ZA",
+      "name": "EuroNews Africa",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Faith ZA",
+      "name": "GauTV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Food Network ZA",
+      "name": "JimJam",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "GauTV ZA",
+      "name": "KIX",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "HGTV ZA",
+      "name": "Lesotho TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "HISTORY ZA",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "JimJam ZA",
+      "name": "M-Net City",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "KIX ZA",
+      "name": "Mindset",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "KykNET Nou! ZA",
+      "name": "NDTV247",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Lesotho TV ZA",
+      "name": "Nat Geo Wild",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M-Net ZA",
+      "name": "Nick Jr",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M-Net City ZA",
+      "name": "People’s Weather",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M-Net Movies 1 ZA",
+      "name": "RTP Internacional",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M-Net Movies 2 ZA",
+      "name": "Sky News",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M-Net Movies 3 ZA",
+      "name": "Spice TV",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "M-Net Movies 4 ZA",
+      "name": "TLC",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "MTV ZA",
+      "name": "Trace Africa",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "MTV Base ZA",
+      "name": "Travel Channel",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Mindset ZA",
+      "name": "Universal Channel",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "MovieRoom Africa ZA",
+      "name": "Vuzu AMP",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Mzansi Bioskop ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Mzansi Magic ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Mzansi Magic Music ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Mzansi Wethu ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "NDTV247 ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "National Geographic ZA",
-      "isFree": true,
-      "priority": 7
-    },
-    {
-      "name": "Nat Geo Wild ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Nick Jr ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "NickTOONS ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Nickelodeon ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "One Gospel ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Parliamentary Service ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "People’s Weather ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "ROK ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "RTP Internacional ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "SABC 1 ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "SABC 2 ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "SABC 3 ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "SABC News ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Sky News ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Sound City ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Soweto TV ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Spice TV ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Studio Universal ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TBN ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TLC ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TNT Africa ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "TV5 Monde Afrique ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "The Home Channel ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Trace Africa ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Trace Urban ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Travel Channel ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Tshwane TV ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Universal Channel ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "VIA ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Vuzu AMP ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Zee World ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "eNCA ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "e.tv ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "iTV ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "kykNET ZA",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "kykNET & Kie ZA",
+      "name": "iTV",
       "isFree": true,
       "priority": 4
     }
@@ -962,13 +524,7 @@
     {
       "name": "e.tv",
       "isFree": true,
-      "keywords": "e.tv -africa -news & sport",
-      "website": "https://www.etv.co.za/",
-      "priority": 5
-    },
-    {
-      "name": "e.tv Africa",
-      "isFree": true,
+      "keywords": "e tv -news -sport",
       "website": "https://www.etv.co.za/",
       "priority": 5
     },
@@ -997,7 +553,7 @@
       "priority": 5
     },
     {
-      "name": "HGTV South Africa",
+      "name": "HGTV",
       "isFree": true,
       "priority": 5
     },
@@ -1022,7 +578,7 @@
     {
       "name": "KykNet",
       "isFree": true,
-      "keywords": "kyknet -lekker!",
+      "keywords": "kyknet -lekker",
       "website": "https://kyknet.dstv.com/",
       "priority": 5
     },
@@ -1057,7 +613,7 @@
       "priority": 5
     },
     {
-      "name": "LOL Africa",
+      "name": "LOL",
       "isFree": true,
       "priority": 5
     },
@@ -1112,7 +668,7 @@
     {
       "name": "M-Net",
       "isFree": true,
-      "keywords": "m-net -movies 1 -movies 2 -movies 3 -movies 4 -movies men of action",
+      "keywords": "m-net-movies -1 -movies -2 -3 -4 -men -of -action",
       "website": "https://m-net.dstv.com/",
       "priority": 5
     },
@@ -1134,7 +690,7 @@
       "priority": 5
     },
     {
-      "name": "MTV Africa",
+      "name": "MTV",
       "isFree": true,
       "website": "http://www.mtv.co.za/",
       "priority": 5
@@ -1256,13 +812,13 @@
       "priority": 5
     },
     {
-      "name": "TBN Africa",
+      "name": "TBN",
       "isFree": true,
       "website": "https://www.tbnafrica.org/",
       "priority": 5
     },
     {
-      "name": "Telemundo Africa",
+      "name": "Telemundo",
       "isFree": true,
       "website": "http://www.telemundo.com/",
       "priority": 5
@@ -1291,12 +847,12 @@
       "priority": 5
     },
     {
-      "name": "TV BRICS Africa",
+      "name": "TV BRICS",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Universal TV Africa",
+      "name": "Universal TV",
       "isFree": true,
       "website": "http://www.universaltv.co.za/",
       "priority": 5
@@ -1329,13 +885,13 @@
       "priority": 5
     },
     {
-      "name": "Zee One Africa",
+      "name": "Zee One",
       "isFree": true,
       "website": "http://zeeone.zeeafrica.tv/",
       "priority": 5
     },
     {
-      "name": "Zee TV Africa",
+      "name": "Zee TV",
       "isFree": true,
       "website": "https://www.zee.com/business_channels/africa/",
       "priority": 5
@@ -1372,7 +928,7 @@
       "priority": 5
     },
     {
-      "name": "MTV Base Africa",
+      "name": "MTV Base",
       "isFree": true,
       "website": "http://www.mtvbase.com/",
       "priority": 5
@@ -1496,7 +1052,7 @@
   ],
   "Education & Culture": [
     {
-      "name": "BRICS Africa",
+      "name": "BRICS",
       "isFree": true,
       "website": "https://www.bricsafricachannel.com/channel/inform",
       "priority": 5
@@ -1514,13 +1070,13 @@
       "priority": 5
     },
     {
-      "name": "National Geographic South Africa",
+      "name": "National Geographic",
       "isFree": true,
       "website": "http://www.natgeotv.com/za",
       "priority": 7
     },
     {
-      "name": "National Geographic Wild South Africa",
+      "name": "National Geographic Wild",
       "isFree": true,
       "website": "http://www.natgeotv.com/za/wild",
       "priority": 7
@@ -1552,13 +1108,13 @@
       "priority": 5
     },
     {
-      "name": "CNBC Africa",
+      "name": "CNBC",
       "isFree": true,
       "website": "https://www.cnbcafrica.com/",
       "priority": 5
     },
     {
-      "name": "eNews Channel Africa",
+      "name": "eNews Channel",
       "isFree": true,
       "website": "https://www.enca.com/",
       "priority": 5
@@ -1608,7 +1164,7 @@
   ],
   "Kids": [
     {
-      "name": "Disney Junior South Africa",
+      "name": "Disney Junior",
       "isFree": true,
       "website": "http://www.disney.co.za/disney-junior/",
       "priority": 5
@@ -1626,19 +1182,19 @@
       "priority": 5
     },
     {
-      "name": "Nickelodeon Africa",
+      "name": "Nickelodeon",
       "isFree": true,
       "website": "http://www.nickelodeonafrica.com/",
       "priority": 5
     },
     {
-      "name": "Nick Jr. Africa",
+      "name": "Nick Jr.",
       "isFree": true,
       "website": "http://www.nickelodeonafrica.com/",
       "priority": 5
     },
     {
-      "name": "Nicktoons Africa",
+      "name": "Nicktoons",
       "isFree": true,
       "website": "http://www.nickelodeonafrica.com/micro/nicktoons/qzj5mr",
       "priority": 5
@@ -1651,13 +1207,13 @@
   ],
   "Sports": [
     {
-      "name": "ESPN 2 Africa",
+      "name": "ESPN 2",
       "isFree": true,
       "website": "https://africa.espn.com/",
       "priority": 10
     },
     {
-      "name": "ESPN Africa",
+      "name": "ESPN",
       "isFree": true,
       "website": "https://africa.espn.com/",
       "priority": 10
@@ -1953,7 +1509,7 @@
       "priority": 10
     },
     {
-      "name": "WWE Channel Africa",
+      "name": "WWE Channel",
       "isFree": true,
       "website": "https://www.supersport.com/",
       "priority": 5

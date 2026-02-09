@@ -31,7 +31,7 @@
     {
       "name": "Al Jazeera Mubasher",
       "isFree": true,
-      "keywords": "al jazeera mubasher -24 -broadcast 2",
+      "keywords": "al jazeera mubasher -24 -broadcast -2",
       "retransmits": "Al Jazeera",
       "shortName": "AJ Mubasher",
       "website": "https://www.aljazeera.net",
@@ -57,11 +57,6 @@
     }
   ],
   "Sports": [
-    {
-      "name": "Al Kass Five",
-      "keywords": "al kass five | alkass five",
-      "priority": 5
-    },
     {
       "name": "Alkass Eight",
       "isFree": true,
@@ -130,7 +125,7 @@
     },
     {
       "name": "beIN Sports",
-      "keywords": "bein sports -1 -2 -3 -4 -5 -6 -7 -8 -afc -afc 1 -afc 2 -afc 3 -en espanol -english 1 -english 2 -english 3 -french 1 -french 2 -french 3 -max 1 -max 10 -max 2 -max 3 -max 4 -max 5 -max 6 -max 7 -max 8 -max 9 -nba -news -premium 1 -premium 2 -premium 3 -xtra 1 -xtra 2",
+      "keywords": "bein sports -1 -2 -3 -4 -5 -6 -7 -8 -afc -en -espanol -english -french -max -10 -9 -nba -news -premium -xtra",
       "shortName": "beIN",
       "website": "https://www.beinsports.com",
       "priority": 10
@@ -344,7 +339,8 @@
       "name": "Alkass Five",
       "isFree": true,
       "website": "https://www.alkass.net/",
-      "priority": 5
+      "priority": 5,
+      "keywords": "al kass five | alkass five"
     }
   ],
   "Religious": [
@@ -369,7 +365,7 @@
     {
       "name": "Al Rayyan",
       "isFree": true,
-      "keywords": "al rayyan -al qadeem",
+      "keywords": "al rayyan -al -qadeem",
       "website": "https://www.alrayyan.tv/",
       "priority": 5
     },

@@ -26,7 +26,7 @@
       "priority": 5
     },
     {
-      "name": "Der Serienkanal - CH",
+      "name": "Der Serienkanal -",
       "isFree": true,
       "priority": 5
     },
@@ -42,12 +42,12 @@
       "priority": 5
     },
     {
-      "name": "Drama - CH",
+      "name": "Drama -",
       "isFree": true,
       "priority": 5
     },
     {
-      "name": "Family - CH",
+      "name": "Family -",
       "isFree": true,
       "priority": 5
     },
@@ -123,7 +123,7 @@
       "priority": 5
     },
     {
-      "name": "Spotlight - CH",
+      "name": "Spotlight -",
       "isFree": true,
       "priority": 5
     },
@@ -200,12 +200,6 @@
       "name": "Auftanken",
       "isFree": true,
       "website": "https://www.auftanken.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Babestation 24",
-      "isFree": null,
-      "website": "https://www.babestation24.com/",
       "priority": 5
     },
     {
@@ -389,7 +383,7 @@
     {
       "name": "My German",
       "isFree": true,
-      "keywords": "my german tv -+",
+      "keywords": "my german tv -plus",
       "website": "https://www.mygermantv.com/",
       "priority": 5
     },
@@ -840,11 +834,11 @@
   ],
   "Movies & Series": [
     {
-      "name": "Action Movies - CH",
+      "name": "Action Movies -",
       "priority": 5
     },
     {
-      "name": "Comedy Movies - CH",
+      "name": "Comedy Movies -",
       "priority": 5
     },
     {
