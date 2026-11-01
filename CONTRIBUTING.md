@@ -50,7 +50,7 @@ Only use `retransmits` for channels that rebroadcast another network's programmi
 1. Fork the repository.
 2. Create a branch (`git checkout -b fix/add-channels-br`).
 3. Make your changes.
-4. Run tests: `npm test`.
+4. Validate the data and run the tests: `npm run validate` then `npm run build && npm test`.
 5. Commit with a clear message.
 6. Open a PR describing the changes.
 
