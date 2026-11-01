@@ -259,14 +259,14 @@
       "priority": 5
     },
     {
+      "_alt_origName": [
+        "M6 (TV channel)"
+      ],
       "name": "M 6",
       "isFree": true,
       "keywords": "m6 -international",
       "website": "https://www.6play.fr",
-      "priority": 5,
-      "_alt_origName": [
-        "M6 (TV channel)"
-      ]
+      "priority": 5
     },
     {
       "name": "M6 International",
@@ -3441,6 +3441,181 @@
       "isFree": true,
       "website": "https://www.mezzo.tv/",
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TF1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "france.tv slash",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "La Une",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "La Trois",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Tipik",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RTS 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RTS 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SRF 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SRF zwei",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ZDF",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Das Erste",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "VOX",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RTL",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TVE",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "La 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "La 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RAI 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RAI 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RAI 3",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Rai Storia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ORTM",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "2STV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CRTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Vox Africa",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "2M Maroc",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Local": [
@@ -3506,6 +3681,21 @@
     },
     {
       "name": "viàVosges",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Polynesie 1ere",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Guyane 1ere",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Nouvelle-Caledonie 1ere",
       "isFree": true,
       "priority": 5
     }
@@ -3792,6 +3982,51 @@
       "isFree": true,
       "website": "https://ubiznewstv.com/",
       "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "N-TV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Kids": [
@@ -3928,6 +4163,26 @@
       "name": "XilamTV",
       "isFree": true,
       "website": "https://xilam.com/en/",
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Super RTL",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -4351,6 +4606,11 @@
       "name": "RugbyZone",
       "isFree": true,
       "website": "https://rugbyzone.tv/",
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -4834,9 +5094,9 @@
     },
     {
       "name": "Wildside",
+      "isFree": true,
       "keywords": "wild side tv | wildside tv",
-      "priority": 5,
-      "isFree": true
+      "priority": 5
     },
     {
       "name": "Afro Novelas",

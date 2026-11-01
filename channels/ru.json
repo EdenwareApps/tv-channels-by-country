@@ -2688,6 +2688,51 @@
       "name": "Shot TV",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
@@ -2873,6 +2918,56 @@
       "name": "World Business",
       "isFree": true,
       "website": "http://www.wbc.com.ru/",
+      "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -3147,6 +3242,21 @@
       "name": "V gostyakh u skazki",
       "isFree": true,
       "website": "https://skazka-tv.com/",
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -3523,6 +3633,16 @@
       "name": "Vital Tennis",
       "isFree": true,
       "website": "https://vslive.pw/",
+      "priority": 5
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
       "priority": 5
     }
   ],

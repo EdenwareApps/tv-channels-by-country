@@ -2474,6 +2474,46 @@
       "name": "Telepavia",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TLC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "R101 TV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Music Videos": [
@@ -2674,6 +2714,11 @@
     },
     {
       "name": "Zerouno TV Music",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RTL 102.5",
       "isFree": true,
       "priority": 5
     }
@@ -2884,6 +2929,56 @@
     },
     {
       "name": "Zerouno TV News",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TGCom24",
       "isFree": true,
       "priority": 5
     }
@@ -3765,6 +3860,26 @@
       "isFree": true,
       "website": "https://www.dazn.com/en-IT/schedule",
       "priority": 5
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Sky Sport NBA",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Solocalcio",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Shop": [
@@ -4049,6 +4164,21 @@
       "name": "Nick Jr.",
       "isFree": true,
       "website": "http://www.nickjr.it/",
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
       "priority": 5
     }
   ]

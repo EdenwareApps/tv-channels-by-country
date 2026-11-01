@@ -2470,6 +2470,11 @@
       "name": "The Guardian",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "TRT World",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Local": [
@@ -4268,9 +4273,9 @@
       "name": "BBC One",
       "isFree": true,
       "keywords": "bbc one -cambridge -channel -islands -east -midlands -yorkshire -london -north -west -northern -ireland -oxford -scotland -south -wales -yorks",
+      "shortName": "BBC One",
       "website": "https://www.bbc.co.uk/iplayer",
-      "priority": 5,
-      "shortName": "BBC One"
+      "priority": 5
     },
     {
       "name": "BBC Pie",
@@ -4288,9 +4293,9 @@
       "name": "BBC Two",
       "isFree": true,
       "keywords": "bbc two -england -northen -ireland -northern -hd -wales",
+      "shortName": "BBC Two",
       "website": "https://www.bbc.co.uk/iplayer",
-      "priority": 5,
-      "shortName": "BBC Two"
+      "priority": 5
     },
     {
       "name": "BBC UHD",
@@ -5282,6 +5287,41 @@
       "isFree": true,
       "website": "https://zingtv.co.uk",
       "priority": 5
+    },
+    {
+      "name": "alibi",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Eden",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "HUM Masala",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Utsav Gold",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Pitaara",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Viaplay Sports 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Viaplay Sports 2",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Music Videos": [
@@ -5633,6 +5673,11 @@
     },
     {
       "name": "VH1 Classic Europe",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NOW 90s",
       "isFree": true,
       "priority": 5
     }

@@ -504,16 +504,16 @@
       "name": "Noa 4 Hamburg",
       "isFree": true,
       "keywords": "noa 4 hamburg | noa4 hamburg -hd",
-      "priority": 5,
-      "website": "https://www.noa4.de/hamburg.html"
+      "website": "https://www.noa4.de/hamburg.html",
+      "priority": 5
     },
     {
       "name": "Noa 4 Norderstedt",
       "isFree": true,
       "keywords": "noa 4 norderstedt | noa4 norderstedt -hd",
       "shortName": "N4N",
-      "priority": 5,
-      "website": "https://www.noa4.de/norderstedt.html"
+      "website": "https://www.noa4.de/norderstedt.html",
+      "priority": 5
     },
     {
       "name": "OF-TV Offenbach",
@@ -2367,8 +2367,8 @@
     },
     {
       "name": "A&E",
-      "keywords": "a e | a&e | aee | arts entertainment",
       "isFree": null,
+      "keywords": "a e | a&e | aee | arts entertainment",
       "priority": 5
     },
     {
@@ -3192,6 +3192,166 @@
       "name": "wwtv",
       "isFree": null,
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ORF 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ORF 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ORF III",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "PULS 4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "PULS acht",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "oe24.TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "3+",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Rocket Beans TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Classica",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Nautical Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Silverline",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "UHD1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Top Serien",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "123.tv",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DF1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Canale 5",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DR1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DR2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "WDR",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "MDR",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BR",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RBB",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SWR",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
@@ -3304,6 +3464,46 @@
       "keywords": "sky sport news",
       "website": "https://sport.sky.de/",
       "priority": 10
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Religious": [
@@ -3686,6 +3886,16 @@
       "isFree": true,
       "website": "https://streamster.tv/",
       "priority": 5
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Kids": [
@@ -3723,6 +3933,26 @@
       "name": "RiC International",
       "isFree": true,
       "website": "http://www.rictv.de/",
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "nick",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -3846,6 +4076,11 @@
       "name": "Zwei Music Television",
       "isFree": true,
       "website": "https://folx.network/zwei-music-television/",
+      "priority": 5
+    },
+    {
+      "name": "Mezzo",
+      "isFree": true,
       "priority": 5
     }
   ],

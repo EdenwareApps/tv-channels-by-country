@@ -398,6 +398,66 @@
       "name": "SinemaTV 1001",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "24 TV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Religious": [
@@ -583,6 +643,16 @@
       "isFree": true,
       "website": "https://www.trtspor.com.tr/",
       "priority": 5
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Kids": [
@@ -691,6 +761,21 @@
       "name": "TRT Diyanet Cocuk",
       "isFree": true,
       "website": "https://www.trtdiyanetcocuk.net.tr/",
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DUCKTV",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -2403,6 +2488,101 @@
       "name": "TvEM",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Kazakh TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Hayat Plus",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "360",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Olay TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TVT",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Teve2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "A2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Trek",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Radios": [
@@ -2674,6 +2854,11 @@
       "isFree": true,
       "website": "http://yerli2.sinematv.com.tr/",
       "priority": 5
+    },
+    {
+      "name": "DocuBox",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Music Videos": [
@@ -2877,6 +3062,16 @@
       "isFree": true,
       "website": "https://viasathd.com.tr/",
       "priority": 7
+    },
+    {
+      "name": "English Club TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Da Vinci Learning",
+      "isFree": true,
+      "priority": 5
     }
   ]
 }

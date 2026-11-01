@@ -358,6 +358,66 @@
       "name": "Cinestar Tv Premiere 1",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Deutsche Welle",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Entertainment": [
@@ -592,6 +652,81 @@
       "isFree": true,
       "website": "https://zdravatv.com/hr",
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TLC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Toon Kids",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "HTV4",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Radios": [
@@ -667,6 +802,16 @@
       "isFree": true,
       "website": "http://www.sptv.hr/",
       "priority": 10
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Kids": [
@@ -686,6 +831,21 @@
       "name": "Nicktoons Adria",
       "isFree": true,
       "website": "http://www.nick.tv/",
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -837,6 +997,11 @@
       "name": "Televizija Student",
       "isFree": true,
       "website": "https://televizijastudent.com/",
+      "priority": 5
+    },
+    {
+      "name": "Da Vinci",
+      "isFree": true,
       "priority": 5
     }
   ],

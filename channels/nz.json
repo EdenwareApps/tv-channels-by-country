@@ -22,6 +22,21 @@
       "name": "Nickelodeon",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Music Videos": [
@@ -87,6 +102,7 @@
     {
       "name": "TVNZ Duke",
       "isFree": true,
+      "keywords": "duke",
       "priority": 5
     },
     {
@@ -293,12 +309,14 @@
     {
       "name": "TAB Trackside",
       "isFree": true,
+      "keywords": "trackside 1 | trackside",
       "website": "http://www.tab.co.nz/",
       "priority": 5
     },
     {
       "name": "TAB Trackside 2",
       "isFree": true,
+      "keywords": "trackside 2",
       "website": "http://www.tab.co.nz/",
       "priority": 5
     },
@@ -331,6 +349,96 @@
       "isFree": true,
       "website": "https://www.maoritelevision.com/live",
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "PRIME",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Animal Planet",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC First",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC UKTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Colors",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Star Plus",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Star Gold",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
@@ -343,6 +451,71 @@
       "name": "Sky News New Zealand",
       "isFree": true,
       "website": "https://tvguide.sky.co.nz/channel/085",
+      "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Fox News",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Sky News",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -375,6 +548,7 @@
     {
       "name": "Hope Channel New Zealand",
       "isFree": true,
+      "keywords": "hope channel",
       "website": "https://www.hopechannel.nz/",
       "priority": 4
     }
@@ -496,6 +670,26 @@
       "isFree": true,
       "website": "https://www.sky.co.nz/sky-sport",
       "priority": 10
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ESPN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ESPN2",
+      "isFree": true,
+      "priority": 5
     }
   ]
 }

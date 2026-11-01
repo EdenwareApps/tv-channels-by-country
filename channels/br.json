@@ -398,15 +398,15 @@
       "name": "Globo",
       "isFree": true,
       "keywords": "globo -brasilia -internacional -africa -americas -asia -europa -minas -nordeste -pernambuco -rio -de -janeiro -sao -paulo",
-      "priority": 10,
-      "website": "http://redeglobo.globo.com/rio"
+      "website": "http://redeglobo.globo.com/rio",
+      "priority": 10
     },
     {
       "name": "Rede TV!",
       "isFree": true,
       "keywords": "redetv -fortaleza -minas -recife -rio -de -janeiro -tocantins",
-      "priority": 8,
-      "website": "https://www.redetv.uol.com.br/"
+      "website": "https://www.redetv.uol.com.br/",
+      "priority": 8
     },
     {
       "name": "Record",
@@ -1746,8 +1746,8 @@
     },
     {
       "name": "Tru TV",
-      "website": "http://www.trutv.com.br/",
       "keywords": "tru tv | trutv",
+      "website": "http://www.trutv.com.br/",
       "priority": 7
     },
     {
@@ -4558,6 +4558,91 @@
       "name": "Record Bahia",
       "isFree": true,
       "priority": 6
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Cartoonito",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Adult Swim",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ISAT",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Caca e Pesca",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV Espanha",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Motorvision",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Travelxp",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Stingray DJAZZ",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Mundotoro",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Music Videos": [
@@ -4701,6 +4786,11 @@
     {
       "name": "Wham",
       "priority": 0
+    },
+    {
+      "name": "Stingray Classica",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
@@ -4997,6 +5087,61 @@
       "isFree": true,
       "website": "https://www.weatherspy.tv/",
       "priority": 1
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Sports": [
@@ -5065,50 +5210,50 @@
     {
       "name": "Premiere 2",
       "keywords": "premiere 2 | pfc 2",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Premiere 3",
       "keywords": "premiere 3 | pfc 3",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Premiere 4",
       "keywords": "premiere 4 | pfc 4",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Premiere 5",
       "keywords": "premiere 5 | pfc 5",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Premiere 6",
       "keywords": "premiere 6 | pfc 6",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Premiere 7",
       "keywords": "premiere 7 | pfc 7",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Premiere 8",
       "keywords": "premiere 8 | pfc 8",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Premiere 9",
       "keywords": "premiere 9 | pfc 9",
-      "priority": 8,
-      "retransmits": "Premiere"
+      "retransmits": "Premiere",
+      "priority": 8
     },
     {
       "name": "Real Madrid",
@@ -5287,6 +5432,21 @@
     {
       "name": "TVMatic Sport",
       "priority": 2
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Radios": [
@@ -5936,6 +6096,21 @@
       "isFree": true,
       "website": "https://xtremetv.com.br/",
       "priority": 4
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
     }
   ]
 }

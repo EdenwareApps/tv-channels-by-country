@@ -321,6 +321,61 @@
       "name": "Windsor",
       "isFree": null,
       "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Religious": [
@@ -1225,6 +1280,21 @@
       "isFree": true,
       "website": "http://www.wwe.com/watch-wwe-network-in-canada",
       "priority": 5
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Sportsman Channel",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Kids": [
@@ -1322,6 +1392,26 @@
       "name": "ToonAVision",
       "isFree": true,
       "website": "http://www.toonavision.ca/",
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Teletoon Francais",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -1691,8 +1781,8 @@
       "name": "NTV",
       "isFree": true,
       "keywords": "ntv -newfoundland",
-      "priority": 5,
-      "website": "https://ntvplus.ca/"
+      "website": "https://ntvplus.ca/",
+      "priority": 5
     },
     {
       "name": "NTV Newfoundland",
@@ -5304,6 +5394,86 @@
       "name": "Zeste",
       "isFree": true,
       "website": "http://www.zeste.tv/",
+      "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TLC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Citytv",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "YesTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Telelatino",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "GMA Pinoy TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "GMA Life TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Inuit TV Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Accessible Media Inc.",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Super Channel Quest",
+      "isFree": true,
       "priority": 5
     }
   ],
