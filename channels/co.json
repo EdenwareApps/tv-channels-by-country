@@ -31,7 +31,8 @@
     {
       "name": "Canal Visión Dorada",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://canalvisiondorada.com.co/"
     },
     {
       "name": "Enlace Televisión",
@@ -72,7 +73,7 @@
       "retransmits": "Canal Caracol",
       "shortName": "Caracol",
       "website": "https://caracol.com.co",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "TVN Global",
@@ -701,12 +702,6 @@
       "priority": 5
     },
     {
-      "name": "Canal Vision Dorada",
-      "isFree": true,
-      "website": "http://canalvisiondorada.com.co/",
-      "priority": 5
-    },
-    {
       "name": "Canal Vision",
       "isFree": true,
       "website": "https://www.visiontvcolombia.com/",
@@ -1090,12 +1085,6 @@
     {
       "name": "En Casa",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Enlace Television",
-      "isFree": true,
-      "website": "https://enlacetelevision.com/",
       "priority": 5
     },
     {
@@ -1530,12 +1519,6 @@
       "name": "Segovision",
       "isFree": true,
       "website": "https://segovision.com.co/nosotros/",
-      "priority": 5
-    },
-    {
-      "name": "Senal Colombia",
-      "isFree": true,
-      "website": "https://www.senalcolombia.tv/",
       "priority": 5
     },
     {
@@ -2579,11 +2562,6 @@
       "name": "Supermusica",
       "isFree": true,
       "website": "https://www.hvmultiplay.co/phone/supermusica.html",
-      "priority": 5
-    },
-    {
-      "name": "Telemusica",
-      "isFree": true,
       "priority": 5
     },
     {

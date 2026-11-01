@@ -205,7 +205,7 @@
     {
       "name": "W Sport",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Boing",
@@ -230,7 +230,7 @@
     {
       "name": "SuperSport Maximo 1",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "BBC Brit",
@@ -260,12 +260,12 @@
     {
       "name": "Discovery Channel",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery IDx",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "E! Entertainment",
@@ -275,12 +275,12 @@
     {
       "name": "ESPN 1 Africa",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "ESPN 2 Africa",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Emmanuel TV",
@@ -390,12 +390,12 @@
     {
       "name": "Day Star",
       "isFree": true,
-      "priority": 5
+      "priority": 4
     },
     {
       "name": "Church TV",
       "isFree": true,
-      "priority": 5
+      "priority": 4
     }
   ],
   "Entertainment": [

@@ -100,7 +100,8 @@
     {
       "name": "Ronahî",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://ronahi.tv/"
     },
     {
       "name": "Sama",
@@ -159,12 +160,6 @@
     {
       "name": "Raqqa",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ronahi",
-      "isFree": true,
-      "website": "http://ronahi.tv/",
       "priority": 5
     },
     {

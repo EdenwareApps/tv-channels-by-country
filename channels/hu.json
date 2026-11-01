@@ -111,7 +111,7 @@
     {
       "name": "Prime TV hu",
       "isFree": true,
-      "priority": 6
+      "priority": 4
     },
     {
       "name": "AXN",
@@ -161,27 +161,27 @@
     {
       "name": "Sport",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Extreme Sports",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Eurosport",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Eurosport 2",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Auto Motor Sport",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Spíler",
@@ -236,12 +236,12 @@
     {
       "name": "Discovery Channel Hungary",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "National Geographic",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "BBC Earth",
@@ -256,7 +256,7 @@
     {
       "name": "History (U.S",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Da Vinci Learning",
@@ -411,7 +411,7 @@
     {
       "name": "National Geographic Central Europe",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Nat Geo",
@@ -436,12 +436,12 @@
     {
       "name": "Discovery Showcase",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "History 2",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "LiChi",
@@ -591,12 +591,12 @@
     {
       "name": "Discovery World",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Travel&Living",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "DTX",
@@ -606,17 +606,17 @@
     {
       "name": "Discovery Science",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Civilization",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Sci Trek",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "BBC Knowledge",
@@ -741,7 +741,7 @@
     {
       "name": "HungaroSport",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Jetix",
@@ -876,11 +876,6 @@
       "priority": 5
     },
     {
-      "name": "Komlós",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Life",
       "isFree": true,
       "priority": 5
@@ -923,12 +918,8 @@
     {
       "name": "VTV Füzesabony",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Ózdi Városi",
-      "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.fuzesabonytv.hu/"
     },
     {
       "name": "16tv Budapest",
@@ -1491,12 +1482,6 @@
       "name": "Volgyhid",
       "isFree": true,
       "website": "https://mediakft.hu",
-      "priority": 5
-    },
-    {
-      "name": "VTV Fuzesabony",
-      "isFree": true,
-      "website": "http://www.fuzesabonytv.hu/",
       "priority": 5
     },
     {

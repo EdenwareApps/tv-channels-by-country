@@ -1465,7 +1465,8 @@
     {
       "name": "TV Duga Plus",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.tvdugaplus.com/"
     },
     {
       "name": "Bravo Music",
@@ -1721,12 +1722,6 @@
       "name": "Toxic Rap",
       "isFree": true,
       "website": "https://toxictv.rs/",
-      "priority": 5
-    },
-    {
-      "name": "TV Duga+",
-      "isFree": true,
-      "website": "http://www.tvdugaplus.com/",
       "priority": 5
     },
     {

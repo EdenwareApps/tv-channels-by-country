@@ -20,7 +20,7 @@
       "isFree": true,
       "retransmits": "RTP",
       "website": "https://www.rtp.pt",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "RTP Internacional",
@@ -35,17 +35,19 @@
       "isFree": true,
       "retransmits": "RTP",
       "website": "https://www.rtp.pt",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "RTP Memória",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.rtp.pt/rtpmemoria/"
     },
     {
       "name": "RTP África",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.rtp.pt/rtpafrica/"
     },
     {
       "name": "RTP",
@@ -110,17 +112,12 @@
     {
       "name": "Águeda",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://agueda.tv/"
     },
     {
       "name": "ADVNCE",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Agueda",
-      "isFree": true,
-      "website": "https://agueda.tv/",
       "priority": 5
     },
     {
@@ -284,19 +281,6 @@
       "priority": 10
     },
     {
-      "name": "RTP Acores",
-      "isFree": true,
-      "retransmits": "RTP",
-      "website": "http://www.rtp.pt/acores/",
-      "priority": 5
-    },
-    {
-      "name": "RTP Africa",
-      "isFree": true,
-      "website": "http://www.rtp.pt/rtpafrica/",
-      "priority": 5
-    },
-    {
       "name": "RTPi America",
       "isFree": true,
       "website": "http://www.rtp.pt/rtpinternacional",
@@ -306,12 +290,6 @@
       "name": "RTPi Asia",
       "isFree": true,
       "website": "http://www.rtp.pt/rtpinternacional",
-      "priority": 5
-    },
-    {
-      "name": "RTP Memoria",
-      "isFree": true,
-      "website": "http://www.rtp.pt/rtpmemoria/",
       "priority": 5
     },
     {
@@ -632,11 +610,6 @@
     },
     {
       "name": "Discovery Science",
-      "isFree": null,
-      "priority": 9
-    },
-    {
-      "name": "SIC Internacional África",
       "isFree": null,
       "priority": 9
     },
@@ -1051,12 +1024,6 @@
       "priority": 5
     },
     {
-      "name": "SIC Noticias",
-      "isFree": true,
-      "website": "https://sicnoticias.pt/",
-      "priority": 10
-    },
-    {
       "name": "France 24",
       "isFree": true,
       "priority": 5
@@ -1232,7 +1199,8 @@
     {
       "name": "TV Maná 2",
       "isFree": true,
-      "priority": 4
+      "priority": 4,
+      "website": "https://tvmana2.com/"
     },
     {
       "name": "TV Maná Córdoba",
@@ -1309,12 +1277,6 @@
       "name": "Radio Televisao Crista",
       "isFree": true,
       "website": "http://rtc.infor.media/",
-      "priority": 4
-    },
-    {
-      "name": "TV Mana 2",
-      "isFree": true,
-      "website": "https://tvmana2.com/",
       "priority": 4
     },
     {

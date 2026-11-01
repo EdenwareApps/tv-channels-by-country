@@ -41,11 +41,6 @@
       "priority": 5
     },
     {
-      "name": "TV Toruń",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TV Trwam",
       "isFree": true,
       "priority": 5
@@ -156,7 +151,8 @@
     {
       "name": "Telewizja Toruń",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.toruntv.pl/"
     },
     {
       "name": "Trwam",
@@ -840,12 +836,6 @@
       "priority": 5
     },
     {
-      "name": "Telewizja Torun",
-      "isFree": true,
-      "website": "https://www.toruntv.pl/",
-      "priority": 5
-    },
-    {
       "name": "Telewizja Zabrze",
       "isFree": true,
       "website": "https://tvzabrze.pl/",
@@ -1023,32 +1013,7 @@
       "priority": 5
     },
     {
-      "name": "TVP 3 Gdansk",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVP 3 Gorzow Wielkopolski",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVP 3 Krakow",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TVP 3 Lodz",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVP 3 Poznan",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TVP 3 Rzeszow",
       "isFree": true,
       "priority": 5
     },
@@ -1462,11 +1427,6 @@
     },
     {
       "name": "TVN Turbo HD*",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "TTV**",
       "isFree": null,
       "priority": 5
     },
@@ -2396,11 +2356,6 @@
     },
     {
       "name": "Cartoonito",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Canal+",
       "isFree": null,
       "priority": 5
     },

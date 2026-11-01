@@ -89,7 +89,7 @@
       "retransmits": "Fuji TV",
       "shortName": "Fuji",
       "website": "https://www.fujitv.co.jp",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "GAORA",
@@ -145,7 +145,7 @@
       "retransmits": "NHK",
       "shortName": "NHK E",
       "website": "https://www.nhk.or.jp",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NHK E Tokyo",
@@ -153,7 +153,7 @@
       "retransmits": "NHK",
       "shortName": "NHK E",
       "website": "https://www.nhk.or.jp",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NHK G Osaka",
@@ -161,7 +161,7 @@
       "retransmits": "NHK",
       "shortName": "NHK G",
       "website": "https://www.nhk.or.jp",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NHK G Tokyo",
@@ -169,7 +169,7 @@
       "retransmits": "NHK",
       "shortName": "NHK G",
       "website": "https://www.nhk.or.jp",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NHK General",
@@ -177,7 +177,7 @@
       "retransmits": "NHK",
       "shortName": "NHK G",
       "website": "https://www.nhk.or.jp",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NHK World",
@@ -1660,7 +1660,7 @@
       "name": "NHK Chinese Vision",
       "isFree": true,
       "retransmits": "NHK",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NTV News 24",
@@ -1794,14 +1794,14 @@
       "keywords": "nhk chinese -vision",
       "retransmits": "NHK",
       "website": "https://www.nhk.or.jp/nhkworld/zh/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NHK Kishou-Saigai",
       "isFree": true,
       "retransmits": "NHK",
       "website": "https://www.nhk.or.jp/kishou-saigai/live/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NHK World Espanol",
@@ -1814,7 +1814,7 @@
       "isFree": true,
       "retransmits": "NHK",
       "website": "https://www3.nhk.or.jp/nhkworld/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Niigata News NST",
@@ -2321,7 +2321,7 @@
       "isFree": true,
       "retransmits": "NHK",
       "website": "https://www.nhk.or.jp/",
-      "priority": 5
+      "priority": 8
     }
   ]
 }

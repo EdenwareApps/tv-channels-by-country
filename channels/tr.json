@@ -8,7 +8,8 @@
     {
       "name": "CNN Türk",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.cnnturk.com/"
     },
     {
       "name": "TGRT Haber",
@@ -84,12 +85,6 @@
       "name": "CNBC-e",
       "isFree": true,
       "website": "https://cnbce.com/",
-      "priority": 5
-    },
-    {
-      "name": "CNN Turk",
-      "isFree": true,
-      "website": "https://www.cnnturk.com/",
       "priority": 5
     },
     {
@@ -659,7 +654,9 @@
     {
       "name": "TRT Çocuk",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.trtcocuk.net.tr/",
+      "keywords": "trt cocuk -plus8"
     },
     {
       "name": "Boomerang",
@@ -745,13 +742,6 @@
       "priority": 5
     },
     {
-      "name": "TRT Cocuk",
-      "isFree": true,
-      "keywords": "trt cocuk -plus8",
-      "website": "https://www.trtcocuk.net.tr/",
-      "priority": 5
-    },
-    {
       "name": "TRT Cocuk + 8",
       "isFree": true,
       "website": "http://www.trtcocuk.net.tr/",
@@ -831,11 +821,6 @@
       "priority": 5
     },
     {
-      "name": "Afyon Türk",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Ahi TV Kirsehir",
       "isFree": true,
       "priority": 5
@@ -863,7 +848,8 @@
     {
       "name": "BENGÜTÜRK",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.benguturk.com/"
     },
     {
       "name": "BLT Turk",
@@ -907,11 +893,6 @@
       "priority": 5
     },
     {
-      "name": "Beşiktaş Web",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Bitlis",
       "isFree": true,
       "priority": 5
@@ -939,7 +920,8 @@
     {
       "name": "Cekmeköy",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.cekmekoy.bel.tr/web-tv"
     },
     {
       "name": "Cem",
@@ -1085,11 +1067,6 @@
     },
     {
       "name": "Guneydogu",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Guneydoğu",
       "isFree": true,
       "priority": 5
     },
@@ -1264,7 +1241,8 @@
     {
       "name": "Kent Türk",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.kentturktv.com/"
     },
     {
       "name": "Kon",
@@ -1580,12 +1558,8 @@
     {
       "name": "UçanKus",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "UçanKuş",
-      "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.ucankus.com/"
     },
     {
       "name": "V",
@@ -1630,19 +1604,16 @@
       "priority": 5
     },
     {
-      "name": "Çiftçi",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Öncü",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.oncurtv.com/"
     },
     {
       "name": "Üniversite",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.universitetv.com.tr/"
     },
     {
       "name": "ÜÜ TV Üsküdar Üniversitesi",
@@ -1757,12 +1728,6 @@
       "priority": 5
     },
     {
-      "name": "Benguturk",
-      "isFree": true,
-      "website": "https://www.benguturk.com/",
-      "priority": 5
-    },
-    {
       "name": "Bir",
       "isFree": true,
       "website": "https://birtv.tv/",
@@ -1789,12 +1754,6 @@
       "name": "Bric ve Satranc",
       "isFree": true,
       "website": "http://www.itp.tv.tr/",
-      "priority": 5
-    },
-    {
-      "name": "Cekmekoy",
-      "isFree": true,
-      "website": "https://www.cekmekoy.bel.tr/web-tv",
       "priority": 5
     },
     {
@@ -1860,11 +1819,6 @@
       "name": "Egem TV Usak",
       "isFree": true,
       "website": "https://www.usakegemtv.com.tr/",
-      "priority": 5
-    },
-    {
-      "name": "Ege Turk",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -2066,12 +2020,6 @@
       "priority": 5
     },
     {
-      "name": "Kent Turk",
-      "isFree": true,
-      "website": "https://www.kentturktv.com/",
-      "priority": 5
-    },
-    {
       "name": "Kocaeli",
       "isFree": true,
       "website": "https://www.kocaelitv.com.tr/",
@@ -2140,12 +2088,6 @@
     {
       "name": "On 6",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Oncu",
-      "isFree": true,
-      "website": "https://www.oncurtv.com/",
       "priority": 5
     },
     {
@@ -2384,12 +2326,6 @@
       "priority": 5
     },
     {
-      "name": "UcanKus",
-      "isFree": true,
-      "website": "https://www.ucankus.com/",
-      "priority": 5
-    },
-    {
       "name": "Ulke",
       "isFree": true,
       "website": "https://www.ulketv.com.tr/",
@@ -2405,12 +2341,6 @@
       "name": "Universal",
       "isFree": true,
       "website": "http://www.universaltv.com.tr/",
-      "priority": 5
-    },
-    {
-      "name": "Universite",
-      "isFree": true,
-      "website": "https://www.universitetv.com.tr/",
       "priority": 5
     },
     {

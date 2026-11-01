@@ -1934,11 +1934,6 @@
       "priority": 5
     },
     {
-      "name": "Naşul",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Nova TV Brasov",
       "isFree": true,
       "priority": 5
@@ -2048,7 +2043,8 @@
     {
       "name": "TVR Iași",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.tvr.ro/"
     },
     {
       "name": "TVR International",
@@ -2058,12 +2054,14 @@
     {
       "name": "TVR Timișoara",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.tvr.ro/"
     },
     {
       "name": "TVR Târgu Mureș",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.tvr.ro/"
     },
     {
       "name": "TVSat",
@@ -2469,28 +2467,10 @@
       "priority": 5
     },
     {
-      "name": "TVR Iasi",
-      "isFree": true,
-      "website": "http://www.tvr.ro/",
-      "priority": 5
-    },
-    {
       "name": "TVR Sport",
       "isFree": true,
       "website": "http://sport.tvr.ro/",
       "priority": 10
-    },
-    {
-      "name": "TVR Targu-Mures",
-      "isFree": true,
-      "website": "http://www.tvr.ro/",
-      "priority": 5
-    },
-    {
-      "name": "TVR Timisoara",
-      "isFree": true,
-      "website": "http://www.tvr.ro/",
-      "priority": 5
     },
     {
       "name": "VTV",

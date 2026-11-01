@@ -16,7 +16,7 @@
       "retransmits": "Canal Diputados",
       "shortName": "Cámara",
       "website": "https://www.camara.cl",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Campo Abierto",
@@ -48,7 +48,8 @@
       "name": "Canal 9 Bío Bío Televisión",
       "isFree": true,
       "shortName": "C9BBT",
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.canal9.cl/"
     },
     {
       "name": "Canal Diputados",
@@ -91,7 +92,8 @@
     {
       "name": "Estación",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://estaciontv.cl/"
     },
     {
       "name": "Eva Stream",
@@ -224,7 +226,8 @@
     {
       "name": "Thema Televisión",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.thematelevision.cl/"
     },
     {
       "name": "U Los Lagos",
@@ -458,12 +461,6 @@
       "priority": 5
     },
     {
-      "name": "Canal 9 Bio Bio Television",
-      "isFree": true,
-      "website": "https://www.canal9.cl/",
-      "priority": 5
-    },
-    {
       "name": "Canal Alta Frontera",
       "isFree": true,
       "website": "https://www.canalaltafrontera.cl/",
@@ -559,12 +556,6 @@
       "name": "Chile",
       "isFree": true,
       "website": "https://chilechanneltv.cl/",
-      "priority": 5
-    },
-    {
-      "name": "ChileVision",
-      "isFree": true,
-      "website": "https://www.chilevision.cl/",
       "priority": 5
     },
     {
@@ -695,12 +686,6 @@
       "name": "Estacion Limache",
       "isFree": true,
       "website": "https://limachetv.com/",
-      "priority": 5
-    },
-    {
-      "name": "Estacion",
-      "isFree": true,
-      "website": "http://estaciontv.cl/",
       "priority": 5
     },
     {
@@ -1276,12 +1261,6 @@
       "isFree": true,
       "website": "https://www.tendenciastv.cl/",
       "priority": 6
-    },
-    {
-      "name": "Thema Television",
-      "isFree": true,
-      "website": "https://www.thematelevision.cl/",
-      "priority": 5
     },
     {
       "name": "TMN",
@@ -2250,7 +2229,8 @@
     },
     {
       "name": "Turf Móvil",
-      "priority": 5
+      "priority": 5,
+      "website": "https://tvturf.cl/"
     },
     {
       "name": "CDF Basico",
@@ -2330,12 +2310,6 @@
       "isFree": true,
       "website": "https://www.tntsports.cl/",
       "priority": 10
-    },
-    {
-      "name": "Turf Movil",
-      "isFree": true,
-      "website": "https://tvturf.cl/",
-      "priority": 5
     }
   ],
   "Education & Culture": [
@@ -2475,7 +2449,8 @@
     {
       "name": "Mundo de la Música",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://mundodelamusicachile.cl/"
     },
     {
       "name": "Portalfoxmix",
@@ -2628,12 +2603,6 @@
       "name": "Maxima FM Chile",
       "isFree": true,
       "website": "https://maximachile.cl/",
-      "priority": 5
-    },
-    {
-      "name": "Mundo de la Musica",
-      "isFree": true,
-      "website": "https://mundodelamusicachile.cl/",
       "priority": 5
     },
     {

@@ -126,14 +126,14 @@
       "isFree": true,
       "retransmits": "Doordarshan",
       "website": "https://www.ddindia.gov.in",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "DD Malayalam",
       "isFree": true,
       "retransmits": "Doordarshan",
       "website": "https://www.ddindia.gov.in",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "DD National",
@@ -4769,13 +4769,13 @@
       "name": "Aastha Prime",
       "isFree": true,
       "website": "http://www.aasthatv.tv/",
-      "priority": 6
+      "priority": 4
     },
     {
       "name": "Aastha Prime 2",
       "isFree": true,
       "website": "http://www.aasthatv.tv/",
-      "priority": 6
+      "priority": 4
     },
     {
       "name": "Aastha Tamil",
@@ -5872,11 +5872,6 @@
       "name": "Star World Premiere",
       "isFree": true,
       "website": "http://premiere.starworld.in/",
-      "priority": 5
-    },
-    {
-      "name": "Studio One +",
-      "isFree": true,
       "priority": 5
     },
     {

@@ -376,12 +376,12 @@
     {
       "name": "Sky History",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Sky History 2",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Crime & Investigation",
@@ -451,57 +451,57 @@
     {
       "name": "Sky Sports Box Office",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Main Event",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Premier League",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Football",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Cricket",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Golf",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Tennis",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Action",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports +",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Mix",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Discovery",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Animal Planet",
@@ -516,12 +516,12 @@
     {
       "name": "Investigation Discovery",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Science",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "DMAX",
@@ -561,12 +561,12 @@
     {
       "name": "TNT Sports",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 3",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Disney Jr",
@@ -606,7 +606,7 @@
     {
       "name": "National Geographic",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Nat Geo Wild",
@@ -631,7 +631,7 @@
     {
       "name": "Premier Sports",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Racing UK Ltd",
@@ -646,7 +646,7 @@
     {
       "name": "GINX eSports",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Extreme",
@@ -951,32 +951,32 @@
     {
       "name": "TNT Sports 5 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 6 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 7 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 8 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 9 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 10 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Inspiration TV UK",
@@ -986,7 +986,7 @@
     {
       "name": "Trace Sport Stars UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "MTV 00's UK",
@@ -1041,7 +1041,7 @@
     {
       "name": "Viasat History UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Viasat Explore UK",
@@ -1051,7 +1051,7 @@
     {
       "name": "Sky Sports Main Event UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sci Fi UK",
@@ -1061,7 +1061,7 @@
     {
       "name": "Investigation Discovery UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "ITV 1 UK",
@@ -1101,7 +1101,7 @@
     {
       "name": "National Geographic UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Nick Jr UK",
@@ -1116,12 +1116,12 @@
     {
       "name": "Premier Sports 1 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Premier Sports 2 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Quest UK",
@@ -1171,22 +1171,22 @@
     {
       "name": "Sky Sports F1 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Football UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Cricket UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Golf UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Talking Pictures UK",
@@ -1211,7 +1211,7 @@
     {
       "name": "Sky Sports Mix UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "PBS America UK",
@@ -1281,12 +1281,12 @@
     {
       "name": "TNT Sport Box Office 1 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sport Box Office 2 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "STV UK",
@@ -1386,12 +1386,12 @@
     {
       "name": "Sky Sports Premiere League UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Racing UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Great! Movies UK",
@@ -1571,7 +1571,7 @@
     {
       "name": "Sky Sports NFL UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Channel 5 UK",
@@ -1586,22 +1586,22 @@
     {
       "name": "Sky Sports+ UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Action UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports Box Office UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Sports News UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "At the races UK",
@@ -1731,22 +1731,22 @@
     {
       "name": "TNT Sports 1 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 2 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 3 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TNT Sports 4 UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Cartoon Network UK",
@@ -1811,32 +1811,32 @@
     {
       "name": "Discovery Channel UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery History UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Home & Health UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Science UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Shed UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery Turbo UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "D Max UK",
@@ -1871,12 +1871,12 @@
     {
       "name": "Sky History 2 UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Sky History UK",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Home UK",
@@ -2161,7 +2161,7 @@
     {
       "name": "Sky Sports Tennis UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "BBC News Europe UK",
@@ -2241,7 +2241,7 @@
     {
       "name": "GINX eSportsTV UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Birmingham TV UK",
@@ -2256,7 +2256,7 @@
     {
       "name": "TNT Sports Ultimate UK",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Sky Soports 1 UHD UK",
@@ -3256,32 +3256,32 @@
       "name": "BBC One Cambridge",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One Channel Islands",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One East",
       "isFree": true,
       "keywords": "bbc one east -midlands -yorkshire",
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One East Midlands",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One East Yorkshire",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One London",
@@ -3289,81 +3289,81 @@
       "retransmits": "BBC One",
       "shortName": "BBC One",
       "website": "https://www.bbc.co.uk/iplayer",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One North East",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One North West",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One Northern Ireland",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One Oxford",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One Scotland",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One South",
       "isFree": true,
       "keywords": "bbc one south -east -west",
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One South East",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One South West",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One Wales",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One West",
       "isFree": true,
       "keywords": "bbc one west -midlands",
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One West Midlands",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC One Yorks",
       "isFree": true,
       "retransmits": "BBC One",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC Parliament",
@@ -3511,25 +3511,25 @@
       "isFree": true,
       "retransmits": "BBC Two",
       "shortName": "BBC Two",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC Two Northen Ireland",
       "isFree": true,
       "retransmits": "BBC Two",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC Two Northern Ireland",
       "isFree": true,
       "retransmits": "BBC Two",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC Two Wales",
       "isFree": true,
       "retransmits": "BBC Two",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "BBC UHD Trial",

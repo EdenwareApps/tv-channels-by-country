@@ -19,7 +19,8 @@
     {
       "name": "Tarotéame",
       "isFree": true,
-      "priority": 4
+      "priority": 4,
+      "keywords": "taroteame"
     },
     {
       "name": "AstroShow",
@@ -70,12 +71,6 @@
       "priority": 4
     },
     {
-      "name": "Taroteame",
-      "isFree": true,
-      "keywords": "taroteame",
-      "priority": 4
-    },
-    {
       "name": "TarotVision",
       "isFree": true,
       "website": "https://www.tarotvision.es/",
@@ -105,14 +100,14 @@
       "isFree": true,
       "retransmits": "RTVE",
       "website": "https://www.rtve.es/television",
-      "priority": 4
+      "priority": 8
     },
     {
       "name": "La 2",
       "isFree": true,
       "retransmits": "RTVE",
       "website": "https://www.rtve.es/television",
-      "priority": 4
+      "priority": 8
     },
     {
       "name": "Clan",
@@ -1274,7 +1269,7 @@
     {
       "name": "Eurosport 1",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Gol Play",
@@ -1304,12 +1299,12 @@
     {
       "name": "BBC History",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "Discovery",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "BBC Food",
@@ -1587,7 +1582,8 @@
     {
       "name": "8 TV Cádiz",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.8cadiz.es/directo/"
     },
     {
       "name": "9 la Loma",
@@ -1606,11 +1602,6 @@
     },
     {
       "name": "Alacanti",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Alacantí",
       "isFree": true,
       "priority": 5
     },
@@ -1634,15 +1625,10 @@
       "priority": 5
     },
     {
-      "name": "Aragón",
-      "isFree": true,
-      "website": "https://www.aragontelevision.es",
-      "priority": 5
-    },
-    {
       "name": "Bailén",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://bailen.tv/"
     },
     {
       "name": "Beteve",
@@ -1692,7 +1678,8 @@
     {
       "name": "Canal 10 Empordà",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.canal10.cat/"
     },
     {
       "name": "Canal 2000 La Solana",
@@ -1735,7 +1722,8 @@
     {
       "name": "Canal Coín",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://canalcoin.com/tv-directo/"
     },
     {
       "name": "Canal Diocesano",
@@ -1745,7 +1733,8 @@
     {
       "name": "Canal Doñana",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.canaldonana.com/"
     },
     {
       "name": "Canal Malaga",
@@ -1765,7 +1754,8 @@
     {
       "name": "Canal Sierra de Cádiz",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.canalsierradecadiz.com/"
     },
     {
       "name": "Canal Super 3",
@@ -1775,7 +1765,8 @@
     {
       "name": "Canal Sur Andalucía",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.canalsur.es/television-544.html"
     },
     {
       "name": "Canal Taronja Osona",
@@ -1786,7 +1777,8 @@
     {
       "name": "Canal Taronja Osona i Moianés",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.canaltaronja.cat/osona/http://www.canaltaronja.cat/osona/"
     },
     {
       "name": "Canal Vasco",
@@ -1805,11 +1797,6 @@
     },
     {
       "name": "Condavision",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Condavisión",
       "isFree": true,
       "priority": 5
     },
@@ -1838,7 +1825,8 @@
     {
       "name": "Cáceres Tevé",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://caceresteve.es/video/directo-streaming-caceres-tv/"
     },
     {
       "name": "Diez",
@@ -1963,15 +1951,11 @@
     {
       "name": "Imás",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://imastv.es/ver-imastv-en-directo"
     },
     {
       "name": "Interalmeria",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Interalmería",
       "isFree": true,
       "priority": 5
     },
@@ -2142,7 +2126,8 @@
     {
       "name": "Onda Cádiz",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://ondacadiz.es/"
     },
     {
       "name": "Onda Madrid",
@@ -2249,7 +2234,8 @@
     {
       "name": "Sal Televisión",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://saltv.es/"
     },
     {
       "name": "Sevilla FC",
@@ -2446,7 +2432,8 @@
     {
       "name": "Torrevisión",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.torrevisiontelevision.es/"
     },
     {
       "name": "Tuya La Janda",
@@ -2456,12 +2443,14 @@
     {
       "name": "Tuya La Janda Televisión",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://tuyatv.com/"
     },
     {
       "name": "Une Vinalopó",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.unevinalopo.es/directo/"
     },
     {
       "name": "Urban Revolution",
@@ -2485,11 +2474,6 @@
     },
     {
       "name": "Zafra",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "betevé",
       "isFree": true,
       "priority": 5
     },
@@ -2566,12 +2550,6 @@
       "name": "8 La Marina",
       "isFree": true,
       "website": "https://8lamarinatv.com/",
-      "priority": 5
-    },
-    {
-      "name": "8 TV Cadiz",
-      "isFree": true,
-      "website": "https://www.8cadiz.es/directo/",
       "priority": 5
     },
     {
@@ -2669,12 +2647,6 @@
       "priority": 5
     },
     {
-      "name": "Bailen",
-      "isFree": true,
-      "website": "https://bailen.tv/",
-      "priority": 5
-    },
-    {
       "name": "Banyoles Televisio",
       "isFree": true,
       "website": "https://banyolestv.cat/",
@@ -2717,12 +2689,6 @@
       "priority": 5
     },
     {
-      "name": "Caceres TeVe",
-      "isFree": true,
-      "website": "https://caceresteve.es/video/directo-streaming-caceres-tv/",
-      "priority": 5
-    },
-    {
       "name": "Calamocha",
       "isFree": true,
       "website": "https://www.mijilocatv.es/",
@@ -2732,17 +2698,6 @@
       "name": "Calle 13 Universal",
       "isFree": true,
       "website": "http://www.calle13universal.es/",
-      "priority": 5
-    },
-    {
-      "name": "Campina Sur",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Canal 10 Emporda",
-      "isFree": true,
-      "website": "https://www.canal10.cat/",
       "priority": 5
     },
     {
@@ -2843,18 +2798,6 @@
       "priority": 5
     },
     {
-      "name": "Canal Coin",
-      "isFree": true,
-      "website": "https://canalcoin.com/tv-directo/",
-      "priority": 5
-    },
-    {
-      "name": "Canal Donana",
-      "isFree": true,
-      "website": "http://www.canaldonana.com/",
-      "priority": 5
-    },
-    {
       "name": "Canal Extremadura Satelite",
       "isFree": true,
       "website": "https://www.canalextremadura.es/",
@@ -2883,12 +2826,6 @@
       "priority": 5
     },
     {
-      "name": "Canal Sierra de Cadiz",
-      "isFree": true,
-      "website": "https://www.canalsierradecadiz.com/",
-      "priority": 5
-    },
-    {
       "name": "Canal Sur",
       "isFree": true,
       "keywords": "canal sur -2 -andalucia -noticias",
@@ -2902,12 +2839,6 @@
       "priority": 5
     },
     {
-      "name": "Canal Sur Andalucia",
-      "isFree": true,
-      "website": "http://www.canalsur.es/television-544.html",
-      "priority": 5
-    },
-    {
       "name": "Canal Taronja Anoia",
       "isFree": true,
       "website": "https://www.canaltaronja.cat/anoia/",
@@ -2917,12 +2848,6 @@
       "name": "Canal Taronja Comarques Centrals",
       "isFree": true,
       "website": "https://www.canaltaronja.cat/central/",
-      "priority": 5
-    },
-    {
-      "name": "Canal Taronja Osona i Moianes",
-      "isFree": true,
-      "website": "http://www.canaltaronja.cat/osona/http://www.canaltaronja.cat/osona/",
       "priority": 5
     },
     {
@@ -3211,12 +3136,6 @@
       "priority": 5
     },
     {
-      "name": "Imas",
-      "isFree": true,
-      "website": "http://imastv.es/ver-imastv-en-directo",
-      "priority": 5
-    },
-    {
       "name": "Informacion",
       "isFree": true,
       "website": "https://www.informacion.es/",
@@ -3434,12 +3353,6 @@
       "name": "Onda Algeciras",
       "isFree": true,
       "website": "https://ondaalgecirastv.com/en-directo/",
-      "priority": 5
-    },
-    {
-      "name": "Onda Cadiz",
-      "isFree": true,
-      "website": "https://ondacadiz.es/",
       "priority": 5
     },
     {
@@ -3663,12 +3576,6 @@
       "priority": 5
     },
     {
-      "name": "Sal Television",
-      "isFree": true,
-      "website": "https://saltv.es/",
-      "priority": 5
-    },
-    {
       "name": "Selekt",
       "isFree": true,
       "website": "https://tuamc.tv/selekt/",
@@ -3824,12 +3731,6 @@
       "priority": 5
     },
     {
-      "name": "Torrevision",
-      "isFree": true,
-      "website": "https://www.torrevisiontelevision.es/",
-      "priority": 5
-    },
-    {
       "name": "TPA",
       "isFree": true,
       "website": "https://www.rtpa.es/",
@@ -3839,12 +3740,6 @@
       "name": "Travel",
       "isFree": true,
       "website": "http://traveltve.com/",
-      "priority": 5
-    },
-    {
-      "name": "Tuya La Janda Television",
-      "isFree": true,
-      "website": "https://tuyatv.com/",
       "priority": 5
     },
     {
@@ -3968,11 +3863,6 @@
       "priority": 5
     },
     {
-      "name": "TVM Cordoba",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TVO Jesus",
       "isFree": true,
       "priority": 5
@@ -4011,12 +3901,6 @@
       "name": "Ubeat",
       "isFree": true,
       "website": "https://ubeat.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Une Vinalopo",
-      "isFree": true,
-      "website": "https://www.unevinalopo.es/directo/",
       "priority": 5
     },
     {

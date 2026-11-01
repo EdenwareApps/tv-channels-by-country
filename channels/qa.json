@@ -13,7 +13,7 @@
       "retransmits": "Al Jazeera",
       "shortName": "AJ English",
       "website": "https://www.aljazeera.com",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Al Araby",
@@ -35,7 +35,7 @@
       "retransmits": "Al Jazeera",
       "shortName": "AJ Mubasher",
       "website": "https://www.aljazeera.net",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Al Jazeera Mubasher 24",

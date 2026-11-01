@@ -40,7 +40,7 @@
       "isFree": true,
       "retransmits": "RT",
       "website": "https://www.rt.com",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "TRK 555",
@@ -2620,11 +2620,6 @@
       "priority": 7
     },
     {
-      "name": "Bridge TV Русский Хит",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Viasat Nature",
       "isFree": true,
       "priority": 5
@@ -2671,11 +2666,6 @@
     },
     {
       "name": "TV1000 Action",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Travel + Adventure",
       "isFree": true,
       "priority": 5
     },
@@ -3269,7 +3259,8 @@
     {
       "name": "Leomax Plus",
       "isFree": true,
-      "priority": 4
+      "priority": 4,
+      "website": "https://www.leomax.ru/"
     },
     {
       "name": "Shopping Live",
@@ -3286,12 +3277,6 @@
       "name": "JWL",
       "isFree": true,
       "website": "https://jwl.shop/online/",
-      "priority": 4
-    },
-    {
-      "name": "Leomax+",
-      "isFree": true,
-      "website": "https://www.leomax.ru/",
       "priority": 4
     },
     {

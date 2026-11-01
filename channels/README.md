@@ -41,7 +41,7 @@ Inside a category, channels are not sorted — order carries no meaning, `priori
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
 | `name` | `string` | yes | Display name, as viewers know it. Must be unique inside the file (accent/case insensitive). |
-| `keywords` | `string` | no | Extra search terms, ASCII only. `\|` separates alternatives, `-term` excludes. |
+| `keywords` | `string` | no | Extra search terms, no diacritics. `\|` separates alternatives, `-term` excludes. |
 | `shortName` | `string` | no | Acronym or short name (`RTPi` for `RTP Internacional`). Also matched by `search()`. |
 | `retransmits` | `string \| null` | no | Parent network, **only** for stations that rebroadcast another network. See [docs/affiliates-flow.md](../docs/affiliates-flow.md). |
 | `isFree` | `boolean` | no | Free-to-air. Omitted means paid. |
@@ -79,7 +79,7 @@ Minimal valid entry:
 - Channels with `retransmits` are raised to at least `8` — an affiliate is only useful when its parent is present.
 - Paid channels (`isFree: false`) are capped at `8`.
 
-These limits are enforced by `src/index.js` at load time, so a value above the cap in the JSON is not a bug — it is clamped. `scripts/validate-channels.js --strict` reports them so the data can be cleaned up over time.
+These limits are enforced by `src/index.js` at load time, so a value above the cap in the JSON is not a bug — it is clamped. `scripts/validate-channels.js --strict` reports them; `npm run validate -- --fix` writes the clamped values back so the JSON matches what consumers actually get.
 
 ---
 
@@ -91,7 +91,7 @@ These limits are enforced by `src/index.js` at load time, so a value above the c
 { "name": "CJC", "keywords": "cjc | canal juventude crista" }
 ```
 
-- **ASCII only.** `cancao`, not `canção`. Diacritics are stripped before matching, so an accented keyword only breaks the validator.
+- **No diacritics.** `cancao`, not `canção`. The matcher strips combining marks before comparing, so an accented keyword only breaks the validator. Non-Latin scripts are fine — they are kept as-is (e.g. `-страшное` in `ru.json`).
 - `|` = OR alternative. `-term` = exclusion (`globo -news` skips `Globo News` once `globo` matches `Globo`).
 - Add keywords when the source uses an abbreviation (`sky sp main ev`), a former name, or a regional suffix that the display name does not carry.
 
@@ -106,6 +106,7 @@ These limits are enforced by `src/index.js` at load time, so a value above the c
 
 ```bash
 npm run validate      # JSON shape, names, priorities
+npm run validate -- --fix   # repair priorities, accents and duplicated names in place
 npm run build         # generates dist/
 npm test              # library behaviour against the built data
 ```
@@ -119,4 +120,4 @@ npm test              # library behaviour against the built data
 - One entry per channel, not per feed variant: `Globo HD`, `Globo` and `Globo 4K` are the same entry.
 - No call signs as entries unless the station is only known by its call sign (`CBFT` in Canada).
 - No test cards, promo loops, PPV events, temporary pop-up channels or placeholder names.
-- No duplicates across categories of the same file — an entry lives in the category that fits it best.
+- No duplicated name inside a category of the same file — merge the entries instead. The same name may appear in two categories only when the channel genuinely belongs to both (e.g. `Entertainment` + `News`).

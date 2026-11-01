@@ -185,7 +185,8 @@
     {
       "name": "Ländle",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.laendletv.com/"
     },
     {
       "name": "M 4",
@@ -391,12 +392,6 @@
       "name": "Landeck",
       "isFree": true,
       "website": "https://www.landeck.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Landle",
-      "isFree": true,
-      "website": "https://www.laendletv.com/",
       "priority": 5
     },
     {
