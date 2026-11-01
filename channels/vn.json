@@ -33,6 +33,21 @@
       "isFree": true,
       "website": "https://vtvcab.vn",
       "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Entertainment": [
@@ -1271,6 +1286,131 @@
       "isFree": true,
       "website": "http://youtv.vn/",
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TLC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ANTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Ha Noi 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Ha Noi 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Hue TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Da Nang 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Da Nang 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Quang Ninh 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Quang Ninh 3",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lam Dong TV1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lam Dong TV2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "THP3",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Shop": [
@@ -1374,6 +1514,16 @@
       "isFree": true,
       "website": "https://vtvcab.vn",
       "priority": 10
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Education & Culture": [
@@ -1505,6 +1655,61 @@
       "name": "VOV",
       "isFree": true,
       "website": "https://truyenhinhvov.vn/live.htm",
+      "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
       "priority": 5
     }
   ]

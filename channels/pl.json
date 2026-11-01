@@ -2568,6 +2568,31 @@
       "isFree": true,
       "website": "https://tvrepublika.pl/",
       "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV Relax",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "PROART",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Education & Culture": [
@@ -2640,6 +2665,11 @@
       "name": "TVP Kultura 2",
       "isFree": true,
       "website": "https://kultura2.tvp.pl/",
+      "priority": 5
+    },
+    {
+      "name": "English Club TV",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -2848,6 +2878,16 @@
       "isFree": true,
       "website": "https://www.tvp.pl/program-tv/abc2",
       "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ducktv",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Movies & Series": [
@@ -3048,6 +3088,16 @@
       "isFree": true,
       "website": "https://sport.tvp.pl/",
       "priority": 10
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
@@ -3139,6 +3189,51 @@
       "name": "TV Wielkopolska",
       "isFree": true,
       "website": "https://wielkopolska.tv/",
+      "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
       "priority": 5
     }
   ],

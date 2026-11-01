@@ -69,6 +69,16 @@
       "name": "PBS Kids Australia",
       "isFree": true,
       "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
@@ -161,6 +171,7 @@
     {
       "name": "10HD",
       "isFree": true,
+      "keywords": "10 sydney | 10 melbourne | 10 brisbane | 10 adelaide | 10 perth | 10 hobart",
       "website": "http://10play.com.au/",
       "priority": 5
     },
@@ -233,6 +244,61 @@
       "name": "WeatherSpy",
       "isFree": true,
       "website": "https://www.weatherspy.tv/",
+      "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Bloomberg",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CNBC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "MS NOW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "GB News",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -432,6 +498,26 @@
     },
     {
       "name": "WWE",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "beIN Sports 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "beIN Sports 2",
       "isFree": true,
       "priority": 5
     }
@@ -817,12 +903,14 @@
     {
       "name": "7HD",
       "isFree": true,
+      "keywords": "7 sydney | 7 melbourne | 7 brisbane | 7 adelaide | 7 perth",
       "website": "https://7plus.com.au/",
       "priority": 5
     },
     {
       "name": "9HD",
       "isFree": true,
+      "keywords": "9 sydney | 9 melbourne | 9 brisbane | 9 adelaide | 9 perth",
       "website": "https://www.nine.com.au/",
       "priority": 5
     },
@@ -834,8 +922,8 @@
     },
     {
       "name": "A&E",
-      "keywords": "a e | a&e | aee | arts entertainment",
       "isFree": true,
+      "keywords": "a e | a&e | aee | arts entertainment",
       "website": "https://www.foxtel.com.au/tv-guide/channel/AE/AES/",
       "priority": 5
     },
@@ -1113,6 +1201,76 @@
       "name": "Universal",
       "isFree": true,
       "website": "https://universaltv.com.au/",
+      "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "UKTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RAI Italia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Antenna Pacific",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CMC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DocPlay",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BoxSet",
+      "isFree": true,
       "priority": 5
     }
   ],

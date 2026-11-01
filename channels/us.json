@@ -2283,9 +2283,9 @@
     {
       "name": "NBC Sports Chicago Plus",
       "keywords": "nbc sports chicago plus -2",
+      "retransmits": "NBC Sports Chicago",
       "website": "http://www.nbcsports.com/chicago/",
-      "priority": 6,
-      "retransmits": "NBC Sports Chicago"
+      "priority": 6
     },
     {
       "name": "NBC Sports Chicago Plus 2",
@@ -14871,8 +14871,8 @@
       "name": "CBSN",
       "isFree": true,
       "keywords": "cbsn -2 -chicago -los -angeles -new -york -pittsburgh -3 -philly -4 -boston -minnesota -5 -sf -bay -area -baltimore -live -event -sacramento",
-      "priority": 7,
-      "retransmits": "CBS News"
+      "retransmits": "CBS News",
+      "priority": 7
     },
     {
       "name": "CBSN Baltimore",
@@ -16741,10 +16741,10 @@
     {
       "name": "News12, Hudson Valley",
       "isFree": true,
-      "website": "http://news12.plus/",
-      "priority": 5,
       "keywords": "news 12 hudson valley | news12 hudson valley",
-      "shortName": "N1HV"
+      "shortName": "N1HV",
+      "website": "http://news12.plus/",
+      "priority": 5
     },
     {
       "name": "News12, Long Island",
@@ -16755,17 +16755,17 @@
     {
       "name": "News12, New Jersey",
       "isFree": true,
-      "website": "http://news12.plus/",
-      "priority": 5,
       "keywords": "news 12 new jersey | news12 new jersey",
-      "shortName": "N1NJ"
+      "shortName": "N1NJ",
+      "website": "http://news12.plus/",
+      "priority": 5
     },
     {
       "name": "News12, New York",
       "isFree": true,
+      "keywords": "news 12 new york | news12 new york",
       "website": "http://news12.plus/",
-      "priority": 5,
-      "keywords": "news 12 new york | news12 new york"
+      "priority": 5
     },
     {
       "name": "Newsmax 2",
@@ -17436,9 +17436,19 @@
     {
       "name": "Alhurra",
       "isFree": true,
+      "keywords": "al hurra | alhurra -iraq",
       "website": "https://www.alhurra.com/",
-      "priority": 4,
-      "keywords": "al hurra | alhurra -iraq"
+      "priority": 4
+    },
+    {
+      "name": "Rai News 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Phoenix Info News",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Music Videos": [
@@ -18909,10 +18919,10 @@
     },
     {
       "name": "AMC",
-      "keywords": "amc -absolute -reality -ifc -film -picks -presents -rush -slightly -off",
-      "priority": 7,
       "isFree": true,
-      "website": "https://www.amcplus.com/"
+      "keywords": "amc -absolute -reality -ifc -film -picks -presents -rush -slightly -off",
+      "website": "https://www.amcplus.com/",
+      "priority": 7
     },
     {
       "name": "AMC Presents",
@@ -20355,8 +20365,8 @@
       "name": "Pursuit Up",
       "isFree": true,
       "keywords": "pursuit up | pursuitup",
-      "priority": 5,
-      "website": "https://pursuituptv.com/"
+      "website": "https://pursuituptv.com/",
+      "priority": 5
     },
     {
       "name": "Qubo",
@@ -44570,14 +44580,14 @@
       "priority": 5
     },
     {
+      "_altWebsites": [
+        "http://qctv.org/qctv-plus/"
+      ],
       "name": "QCTV",
       "isFree": true,
       "keywords": "qctv -andover",
       "website": "http://qctv.org/live/",
-      "priority": 5,
-      "_altWebsites": [
-        "http://qctv.org/qctv-plus/"
-      ]
+      "priority": 5
     },
     {
       "name": "QCTV Andover",
@@ -45273,9 +45283,9 @@
     {
       "name": "SEC Network Alternate",
       "keywords": "sec network alternate -2",
+      "retransmits": "SEC Network",
       "website": "https://www.secsports.com/",
-      "priority": 3,
-      "retransmits": "SEC Network"
+      "priority": 3
     },
     {
       "name": "SEC Network Alternate 2",
@@ -72714,8 +72724,8 @@
       "name": "Orange",
       "isFree": true,
       "keywords": "orange -media -network",
-      "priority": 5,
-      "website": "https://www.orangecountyfl.net/OpenGovernment/OrangeTVVisionTV.aspx"
+      "website": "https://www.orangecountyfl.net/OpenGovernment/OrangeTVVisionTV.aspx",
+      "priority": 5
     },
     {
       "name": "Lego",
@@ -72727,6 +72737,26 @@
       "name": "Motorvision",
       "isFree": true,
       "keywords": "motorvision",
+      "priority": 5
+    },
+    {
+      "name": "GMA Life TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TVE",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Nippon TV Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TVO",
+      "isFree": true,
       "priority": 5
     }
   ],
@@ -74742,14 +74772,14 @@
       "priority": 5
     },
     {
-      "name": "MGM+",
-      "keywords": "mgmplus -drive -in -hits -marquee",
-      "website": "http://www.epix.com/",
-      "priority": 7,
-      "isFree": true,
       "_altWebsites": [
         "http://www.mgmhd.com/"
-      ]
+      ],
+      "name": "MGM+",
+      "isFree": true,
+      "keywords": "mgmplus -drive -in -hits -marquee",
+      "website": "http://www.epix.com/",
+      "priority": 7
     },
     {
       "name": "MGM+ Drive In",
@@ -75272,14 +75302,14 @@
       "priority": 4
     },
     {
+      "_altWebsites": [
+        "https://pluto.tv/en/live-tv/pluto-tv-drama-gb-plus"
+      ],
       "name": "Pluto TV Drama",
       "isFree": true,
       "keywords": "pluto tv drama -life",
       "website": "https://pluto.tv/en/live-tv/pluto-tv-drama",
-      "priority": 4,
-      "_altWebsites": [
-        "https://pluto.tv/en/live-tv/pluto-tv-drama-gb-plus"
-      ]
+      "priority": 4
     },
     {
       "name": "Pluto TV Drama Life",
@@ -79996,6 +80026,11 @@
       "isFree": true,
       "keywords": "yu-gi-oh -en -espanol",
       "website": "https://pluto.tv/en/live-tv/yu-gi-oh-ptv1",
+      "priority": 5
+    },
+    {
+      "name": "DUCKTV",
+      "isFree": true,
       "priority": 5
     }
   ],

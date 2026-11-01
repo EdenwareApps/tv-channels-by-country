@@ -386,6 +386,16 @@
       "name": "iTV",
       "isFree": true,
       "priority": 4
+    },
+    {
+      "name": "Day Star",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Church TV",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Entertainment": [
@@ -901,6 +911,176 @@
       "isFree": true,
       "website": "http://zeeworld.zeeafrica.tv/",
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Moonbug",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde Afrique",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Real Time",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TeleMundo English",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Family",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Lifestyle",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC UKTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NTA I",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Sound City",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery ID",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Star Khanya",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Africa Magic Family",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Africa Magic Epic",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "WildEarth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Moja 9.9",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Studio Universal",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TNT Africa",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ROK",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Zee Zonke",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Novelas+",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BLITZ",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Curiosity Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "RAI International",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Music Videos": [
@@ -1048,6 +1228,26 @@
       "isFree": true,
       "website": "http://www.zeebollymovies.zeeafrica.tv/",
       "priority": 5
+    },
+    {
+      "name": "M Movies 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "M Movies 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "M Movies 3",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "M Movies 4",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Education & Culture": [
@@ -1160,6 +1360,76 @@
       "isFree": true,
       "website": "http://www.sabc.co.za/",
       "priority": 5
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DW",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "eNCA",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Arise News",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN News",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NDTV 24x7",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Africanews",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Kids": [
@@ -1201,6 +1471,26 @@
     },
     {
       "name": "Txillo",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DreamWorks",
       "isFree": true,
       "priority": 5
     }
@@ -1512,6 +1802,26 @@
       "name": "WWE Channel",
       "isFree": true,
       "website": "https://www.supersport.com/",
+      "priority": 5
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SuperSport Variety 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "PSL",
+      "isFree": true,
       "priority": 5
     }
   ],

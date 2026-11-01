@@ -28,8 +28,8 @@ Thumbs.db
 *.bak4
 *.bak5
 *.bak7
-/scripts
-/scripts
+/scripts/*
+!/scripts/validate-channels.js
 *.bak12
 *.bak13
 *.bak14

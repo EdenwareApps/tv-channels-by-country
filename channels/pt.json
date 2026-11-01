@@ -834,6 +834,171 @@
       "name": "TVR International",
       "isFree": null,
       "priority": 5
+    },
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Lifetime",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Crime & Investigation",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CMTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Record",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "AMC",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "E! Entertainment",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Caca e Pesca",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "OneToro TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Motorvision",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "MyZen TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Fight Network",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Trace Brasil",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Trace Urban",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Trace Toca",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "MCM Top",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "MCM Pop",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Rai Italia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV Zimbo",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ZAP Viva",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Benfica TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "A Bola TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "BVN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ARTE",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "M6",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
@@ -890,6 +1055,46 @@
       "isFree": true,
       "website": "https://sicnoticias.pt/",
       "priority": 10
+    },
+    {
+      "name": "France 24",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Al Jazeera",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Record News",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Education & Culture": [
@@ -941,6 +1146,51 @@
       "isFree": true,
       "website": "https://www.sporttv.pt/sport-tv-africa/#733",
       "priority": 10
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DAZN 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DAZN 2",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DAZN 3",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DAZN 4",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "DAZN 5",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Eurosport 1",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Eurosport 2",
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Religious": [
@@ -1149,6 +1399,21 @@
       "name": "Panda Kids",
       "isFree": true,
       "website": "https://tuamc.tv/canal-panda/",
+      "priority": 5
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Baby TV",
+      "isFree": true,
+      "priority": 5
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
       "priority": 5
     }
   ],
