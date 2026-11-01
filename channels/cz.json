@@ -75,7 +75,8 @@
     {
       "name": "RTM plus",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://www.rtmplus.cz/"
     },
     {
       "name": "Slagr",
@@ -90,11 +91,6 @@
     },
     {
       "name": "Vychodoceska",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Východočeská",
       "isFree": true,
       "priority": 5
     },
@@ -351,12 +347,6 @@
       "name": "Relax",
       "isFree": true,
       "website": "https://televizerelax.cz/",
-      "priority": 5
-    },
-    {
-      "name": "RTM+",
-      "isFree": true,
-      "website": "http://www.rtmplus.cz/",
       "priority": 5
     },
     {

@@ -618,12 +618,6 @@
       "priority": 10
     },
     {
-      "name": "DirecTV Sports,",
-      "isFree": true,
-      "website": "https://www.directvsports.com/",
-      "priority": 10
-    },
-    {
       "name": "Eleven Sports USA",
       "isFree": true,
       "website": "http://elevensportsusa.com/",
@@ -2261,7 +2255,7 @@
     {
       "name": "NBC Sports Bay Area Plus",
       "website": "https://www.nbcsports.com/bayarea/",
-      "priority": 6,
+      "priority": 8,
       "retransmits": "NBC Sports Bay Area"
     },
     {
@@ -2285,12 +2279,12 @@
       "keywords": "nbc sports chicago plus -2",
       "retransmits": "NBC Sports Chicago",
       "website": "http://www.nbcsports.com/chicago/",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "NBC Sports Chicago Plus 2",
       "website": "http://www.nbcsports.com/chicago/",
-      "priority": 6,
+      "priority": 8,
       "retransmits": "NBC Sports Chicago"
     },
     {
@@ -2311,7 +2305,7 @@
     {
       "name": "NBC Sports Philadelphia Plus",
       "website": "http://www.nbcsports.com/philadelphia/",
-      "priority": 6,
+      "priority": 8,
       "retransmits": "NBC Sports Philadelphia"
     },
     {
@@ -2323,7 +2317,7 @@
     {
       "name": "NBC Sports Washington Plus",
       "website": "http://www.nbcsports.com/washington/",
-      "priority": 6,
+      "priority": 8,
       "retransmits": "NBC Sports Washington"
     },
     {
@@ -2360,7 +2354,7 @@
     {
       "name": "NESN Plus",
       "website": "http://nesn.com/",
-      "priority": 6,
+      "priority": 8,
       "retransmits": "NESN"
     },
     {
@@ -2741,7 +2735,7 @@
     {
       "name": "NHL Network Alternate",
       "website": "https://www.nhl.com/info/network",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "NHL Network"
     },
     {
@@ -3486,7 +3480,7 @@
       "name": "TBN",
       "isFree": true,
       "keywords": "tbn -asia",
-      "priority": 6
+      "priority": 4
     },
     {
       "name": "TGM",
@@ -3738,13 +3732,13 @@
       "name": "Daystar",
       "isFree": true,
       "website": "https://www.daystar.com/",
-      "priority": 5
+      "priority": 4
     },
     {
       "name": "Daystar TV Espanol",
       "isFree": true,
       "website": "https://espanol.daystar.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Daystar"
     },
     {
@@ -14630,19 +14624,19 @@
     {
       "name": "ABC 5 Right Now",
       "isFree": true,
-      "priority": 5,
+      "priority": 8,
       "retransmits": "ABC"
     },
     {
       "name": "ABC 7 Denver",
       "isFree": true,
-      "priority": 6,
+      "priority": 8,
       "retransmits": "ABC"
     },
     {
       "name": "ABC 7 Detroit",
       "isFree": true,
-      "priority": 6,
+      "priority": 8,
       "retransmits": "ABC"
     },
     {
@@ -14650,7 +14644,7 @@
       "isFree": true,
       "shortName": "A7LA",
       "retransmits": "ABC",
-      "priority": 7
+      "priority": 8
     },
     {
       "name": "ABC 9 Kansas City",
@@ -14661,7 +14655,7 @@
     {
       "name": "ABC 9 Orlando",
       "isFree": true,
-      "priority": 6,
+      "priority": 8,
       "retransmits": "ABC"
     },
     {
@@ -14678,55 +14672,55 @@
     {
       "name": "ABC News Live 10",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 2",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 3",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 4",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 5",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 6",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 7",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 8",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
       "name": "ABC News Live 9",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "ABC News Live"
     },
     {
@@ -14848,19 +14842,19 @@
       "name": "CBS 47",
       "isFree": true,
       "retransmits": "CBS News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "CBS 7 Dayton",
       "isFree": true,
       "retransmits": "CBS News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "CBS 7 Seattle",
       "isFree": true,
       "retransmits": "CBS News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "CBS News",
@@ -14872,18 +14866,18 @@
       "isFree": true,
       "keywords": "cbsn -2 -chicago -los -angeles -new -york -pittsburgh -3 -philly -4 -boston -minnesota -5 -sf -bay -area -baltimore -live -event -sacramento",
       "retransmits": "CBS News",
-      "priority": 7
+      "priority": 8
     },
     {
       "name": "CBSN Baltimore",
       "isFree": true,
-      "priority": 6,
+      "priority": 8,
       "retransmits": "CBS News"
     },
     {
       "name": "CBSN Sacramento",
       "isFree": true,
-      "priority": 6,
+      "priority": 8,
       "retransmits": "CBS News"
     },
     {
@@ -14945,69 +14939,69 @@
       "name": "FOX 10 Phoenix",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 11 Los Angeles",
       "isFree": true,
       "retransmits": "FOX News",
       "shortName": "F1LA",
-      "priority": 7
+      "priority": 8
     },
     {
       "name": "FOX 2 Detroit",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 2 San Francisco",
       "isFree": true,
       "retransmits": "FOX News",
       "shortName": "F2SF",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 23 News",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 23 Tulsa",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 26 Houston",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 30 News",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 4 Dallas",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 45 News",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 5 Atlanta",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 7
+      "priority": 8
     },
     {
       "name": "FOX 5 NY",
@@ -15020,14 +15014,14 @@
       "name": "FOX 7 Austin",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX 9 ST Paul Minneapolis",
       "isFree": true,
       "retransmits": "FOX News",
       "shortName": "F9SPM",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "FOX News",
@@ -15038,7 +15032,7 @@
     {
       "name": "FOX News 23",
       "isFree": true,
-      "priority": 6,
+      "priority": 8,
       "retransmits": "FOX News"
     },
     {
@@ -15055,7 +15049,7 @@
       "name": "FOX Q13 Seattle",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "Fairfax Public Access",
@@ -15066,7 +15060,7 @@
       "name": "FOX Business",
       "isFree": true,
       "retransmits": "FOX News",
-      "priority": 7
+      "priority": 8
     },
     {
       "name": "FOX Weather",
@@ -15179,27 +15173,27 @@
       "isFree": true,
       "retransmits": "NBC",
       "shortName": "N1P",
-      "priority": 4
+      "priority": 8
     },
     {
       "name": "NBC 4 News Washington",
       "isFree": true,
       "retransmits": "NBC",
       "shortName": "N4NW",
-      "priority": 4
+      "priority": 8
     },
     {
       "name": "NBC 5 Cincinnati",
       "isFree": true,
       "retransmits": "NBC",
-      "priority": 4
+      "priority": 8
     },
     {
       "name": "NBC 6 New Orleans",
       "isFree": true,
       "retransmits": "NBC",
       "shortName": "N6NO",
-      "priority": 4
+      "priority": 8
     },
     {
       "name": "NBC News Now",
@@ -15293,7 +15287,7 @@
     {
       "name": "Newsy Top Stories",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Newsy"
     },
     {
@@ -15305,13 +15299,13 @@
     {
       "name": "OAN Encore",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "OAN"
     },
     {
       "name": "One America News",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "OAN"
     },
     {
@@ -15333,7 +15327,7 @@
     {
       "name": "RT",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "RT America"
     },
     {
@@ -15409,7 +15403,7 @@
     {
       "name": "Top Stories by Newsy",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Newsy"
     },
     {
@@ -15762,18 +15756,18 @@
     {
       "name": "CNBC World",
       "website": "http://cnbc.com/global-television-shows",
-      "priority": 6,
+      "priority": 8,
       "retransmits": "CNBC"
     },
     {
       "name": "CNN Airport",
       "website": "http://edition.cnn.com/CNN/Programs/airport.network/homepage.html",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "CNN"
     },
     {
       "name": "CNN Checkout",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "CNN"
     },
     {
@@ -15784,7 +15778,7 @@
     {
       "name": "CNN Headlines",
       "website": "https://edition.cnn.com/videos/fast/cnn-headlines",
-      "priority": 7,
+      "priority": 8,
       "retransmits": "CNN"
     },
     {
@@ -15794,18 +15788,18 @@
     },
     {
       "name": "CNN Originals",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "CNN"
     },
     {
       "name": "CNN RePlay",
       "website": "https://pluto.tv/en/live-tv/5421f71da6af422839419cb3",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "CNN"
     },
     {
       "name": "CNN Xpress",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "CNN"
     },
     {
@@ -16743,12 +16737,6 @@
       "isFree": true,
       "keywords": "news 12 hudson valley | news12 hudson valley",
       "shortName": "N1HV",
-      "website": "http://news12.plus/",
-      "priority": 5
-    },
-    {
-      "name": "News12, Long Island",
-      "isFree": true,
       "website": "http://news12.plus/",
       "priority": 5
     },
@@ -17736,11 +17724,6 @@
       "name": "3ABN Praise Him Music Network",
       "isFree": true,
       "website": "https://www.3abnpraisehim.tv/",
-      "priority": 5
-    },
-    {
-      "name": "Adoracion Real",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -18926,12 +18909,12 @@
     },
     {
       "name": "AMC Presents",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "AMC"
     },
     {
       "name": "AMC Slightly Off",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "AMC"
     },
     {
@@ -18985,28 +18968,28 @@
     {
       "name": "Adult Swim Channel 5",
       "shortName": "ASC 5",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Adult Swim"
     },
     {
       "name": "Adult Swim Fishcam",
-      "priority": 1,
+      "priority": 8,
       "retransmits": "Adult Swim"
     },
     {
       "name": "Adult Swim Infomercials",
-      "priority": 1,
+      "priority": 8,
       "retransmits": "Adult Swim"
     },
     {
       "name": "Adult Swim Last Stream On The Left",
       "shortName": "ASLSOTL",
-      "priority": 2,
+      "priority": 8,
       "retransmits": "Adult Swim"
     },
     {
       "name": "Adult Swim Metalocalypse",
-      "priority": 2,
+      "priority": 8,
       "retransmits": "Adult Swim"
     },
     {
@@ -19201,13 +19184,13 @@
       "name": "CBS East Detroit",
       "isFree": true,
       "retransmits": "CBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "CBS West Seattle",
       "isFree": true,
       "retransmits": "CBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "CMC USA",
@@ -19793,7 +19776,7 @@
       "name": "KET PBS Kids",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "KMTV",
@@ -20119,13 +20102,13 @@
       "name": "NBC East Boston",
       "isFree": true,
       "retransmits": "NBC",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NBC West Seattle",
       "isFree": true,
       "retransmits": "NBC",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "NBCLX",
@@ -20241,39 +20224,39 @@
       "name": "PBS 39 Allentown",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS 39 Extra Philadelphia",
       "isFree": true,
       "retransmits": "PBS",
       "shortName": "P3EP",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS America",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Create Los Angeles",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Dallas",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS KET 68",
       "isFree": true,
       "retransmits": "PBS",
       "shortName": "PK6L",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Kids",
@@ -20285,7 +20268,7 @@
       "name": "PBS Los Angeles",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "POPSTAR!",
@@ -20610,11 +20593,6 @@
     },
     {
       "name": "Shout Factory",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Shout! Factory",
       "isFree": true,
       "priority": 5
     },
@@ -21004,7 +20982,7 @@
     },
     {
       "name": "TruTV East",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "TruTV"
     },
     {
@@ -21014,7 +20992,7 @@
     },
     {
       "name": "TruTV West",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "TruTV"
     },
     {
@@ -21085,7 +21063,7 @@
       "name": "WIS PBS",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "WMFD",
@@ -21096,7 +21074,7 @@
       "name": "WPSU PBS",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "WSVI",
@@ -23636,12 +23614,6 @@
       "priority": 5
     },
     {
-      "name": "CW,",
-      "isFree": true,
-      "website": "https://www.cwtv.com/",
-      "priority": 5
-    },
-    {
       "name": "Cypress Channel 36",
       "isFree": true,
       "website": "https://www.cypressca.org/government/watch-cypress-channel-36",
@@ -25163,11 +25135,6 @@
       "_altWebsites": [
         "https://www.hbolatam.com/"
       ]
-    },
-    {
-      "name": "HBO, Latin America",
-      "website": "https://www.hbolatam.com/",
-      "priority": 8
     },
     {
       "name": "HBO Pop Latin America",
@@ -34880,13 +34847,13 @@
     {
       "name": "KOCB DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOCB DT"
     },
     {
       "name": "KOCB DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOCB DT"
     },
     {
@@ -34909,21 +34876,21 @@
     {
       "name": "KOCO DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOCO DT"
     },
     {
       "name": "KOCO DT 5",
       "isFree": true,
       "website": "https://www.koco.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOCO DT"
     },
     {
       "name": "KOCO DT 6",
       "isFree": true,
       "website": "https://www.koco.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOCO DT"
     },
     {
@@ -34947,13 +34914,13 @@
     {
       "name": "KOCW DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOCW DT"
     },
     {
       "name": "KOCW DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOCW DT"
     },
     {
@@ -34971,19 +34938,19 @@
     {
       "name": "KODE DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KODE DT"
     },
     {
       "name": "KODE DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KODE DT"
     },
     {
       "name": "KODE DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KODE DT"
     },
     {
@@ -35010,21 +34977,21 @@
     {
       "name": "KOFY DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOFY DT"
     },
     {
       "name": "KOFY DT 7",
       "isFree": true,
       "website": "https://www.kofytv.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOFY DT"
     },
     {
       "name": "KOFY DT 8",
       "isFree": true,
       "website": "https://www.kofytv.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOFY DT"
     },
     {
@@ -35054,7 +35021,7 @@
       "name": "KOHD DT 2",
       "isFree": true,
       "website": "https://www.centraloregondaily.com/kohd-abc/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOHD DT"
     },
     {
@@ -35066,13 +35033,13 @@
     {
       "name": "KOIN DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOIN DT"
     },
     {
       "name": "KOIN DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOIN DT"
     },
     {
@@ -35084,13 +35051,13 @@
     {
       "name": "KOKH DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOKH DT"
     },
     {
       "name": "KOKH DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOKH DT"
     },
     {
@@ -35102,13 +35069,13 @@
     {
       "name": "KOKI DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOKI DT"
     },
     {
       "name": "KOKI DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KOKI DT"
     },
     {
@@ -40518,25 +40485,25 @@
       "name": "KVOA DT 2",
       "isFree": true,
       "website": "https://www.kvoa.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOA DT"
     },
     {
       "name": "KVOA DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOA DT"
     },
     {
       "name": "KVOA DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOA DT"
     },
     {
       "name": "KVOA DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOA DT"
     },
     {
@@ -40548,31 +40515,31 @@
     {
       "name": "KVOS DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOS DT"
     },
     {
       "name": "KVOS DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOS DT"
     },
     {
       "name": "KVOS DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOS DT"
     },
     {
       "name": "KVOS DT 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOS DT"
     },
     {
       "name": "KVOS DT 8",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVOS DT"
     },
     {
@@ -40607,7 +40574,7 @@
     {
       "name": "KVRR DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVRR DT"
     },
     {
@@ -40619,19 +40586,19 @@
     {
       "name": "KVSN DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVSN DT"
     },
     {
       "name": "KVSN DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVSN DT"
     },
     {
       "name": "KVSN DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVSN DT"
     },
     {
@@ -40648,25 +40615,25 @@
     {
       "name": "KVUE DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUE DT"
     },
     {
       "name": "KVUE DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUE DT"
     },
     {
       "name": "KVUE DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUE DT"
     },
     {
       "name": "KVUE DT 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUE DT"
     },
     {
@@ -40678,37 +40645,37 @@
     {
       "name": "KVUI DT 10",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUI DT"
     },
     {
       "name": "KVUI DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUI DT"
     },
     {
       "name": "KVUI DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUI DT"
     },
     {
       "name": "KVUI DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUI DT"
     },
     {
       "name": "KVUI DT 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUI DT"
     },
     {
       "name": "KVUI DT 8",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVUI DT"
     },
     {
@@ -40731,13 +40698,13 @@
     {
       "name": "KVVK CD 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVVK CD"
     },
     {
       "name": "KVVK CD 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "KVVK CD"
     },
     {
@@ -43230,7 +43197,7 @@
       "name": "NBC Universo",
       "retransmits": "NBC",
       "website": "http://www.nbcuniverso.com/",
-      "priority": 3
+      "priority": 8
     },
     {
       "name": "NBTV",
@@ -43758,7 +43725,7 @@
       "name": "PBS Travel",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PCATV",
@@ -45285,11 +45252,11 @@
       "keywords": "sec network alternate -2",
       "retransmits": "SEC Network",
       "website": "https://www.secsports.com/",
-      "priority": 3
+      "priority": 8
     },
     {
       "name": "SEC Network Alternate 2",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "SEC Network"
     },
     {
@@ -45316,7 +45283,7 @@
     {
       "name": "SET TV 2",
       "website": "https://setchannel.tv",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "SET"
     },
     {
@@ -45341,7 +45308,7 @@
       "name": "SFGovTV 2",
       "isFree": true,
       "website": "https://sfgovtv.org/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "SFGovTV"
     },
     {
@@ -45411,43 +45378,43 @@
     {
       "name": "Showtime 2",
       "website": "https://www.sho.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Showtime"
     },
     {
       "name": "Showtime Extreme",
       "website": "https://www.sho.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Showtime"
     },
     {
       "name": "Showtime Family Zone",
       "website": "https://www.sho.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Showtime"
     },
     {
       "name": "Showtime Next",
       "website": "https://www.sho.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Showtime"
     },
     {
       "name": "Showtime Selects",
       "website": "https://pluto.tv/en/live-tv/showtime-selects",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Showtime"
     },
     {
       "name": "Showtime Showcase",
       "website": "https://www.sho.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Showtime"
     },
     {
       "name": "Showtime Women",
       "website": "https://www.sho.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "Showtime"
     },
     {
@@ -46374,7 +46341,7 @@
       "isFree": true,
       "retransmits": "The CW",
       "website": "http://www.cwtv.com/",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "The Elvis Presley",
@@ -48272,19 +48239,19 @@
     {
       "name": "WABC DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WABC DT"
     },
     {
       "name": "WABC DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WABC DT"
     },
     {
       "name": "WABC DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WABC DT"
     },
     {
@@ -48389,19 +48356,19 @@
     {
       "name": "WACH DT 2",
       "isFree": true,
-      "priority": 2,
+      "priority": 8,
       "retransmits": "WACH DT"
     },
     {
       "name": "WACH DT 3",
       "isFree": true,
-      "priority": 2,
+      "priority": 8,
       "retransmits": "WACH DT"
     },
     {
       "name": "WACH DT 4",
       "isFree": true,
-      "priority": 2,
+      "priority": 8,
       "retransmits": "WACH DT"
     },
     {
@@ -49518,19 +49485,19 @@
     {
       "name": "WBFF DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBFF DT"
     },
     {
       "name": "WBFF DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBFF DT"
     },
     {
       "name": "WBFF DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBFF DT"
     },
     {
@@ -49542,25 +49509,25 @@
     {
       "name": "WBFS DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBFS DT"
     },
     {
       "name": "WBFS DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBFS DT"
     },
     {
       "name": "WBFS DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBFS DT"
     },
     {
       "name": "WBFS DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBFS DT"
     },
     {
@@ -49576,31 +49543,31 @@
     {
       "name": "WBGT CD 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBGT CD"
     },
     {
       "name": "WBGT CD 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBGT CD"
     },
     {
       "name": "WBGT CD 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBGT CD"
     },
     {
       "name": "WBGT CD 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBGT CD"
     },
     {
       "name": "WBGT CD 7",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBGT CD"
     },
     {
@@ -49611,7 +49578,7 @@
     {
       "name": "WBGU DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBGU DT 2"
     },
     {
@@ -49627,13 +49594,13 @@
     {
       "name": "WBII CD 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBII CD"
     },
     {
       "name": "WBII CD 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBII CD"
     },
     {
@@ -49645,25 +49612,25 @@
     {
       "name": "WBIR DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBIR DT"
     },
     {
       "name": "WBIR DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBIR DT"
     },
     {
       "name": "WBIR DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBIR DT"
     },
     {
       "name": "WBIR DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBIR DT"
     },
     {
@@ -49675,13 +49642,13 @@
     {
       "name": "WBKB DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKB DT"
     },
     {
       "name": "WBKB DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKB DT"
     },
     {
@@ -49693,31 +49660,31 @@
     {
       "name": "WBKI DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKI DT"
     },
     {
       "name": "WBKI DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKI DT"
     },
     {
       "name": "WBKI DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKI DT"
     },
     {
       "name": "WBKI DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKI DT"
     },
     {
       "name": "WBKI DT 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKI DT"
     },
     {
@@ -49728,13 +49695,13 @@
     {
       "name": "WBKO DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKO DT"
     },
     {
       "name": "WBKO DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WBKO DT"
     },
     {
@@ -53407,19 +53374,19 @@
     {
       "name": "WETA DT 2",
       "isFree": true,
-      "priority": 7,
+      "priority": 8,
       "retransmits": "WETA DT"
     },
     {
       "name": "WETA DT 3",
       "isFree": true,
-      "priority": 7,
+      "priority": 8,
       "retransmits": "WETA DT"
     },
     {
       "name": "WETA DT 4",
       "isFree": true,
-      "priority": 7,
+      "priority": 8,
       "retransmits": "WETA DT"
     },
     {
@@ -53442,7 +53409,7 @@
     {
       "name": "WETK DT 2",
       "isFree": true,
-      "priority": 5,
+      "priority": 8,
       "retransmits": "WETK DT"
     },
     {
@@ -53461,21 +53428,21 @@
       "name": "WETM DT 2",
       "isFree": true,
       "website": "https://www.mytwintiers.com/",
-      "priority": 5,
+      "priority": 8,
       "retransmits": "WETM DT"
     },
     {
       "name": "WETM DT 3",
       "isFree": true,
       "website": "https://www.mytwintiers.com/",
-      "priority": 5,
+      "priority": 8,
       "retransmits": "WETM DT"
     },
     {
       "name": "WETM DT 4",
       "isFree": true,
       "website": "https://www.mytwintiers.com/",
-      "priority": 5,
+      "priority": 8,
       "retransmits": "WETM DT"
     },
     {
@@ -53513,7 +53480,7 @@
     {
       "name": "WEVV DT 2",
       "isFree": true,
-      "priority": 5,
+      "priority": 8,
       "retransmits": "WEVV DT"
     },
     {
@@ -55198,19 +55165,19 @@
       "name": "WGME DT 2",
       "isFree": true,
       "website": "https://wgme.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGME DT"
     },
     {
       "name": "WGME DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGME DT"
     },
     {
       "name": "WGMU LP",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGME DT"
     },
     {
@@ -55222,25 +55189,25 @@
     {
       "name": "WGN DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGN DT"
     },
     {
       "name": "WGN DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGN DT"
     },
     {
       "name": "WGN DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGN DT"
     },
     {
       "name": "WGN DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGN DT"
     },
     {
@@ -55252,14 +55219,14 @@
     {
       "name": "WGNM DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNM DT"
     },
     {
       "name": "WGNM DT 4",
       "isFree": true,
       "website": "https://www.ctnonline.com/affiliate/wgnm-tv/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNM DT"
     },
     {
@@ -55271,19 +55238,19 @@
     {
       "name": "WGNO DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNO DT"
     },
     {
       "name": "WGNO DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNO DT"
     },
     {
       "name": "WGNO DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNO DT"
     },
     {
@@ -55295,19 +55262,19 @@
     {
       "name": "WGNT DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNT DT"
     },
     {
       "name": "WGNT DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNT DT"
     },
     {
       "name": "WGNT DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGNT DT"
     },
     {
@@ -55318,37 +55285,37 @@
     {
       "name": "WGPS LP 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPS LP"
     },
     {
       "name": "WGPS LP 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPS LP"
     },
     {
       "name": "WGPS LP 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPS LP"
     },
     {
       "name": "WGPS LP 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPS LP"
     },
     {
       "name": "WGPS LP 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPS LP"
     },
     {
       "name": "WGPS LP 7",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPS LP"
     },
     {
@@ -55360,7 +55327,7 @@
     {
       "name": "WGPT DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPT DT"
     },
     {
@@ -55371,31 +55338,31 @@
     {
       "name": "WGPX DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPX DT"
     },
     {
       "name": "WGPX DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPX DT"
     },
     {
       "name": "WGPX DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPX DT"
     },
     {
       "name": "WGPX DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPX DT"
     },
     {
       "name": "WGPX DT 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGPX DT"
     },
     {
@@ -55407,25 +55374,25 @@
     {
       "name": "WGRZ DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGRZ DT"
     },
     {
       "name": "WGRZ DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGRZ DT"
     },
     {
       "name": "WGRZ DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGRZ DT"
     },
     {
       "name": "WGRZ DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WGRZ DT"
     },
     {
@@ -60257,31 +60224,31 @@
     {
       "name": "WLOX DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLOX DT"
     },
     {
       "name": "WLOX DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLOX DT"
     },
     {
       "name": "WLOX DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLOX DT"
     },
     {
       "name": "WLOX DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLOX DT"
     },
     {
       "name": "WLOX DT 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLOX DT"
     },
     {
@@ -60307,31 +60274,31 @@
     {
       "name": "WLPX DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLPX DT"
     },
     {
       "name": "WLPX DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLPX DT"
     },
     {
       "name": "WLPX DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLPX DT"
     },
     {
       "name": "WLPX DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLPX DT"
     },
     {
       "name": "WLPX DT 6",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLPX DT"
     },
     {
@@ -60355,13 +60322,13 @@
     {
       "name": "WLS DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLS DT"
     },
     {
       "name": "WLS DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLS DT"
     },
     {
@@ -60373,19 +60340,19 @@
     {
       "name": "WLTV DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTV DT"
     },
     {
       "name": "WLTV DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTV DT"
     },
     {
       "name": "WLTV DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTV DT"
     },
     {
@@ -60397,25 +60364,25 @@
     {
       "name": "WLTX DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTX DT"
     },
     {
       "name": "WLTX DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTX DT"
     },
     {
       "name": "WLTX DT 4",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTX DT"
     },
     {
       "name": "WLTX DT 5",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTX DT"
     },
     {
@@ -60427,13 +60394,13 @@
     {
       "name": "WLTZ DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTZ DT"
     },
     {
       "name": "WLTZ DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLTZ DT"
     },
     {
@@ -60446,13 +60413,13 @@
       "name": "WLUC DT 2",
       "isFree": true,
       "website": "https://www.uppermichiganssource.com/",
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLUC DT"
     },
     {
       "name": "WLUC DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLUC DT"
     },
     {
@@ -60464,13 +60431,13 @@
     {
       "name": "WLUK DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLUK DT"
     },
     {
       "name": "WLUK DT 3",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLUK DT"
     },
     {
@@ -60482,7 +60449,7 @@
     {
       "name": "WLVI DT 2",
       "isFree": true,
-      "priority": 3,
+      "priority": 8,
       "retransmits": "WLVI DT"
     },
     {
@@ -73727,11 +73694,6 @@
       "priority": 5
     },
     {
-      "name": "Cine Sureno",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "Cine Terror",
       "isFree": true,
       "website": "https://pluto.tv/en/live-tv/cine-terror",
@@ -77343,241 +77305,241 @@
       "name": "PBS Harrisburg",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Hartford",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Honolulu",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Houston",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Indianapolis",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Jackson",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Jacksonville",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Kansas City",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Knoxville",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Lakeland",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Las Cruces",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Las Vegas",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Lewiston",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Lexington",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Lincoln",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Madison",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Marquette",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Medford",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Miami",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Milwaukee",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Minneapolis",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Moline",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Mount Pleasant",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Muncie",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Nashville",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS New Jersey",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS New Orleans",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS New York",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Norfolk",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Odessa",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Oklahoma City",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Orlando",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Pensacola",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Peoria",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Philadelphia",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Phoenix",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Pittsburgh",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Plattsburgh",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Portales",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Portland",
       "isFree": true,
       "retransmits": "PBS",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "PBS Providence",
@@ -78218,7 +78180,7 @@
     {
       "name": "AFV en Español",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "AFV"
     },
     {
@@ -78612,13 +78574,13 @@
     {
       "name": "PBS Kids Arizona",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "PBS Kids 68"
     },
     {
       "name": "PBS Kids Florida",
       "isFree": true,
-      "priority": 4,
+      "priority": 8,
       "retransmits": "PBS Kids 68"
     },
     {
@@ -79758,7 +79720,7 @@
     {
       "name": "Super! SpongeBob",
       "website": "https://pluto.tv/en/live-tv/super-spongebob-it",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "SpongeBob Schwammkopf"
     },
     {
@@ -79786,7 +79748,7 @@
     {
       "name": "TeenNick Latin America",
       "website": "http://nickelodeon.la/",
-      "priority": 4,
+      "priority": 8,
       "retransmits": "TeenNick"
     },
     {

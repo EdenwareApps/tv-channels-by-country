@@ -88,7 +88,8 @@
     {
       "name": "Argentinísima Satelital",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://argentinisimatv.com.ar/"
     },
     {
       "name": "CANAL TDC",
@@ -285,7 +286,8 @@
       "name": "TV Pública",
       "isFree": true,
       "website": "https://www.tvpublica.com.ar",
-      "priority": 5
+      "priority": 5,
+      "keywords": "tv publica -fueguina -marcos -paz"
     },
     {
       "name": "TVG América",
@@ -325,7 +327,8 @@
     {
       "name": "Tierra Mía",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.diario26.com/"
     },
     {
       "name": "VerTV",
@@ -395,12 +398,6 @@
       "name": "Antena 91",
       "isFree": true,
       "website": "http://www.antena91.com.ar/Reproductor.htm",
-      "priority": 5
-    },
-    {
-      "name": "Argentinisima Satelital",
-      "isFree": true,
-      "website": "http://argentinisimatv.com.ar/",
       "priority": 5
     },
     {
@@ -1578,11 +1575,6 @@
       "priority": 5
     },
     {
-      "name": "Live Peru TV Streaming",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "LTO Television",
       "isFree": true,
       "website": "https://lastejasonline.blogspot.com/p/lto-television.html",
@@ -1970,12 +1962,6 @@
       "priority": 5
     },
     {
-      "name": "Tierra Mia",
-      "isFree": true,
-      "website": "https://www.diario26.com/",
-      "priority": 5
-    },
-    {
       "name": "TIV Television",
       "isFree": true,
       "website": "http://bieninformado.com.ar/",
@@ -2019,13 +2005,6 @@
       "name": "TVMAXCBA",
       "isFree": true,
       "website": "https://en.tvmaxcba.com/",
-      "priority": 5
-    },
-    {
-      "name": "TV Publica",
-      "isFree": true,
-      "keywords": "tv publica -fueguina -marcos -paz",
-      "website": "https://www.tvpublica.com.ar/",
       "priority": 5
     },
     {

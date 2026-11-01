@@ -50,14 +50,9 @@
     {
       "name": "RTÉ News",
       "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "RTE News",
-      "isFree": true,
-      "keywords": "rte news -now",
+      "priority": 5,
       "website": "https://www.rte.ie/news/",
-      "priority": 5
+      "keywords": "rte news -now"
     },
     {
       "name": "Sky News",

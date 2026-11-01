@@ -26,7 +26,7 @@
       "retransmits": "TV Azteca",
       "shortName": "Foro",
       "website": "https://www.tvazteca.com/forotv",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "MVM Noticias",
@@ -281,7 +281,7 @@
       "name": "Canal Mundo+",
       "isFree": true,
       "retransmits": "Canal Once",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Once Internacional",
@@ -289,7 +289,7 @@
       "retransmits": "Canal Once",
       "shortName": "Canal Once",
       "website": "https://www.canaloncedigital.mx",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Once TV IPN",
@@ -297,7 +297,7 @@
       "retransmits": "Canal Once",
       "shortName": "Canal Once",
       "website": "https://www.canaloncedigital.mx",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Claro Sports",
@@ -374,13 +374,13 @@
       "retransmits": "Multimedios",
       "shortName": "Multimedios",
       "website": "https://www.multimedios.com",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Multimedios Laguna",
       "isFree": true,
       "retransmits": "Multimedios",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Multimedios Monterrey",
@@ -388,12 +388,13 @@
       "retransmits": "Multimedios",
       "shortName": "Multimedios",
       "website": "https://www.multimedios.com",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "México Travel",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://mexicotravelchannel.com.mx/"
     },
     {
       "name": "Noticias Canal 10",
@@ -407,7 +408,7 @@
       "retransmits": "Canal Once",
       "shortName": "Canal Once",
       "website": "https://www.canaloncedigital.mx",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "POP",
@@ -474,7 +475,7 @@
       "retransmits": "TV Azteca",
       "shortName": "Azteca 7",
       "website": "https://www.tvazteca.com",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "TV Lobo",
@@ -494,11 +495,6 @@
       "priority": 5
     },
     {
-      "name": "TVMÁS",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TVP",
       "isFree": true,
       "keywords": "tvp -culiacan -los -mochis -obregon",
@@ -507,7 +503,8 @@
     {
       "name": "TVP Culiacán",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://tvpacifico.mx/"
     },
     {
       "name": "TVP Los Mochis",
@@ -517,7 +514,8 @@
     {
       "name": "TVP Obregón",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://tvpacifico.mx/"
     },
     {
       "name": "Tabasco Hoy",
@@ -526,11 +524,6 @@
     },
     {
       "name": "TeleFormula",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Telefórmula",
       "isFree": true,
       "priority": 5
     },
@@ -702,7 +695,7 @@
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.diezpuntounotam.com/",
-      "priority": 5,
+      "priority": 8,
       "keywords": "canal 10 -cancun"
     },
     {
@@ -819,14 +812,14 @@
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.setpuebla.mx/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal 16. 2",
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.setpuebla.mx/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal 16 TV Sur Ocozocoautla",
@@ -894,7 +887,7 @@
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://ryta.com.mx/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal 29 de Airecable",
@@ -1040,59 +1033,59 @@
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.canaldelcongreso.gob.mx/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal del Congreso 45. 2",
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.canaldelcongreso.gob.mx/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal del Congreso 45. 3",
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.canaldelcongreso.gob.mx/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Doce Huejutla",
       "isFree": true,
       "retransmits": "Canal Once",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Doce Panuco",
       "isFree": true,
       "retransmits": "Canal Once",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Doce Tantoyuca",
       "isFree": true,
       "retransmits": "Canal Once",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Doce",
       "isFree": true,
       "retransmits": "Canal Once",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Ocho",
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://canalochotv.com/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Parlamento del Congreso de Jalisco",
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://canalparlamento.congresojal.gob.mx/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Car One",
@@ -1379,52 +1372,46 @@
       "priority": 5
     },
     {
-      "name": "Mexico Travel",
-      "isFree": true,
-      "website": "https://mexicotravelchannel.com.mx/",
-      "priority": 5
-    },
-    {
       "name": "Multimedios Bajio",
       "isFree": true,
       "retransmits": "Multimedios",
       "website": "https://www.multimedios.com/video/bajio-tv-en-vivo/v17351",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Multimedios CDMX",
       "isFree": true,
       "retransmits": "Multimedios",
       "website": "https://www.multimedios.com/television",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Multimedios Ciudad Juarez",
       "isFree": true,
       "retransmits": "Multimedios",
       "website": "https://www.multimedios.com/video/ciudad-juarez-tv-en-vivo/v19824",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Multimedios Plus",
       "isFree": true,
       "retransmits": "Multimedios",
       "website": "https://www.multimediostv.com/programas",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Multimedios Puebla",
       "isFree": true,
       "retransmits": "Multimedios",
       "website": "https://www.multimedios.com/video/puebla-tv-en-vivo/v17946",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Multimedios Saltillo",
       "isFree": true,
       "retransmits": "Multimedios",
       "website": "https://www.multimedios.com/video/saltillo-tv-en-vivo/v17784",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "MVS",
@@ -1747,11 +1734,6 @@
       "priority": 5
     },
     {
-      "name": "Transmedia Television Morelia",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TRC",
       "isFree": true,
       "website": "http://trccampeche.gob.mx/",
@@ -1883,19 +1865,7 @@
       "priority": 5
     },
     {
-      "name": "TVP Culiacan",
-      "isFree": true,
-      "website": "https://tvpacifico.mx/",
-      "priority": 5
-    },
-    {
       "name": "TVP Mazatlan",
-      "isFree": true,
-      "website": "https://tvpacifico.mx/",
-      "priority": 5
-    },
-    {
-      "name": "TVP Obregon",
       "isFree": true,
       "website": "https://tvpacifico.mx/",
       "priority": 5
@@ -2299,14 +2269,14 @@
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.canalcultural.tv/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal Iberoamericano",
       "isFree": true,
       "retransmits": "Canal Once",
       "website": "https://www.ilce.edu.mx/index.php/radio-y-tv",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "El Sonorense",
@@ -2567,7 +2537,7 @@
       "name": "Canal Catorce",
       "isFree": true,
       "retransmits": "Canal Once",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Capital 21",

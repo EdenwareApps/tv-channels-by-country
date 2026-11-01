@@ -87,7 +87,7 @@
     {
       "name": "Eurosport 1",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "MTV Liiga 3",
@@ -112,52 +112,52 @@
     {
       "name": "V Sport 1",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport 1 Suomi",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport 2",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport Premium",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport Live 1",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport Live 2",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport Live 3",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport Live 4",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Sport Live 5",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "Extreme Sports Channel",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "TotoTV",
@@ -167,7 +167,7 @@
     {
       "name": "V Sport Ultra HD",
       "isFree": true,
-      "priority": 10
+      "priority": 4
     },
     {
       "name": "V Film Premiere",

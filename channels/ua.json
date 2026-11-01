@@ -799,12 +799,6 @@
       "isFree": true,
       "website": "http://www.bighockey.ua/",
       "priority": 10
-    },
-    {
-      "name": "XSport,",
-      "isFree": true,
-      "website": "http://www.bighockey.ua/",
-      "priority": 10
     }
   ],
   "Local": [
@@ -1482,13 +1476,6 @@
       ]
     },
     {
-      "name": "KS TV - Drama,",
-      "isFree": true,
-      "keywords": "ks tv | drama",
-      "website": "https://tv.kyivstar.ua/en/live-channels/64e5f87646744d662a28159f-ks-tv-drama",
-      "priority": 5
-    },
-    {
       "name": "KS TV - El secreto de Puente Viejo",
       "isFree": true,
       "keywords": "ks tv | el secreto de puente viejo",
@@ -1592,13 +1579,6 @@
       "_altWebsites": [
         "https://tv.kyivstar.ua/en/live-channels/64e5f1f446744d662a0b80c2-ks-tv-mystic"
       ]
-    },
-    {
-      "name": "KS TV - Mystic,",
-      "isFree": true,
-      "keywords": "ks tv | mystic",
-      "website": "https://tv.kyivstar.ua/en/live-channels/64e5f1f446744d662a0b80c2-ks-tv-mystic",
-      "priority": 5
     },
     {
       "name": "KS TV - Our victory",

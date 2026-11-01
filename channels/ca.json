@@ -31,7 +31,7 @@
       "isFree": true,
       "retransmits": "CPAC",
       "website": "https://www.cpac.ca",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Canal de l'Assemblée nationale",
@@ -48,25 +48,25 @@
       "name": "Global News British Columbia",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News Calgary",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News Edmonton",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News Halifax",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News Kingston",
@@ -82,7 +82,7 @@
       "name": "Global News Montreal",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News National",
@@ -105,25 +105,25 @@
       "name": "Global News Regina",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News Saskatoon",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News Toronto",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global News Winnipeg",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Ici RDI",
@@ -254,7 +254,7 @@
       "isFree": true,
       "retransmits": "Global News National",
       "website": "http://globalnews.ca/bc/program/bc-1/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Hamdard",
@@ -387,7 +387,7 @@
     {
       "name": "Bible Discovery",
       "isFree": true,
-      "priority": 7
+      "priority": 4
     },
     {
       "name": "EMCI",
@@ -399,14 +399,7 @@
       "isFree": true,
       "retransmits": "EWTN",
       "website": "https://ewtn.com",
-      "priority": 4
-    },
-    {
-      "name": "EWTN Canadá",
-      "isFree": true,
-      "retransmits": "EWTN",
-      "website": "https://ewtn.com",
-      "priority": 4
+      "priority": 8
     },
     {
       "name": "GurSikh Sabha",
@@ -670,12 +663,6 @@
       "priority": 5
     },
     {
-      "name": "CIVA-DT-",
-      "isFree": true,
-      "website": "https://www.telequebec.tv/",
-      "priority": 5
-    },
-    {
       "name": "CIVB-DT-",
       "isFree": true,
       "website": "https://www.telequebec.tv/",
@@ -695,12 +682,6 @@
     },
     {
       "name": "CIVK-DT",
-      "isFree": true,
-      "website": "https://www.telequebec.tv/",
-      "priority": 5
-    },
-    {
-      "name": "CIVK-DT-",
       "isFree": true,
       "website": "https://www.telequebec.tv/",
       "priority": 5
@@ -755,12 +736,6 @@
     },
     {
       "name": "CJMT-DT",
-      "isFree": true,
-      "website": "http://www.omnitv.ca/ontario",
-      "priority": 5
-    },
-    {
-      "name": "CJMT-DT-",
       "isFree": true,
       "website": "http://www.omnitv.ca/ontario",
       "priority": 5
@@ -1699,13 +1674,13 @@
       "name": "Global Calgary",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Global Toronto",
       "isFree": true,
       "retransmits": "Global News National",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "GurSikh Sabha TV Scarborough",
@@ -1942,11 +1917,6 @@
     },
     {
       "name": "Télé-Mag Québec",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Télé-Québec",
       "isFree": true,
       "priority": 5
     },
@@ -2661,11 +2631,6 @@
       "priority": 5
     },
     {
-      "name": "CFHO-TV-",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CFJC-TV",
       "isFree": true,
       "website": "http://www.cfjctv.com/",
@@ -2876,11 +2841,6 @@
       "priority": 5
     },
     {
-      "name": "CFTF-DT-",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CFTF-DT- 10",
       "isFree": true,
       "priority": 5
@@ -2932,11 +2892,6 @@
       "priority": 5
     },
     {
-      "name": "CFTK-TV-",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CFTM-DT",
       "isFree": true,
       "website": "https://www.qub.ca/tvaplus/tva",
@@ -2967,12 +2922,6 @@
       "priority": 5
     },
     {
-      "name": "CFVS-DT-",
-      "isFree": true,
-      "website": "https://noovoabitibi.ca/",
-      "priority": 5
-    },
-    {
       "name": "CFYK-DT",
       "isFree": true,
       "website": "https://www.cbc.ca/news/canada/north",
@@ -2980,12 +2929,6 @@
     },
     {
       "name": "CHAN-DT",
-      "isFree": true,
-      "website": "https://globalnews.ca/bc/",
-      "priority": 5
-    },
-    {
-      "name": "CHAN-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/bc/",
       "priority": 5
@@ -3033,12 +2976,6 @@
       "priority": 5
     },
     {
-      "name": "CHAT-TV-",
-      "isFree": true,
-      "website": "http://www.chattelevision.ca/",
-      "priority": 5
-    },
-    {
       "name": "CHAT-TV- 2",
       "isFree": true,
       "website": "http://www.chattelevision.ca/",
@@ -3046,12 +2983,6 @@
     },
     {
       "name": "CHAU-DT",
-      "isFree": true,
-      "website": "https://cimtchau.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CHAU-DT-",
       "isFree": true,
       "website": "https://cimtchau.ca/",
       "priority": 5
@@ -3117,12 +3048,6 @@
       "priority": 5
     },
     {
-      "name": "CHBC-DT-",
-      "isFree": true,
-      "website": "https://globalnews.ca/okanagan/",
-      "priority": 5
-    },
-    {
       "name": "CHBC-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/",
@@ -3171,19 +3096,7 @@
       "priority": 5
     },
     {
-      "name": "CHBX-TV-",
-      "isFree": true,
-      "website": "https://northernontario.ctvnews.ca/",
-      "priority": 5
-    },
-    {
       "name": "CHCH-DT",
-      "isFree": true,
-      "website": "http://www.chch.com/",
-      "priority": 5
-    },
-    {
-      "name": "CHCH-DT-",
       "isFree": true,
       "website": "http://www.chch.com/",
       "priority": 5
@@ -3261,12 +3174,6 @@
       "priority": 5
     },
     {
-      "name": "CHKL-DT-",
-      "isFree": true,
-      "website": "https://globalnews.ca/bc/",
-      "priority": 5
-    },
-    {
       "name": "CHKL-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/bc/",
@@ -3285,12 +3192,6 @@
       "priority": 5
     },
     {
-      "name": "CHKM-DT-",
-      "isFree": true,
-      "website": "https://globalnews.ca/bc/",
-      "priority": 5
-    },
-    {
       "name": "CHLT-DT",
       "isFree": true,
       "website": "https://www.tvanouvelles.ca/regional/tva-sherbrooke",
@@ -3304,12 +3205,6 @@
     },
     {
       "name": "CHNB-DT",
-      "isFree": true,
-      "website": "https://globalnews.ca/new-brunswick/",
-      "priority": 5
-    },
-    {
-      "name": "CHNB-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/",
       "priority": 5
@@ -3381,11 +3276,6 @@
       "priority": 5
     },
     {
-      "name": "CICI-TV-",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "CICT-DT",
       "isFree": true,
       "website": "https://globalnews.ca/calgary/",
@@ -3411,12 +3301,6 @@
     },
     {
       "name": "CIHF-DT",
-      "isFree": true,
-      "website": "https://globalnews.ca/halifax/",
-      "priority": 5
-    },
-    {
-      "name": "CIHF-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/",
       "priority": 5
@@ -3560,12 +3444,6 @@
       "priority": 5
     },
     {
-      "name": "CIMT-DT-",
-      "isFree": true,
-      "website": "https://cimtchau.ca/",
-      "priority": 5
-    },
-    {
       "name": "CIMT-DT- 2",
       "isFree": true,
       "website": "https://cimtchau.ca/",
@@ -3603,12 +3481,6 @@
     },
     {
       "name": "CIPA-TV",
-      "isFree": true,
-      "website": "https://saskatoon.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CIPA-TV-",
       "isFree": true,
       "website": "https://saskatoon.ctvnews.ca/",
       "priority": 5
@@ -3662,12 +3534,6 @@
       "priority": 5
     },
     {
-      "name": "CITM-DT-",
-      "isFree": true,
-      "website": "https://globalnews.ca/bc/",
-      "priority": 5
-    },
-    {
       "name": "CITM-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/bc/",
@@ -3675,12 +3541,6 @@
     },
     {
       "name": "CITO-TV",
-      "isFree": true,
-      "website": "https://northernontario.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CITO-TV-",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/",
       "priority": 5
@@ -3717,12 +3577,6 @@
     },
     {
       "name": "CITV-DT",
-      "isFree": true,
-      "website": "https://globalnews.ca/edmonton/",
-      "priority": 5
-    },
-    {
-      "name": "CITV-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/edmonton/",
       "priority": 5
@@ -3933,12 +3787,6 @@
       "priority": 5
     },
     {
-      "name": "CKAL-DT-",
-      "isFree": true,
-      "website": "http://www.citytv.com/calgary",
-      "priority": 5
-    },
-    {
       "name": "CKAM-TV-",
       "isFree": true,
       "priority": 5
@@ -3960,11 +3808,6 @@
     },
     {
       "name": "CKBQ-TV",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "CKBQ-TV-",
       "isFree": true,
       "priority": 5
     },
@@ -4006,12 +3849,6 @@
     },
     {
       "name": "CKCW-DT",
-      "isFree": true,
-      "website": "https://atlantic.ctvnews.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CKCW-DT-",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/",
       "priority": 5
@@ -4074,12 +3911,6 @@
       "priority": 5
     },
     {
-      "name": "CKMI-DT-",
-      "isFree": true,
-      "website": "https://globalnews.ca/montreal/",
-      "priority": 5
-    },
-    {
       "name": "CKMI-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/montreal/",
@@ -4115,12 +3946,6 @@
       "priority": 5
     },
     {
-      "name": "CKPG-TV-",
-      "isFree": true,
-      "website": "http://ckpg.com/",
-      "priority": 5
-    },
-    {
       "name": "CKPG-TV- 4",
       "isFree": true,
       "website": "http://ckpg.com/",
@@ -4150,12 +3975,6 @@
     },
     {
       "name": "CKRT-DT",
-      "isFree": true,
-      "website": "http://www.ckrt.ca/",
-      "priority": 5
-    },
-    {
-      "name": "CKRT-DT-",
       "isFree": true,
       "website": "http://www.ckrt.ca/",
       "priority": 5
@@ -4274,12 +4093,6 @@
       "priority": 5
     },
     {
-      "name": "CKWS-DT-",
-      "isFree": true,
-      "website": "http://globalnews.ca/kingston/",
-      "priority": 5
-    },
-    {
       "name": "CKWS-TV- 2",
       "isFree": true,
       "website": "http://globalnews.ca/kingston/",
@@ -4344,7 +4157,7 @@
       "isFree": true,
       "retransmits": "CPAC",
       "website": "https://www.cpac.ca/",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "Crime + Investigation",
@@ -5066,11 +4879,6 @@
       "name": "Telemagino",
       "isFree": true,
       "website": "http://www.telemagino.ca/",
-      "priority": 5
-    },
-    {
-      "name": "Tele-Mag Quebec",
-      "isFree": true,
       "priority": 5
     },
     {

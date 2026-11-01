@@ -422,7 +422,8 @@
     {
       "name": "München",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.muenchen.tv/"
     },
     {
       "name": "München.tv",
@@ -1462,12 +1463,6 @@
       "priority": 5
     },
     {
-      "name": "Munchen",
-      "isFree": true,
-      "website": "https://www.muenchen.tv/",
-      "priority": 5
-    },
-    {
       "name": "MV",
       "isFree": true,
       "website": "https://mv1.tv/",
@@ -2017,11 +2012,6 @@
       "name": "Torgau-TV",
       "isFree": true,
       "website": "https://www.torgau-tv.de/",
-      "priority": 5
-    },
-    {
-      "name": "TV38 Sudost-Niedersachen",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -2576,7 +2566,7 @@
       "name": "ZDF Musikkanal",
       "isFree": null,
       "retransmits": "ZDF",
-      "priority": 5
+      "priority": 8
     },
     {
       "name": "ZDFtheaterkanal",
@@ -2685,11 +2675,6 @@
       "priority": 5
     },
     {
-      "name": "Rhein-Neckar Fernsehen",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "RTF.",
       "isFree": null,
       "priority": 5
@@ -2745,11 +2730,6 @@
       "priority": 5
     },
     {
-      "name": "Elbe-Elster-Fernsehen",
-      "isFree": null,
-      "priority": 5
-    },
-    {
       "name": "jüterbog-tv:",
       "isFree": null,
       "priority": 5
@@ -2766,11 +2746,6 @@
     },
     {
       "name": "Oderland.TV",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Oder-Spree Fernsehen",
       "isFree": null,
       "priority": 5
     },
@@ -2863,11 +2838,6 @@
     },
     {
       "name": "tv.rostock",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "TV-Schwerin",
       "isFree": null,
       "priority": 5
     },
@@ -3131,11 +3101,6 @@
     },
     {
       "name": "Flux",
-      "isFree": null,
-      "priority": 5
-    },
-    {
-      "name": "Hip Trips",
       "isFree": null,
       "priority": 5
     },

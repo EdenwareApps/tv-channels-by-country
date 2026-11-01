@@ -904,18 +904,13 @@
     {
       "name": "Çufo",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://www.digitalb.al/"
     },
     {
       "name": "Bubble",
       "isFree": true,
       "website": "https://www.tring.al/familjare/televizion/permbajtja/femije/",
-      "priority": 5
-    },
-    {
-      "name": "Cufo",
-      "isFree": true,
-      "website": "https://www.digitalb.al/",
       "priority": 5
     },
     {
@@ -1252,12 +1247,14 @@
     {
       "name": "RTSH Korça",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://tv.rtsh.al/"
     },
     {
       "name": "RTSH Kukësi",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "https://tv.rtsh.al/"
     },
     {
       "name": "RTSH Kuvend",
@@ -1533,18 +1530,6 @@
       "name": "Ora",
       "isFree": true,
       "website": "https://www.oranews.tv/",
-      "priority": 5
-    },
-    {
-      "name": "RTSH Korca",
-      "isFree": true,
-      "website": "https://tv.rtsh.al/",
-      "priority": 5
-    },
-    {
-      "name": "RTSH Kukesi",
-      "isFree": true,
-      "website": "https://tv.rtsh.al/",
       "priority": 5
     },
     {

@@ -126,11 +126,6 @@
       "priority": 5
     },
     {
-      "name": "TV Nové Zámky",
-      "isFree": true,
-      "priority": 5
-    },
-    {
       "name": "TV Poprad",
       "isFree": true,
       "priority": 5
@@ -152,11 +147,6 @@
     },
     {
       "name": "TV Ruzinov",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "TV Ružinov",
       "isFree": true,
       "priority": 5
     },

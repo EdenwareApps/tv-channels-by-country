@@ -59,7 +59,8 @@
     {
       "name": "Bến Tre",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://thbt.vn/"
     },
     {
       "name": "Channel V",
@@ -299,7 +300,8 @@
     {
       "name": "Quốc Hội",
       "isFree": true,
-      "priority": 5
+      "priority": 5,
+      "website": "http://quochoitv.vn/"
     },
     {
       "name": "Supreme Master",
@@ -455,12 +457,6 @@
       "priority": 5
     },
     {
-      "name": "Ben Tre",
-      "isFree": true,
-      "website": "http://thbt.vn/",
-      "priority": 5
-    },
-    {
       "name": "Binh Dinh",
       "isFree": true,
       "website": "http://binhdinhtv.vn/",
@@ -507,11 +503,6 @@
       "isFree": true,
       "keywords": "binh thuan tv -6",
       "website": "http://binhthuantv.vn/",
-      "priority": 5
-    },
-    {
-      "name": "Ca Mau",
-      "isFree": true,
       "priority": 5
     },
     {
@@ -837,12 +828,6 @@
       "priority": 5
     },
     {
-      "name": "Quoc Hoi",
-      "isFree": true,
-      "website": "http://quochoitv.vn/",
-      "priority": 5
-    },
-    {
       "name": "SCTV",
       "isFree": true,
       "website": "http://www.sctv.com.vn/",
@@ -1074,11 +1059,6 @@
     },
     {
       "name": "VFamily",
-      "isFree": true,
-      "priority": 5
-    },
-    {
-      "name": "Viet My",
       "isFree": true,
       "priority": 5
     },
