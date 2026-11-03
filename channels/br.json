@@ -1285,7 +1285,8 @@
       "name": "TV Bahia",
       "isFree": true,
       "website": "https://g1.globo.com/ba",
-      "priority": 6
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Beira Rio",
@@ -2111,31 +2112,36 @@
       "name": "EPTV Campinas e regiao",
       "isFree": true,
       "website": "http://globoesporte.globo.com/sp/campinas-e-regiao/",
-      "priority": 5
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "EPTV Central",
       "isFree": true,
       "website": "https://redeglobo.globo.com/sp/eptv/",
-      "priority": 5
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "EPTV Ribeirao Preto e regiao",
       "isFree": true,
       "website": "http://globoesporte.globo.com/sp/ribeirao-preto-e-regiao/",
-      "priority": 4
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "EPTV Sao Carlos e Araraquara",
       "isFree": true,
       "website": "http://g1.globo.com/sp/sao-carlos-regiao/",
-      "priority": 4
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "EPTV Sul de Minas",
       "isFree": true,
       "website": "http://globoesporte.globo.com/mg/sul-de-minas/",
-      "priority": 4
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "Estude em casa",
@@ -2191,37 +2197,43 @@
       "name": "InterTV Alto Litoral",
       "isFree": true,
       "website": "http://intertvonline.globo.com/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "InterTV Cabugi",
       "isFree": true,
       "website": "http://intertvonline.globo.com/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "InterTV Costa Branca",
       "isFree": true,
       "website": "http://intertvonline.globo.com/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "InterTV Grande Minas",
       "isFree": true,
       "website": "http://intertvonline.globo.com/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "InterTV Serra,Mar",
       "isFree": true,
       "website": "http://intertvonline.globo.com/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "InterTV Vales de Minas Gerais",
       "isFree": true,
       "website": "http://intertvonline.globo.com/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "Joias VIP",
@@ -2263,7 +2275,8 @@
       "isFree": true,
       "keywords": "nsc tv -blumenau -centro -oeste -chapeco -criciuma -florianopolis -joinville",
       "website": "http://redeglobo.globo.com/sc/nsctv/",
-      "priority": 6
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "NSC TV Blumenau",
@@ -2382,30 +2395,35 @@
       "name": "RBS TV Caxias do Sul",
       "isFree": true,
       "website": "http://redeglobo.globo.com/rs/rbstvrs/",
-      "priority": 1
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "RBS TV Pelotas",
       "isFree": true,
       "website": "http://redeglobo.globo.com/rs/rbstvrs/",
-      "priority": 1
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "RBS TV Porto Alegre",
       "isFree": true,
       "website": "http://redeglobo.globo.com/rs/rbstvrs/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "RBS TV RS",
       "isFree": true,
-      "priority": 3
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "RBS TV Santa Maria",
       "isFree": true,
       "website": "http://redeglobo.globo.com/rs/rbstvrs/",
-      "priority": 1
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "RDC",
@@ -2532,7 +2550,8 @@
       "name": "Rede Amazonica",
       "isFree": true,
       "keywords": "rede amazonica -ariquemes -ji -parana -manaus",
-      "priority": 5
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "Rede Amazonica Ariquemes",
@@ -2565,7 +2584,8 @@
       "name": "Rede Clube",
       "isFree": true,
       "website": "http://redeglobo.globo.com/pi/redeclube/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "Rede CNT Belem",
@@ -2776,7 +2796,8 @@
       "isFree": true,
       "keywords": "rpc tv -curitiba -foz -do -iguacu -maringa -paranavai -ponta -grossa",
       "website": "http://redeglobo.globo.com/rpc/",
-      "priority": 7
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "RPC TV Curitiba",
@@ -2964,7 +2985,8 @@
       "name": "TV Acre",
       "isFree": true,
       "website": "http://redeglobo.globo.com/redeamazonica/",
-      "priority": 5
+      "priority": 8,
+      "retransmits": "Rede Amazonica"
     },
     {
       "name": "TV A Critica",
@@ -3047,13 +3069,15 @@
       "name": "TV Amapa",
       "isFree": true,
       "website": "https://g1.globo.com/ap/amapa/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Rede Amazonica"
     },
     {
       "name": "TV Anhanguera Goiania",
       "isFree": true,
       "website": "https://redeglobo.globo.com/tvanhanguera/",
-      "priority": 3
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Antena 10",
@@ -3076,7 +3100,8 @@
       "name": "TV Asa Branca",
       "isFree": true,
       "website": "https://redeglobo.globo.com/pe/tvasabranca/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Assembleia Ceara",
@@ -3152,7 +3177,8 @@
       "name": "TV Cabo Branco",
       "isFree": true,
       "website": "http://redeglobo.globo.com/tvcabobranco/",
-      "priority": 5
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Cachoeira",
@@ -3251,7 +3277,8 @@
       "isFree": true,
       "keywords": "tv centro america -cuiaba -rondonopolis -sinop",
       "website": "http://redeglobo.globo.com/tvcentroamerica/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Centro America Cuiaba",
@@ -3402,7 +3429,8 @@
       "name": "TV Diario Mogi das Cruzes",
       "isFree": true,
       "website": "https://redeglobo.globo.com/sp/tvdiario/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Difusora Leste",
@@ -3474,7 +3502,8 @@
       "name": "TV Fronteira",
       "isFree": true,
       "website": "http://redeglobo.globo.com/sp/tvfronteira/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Galega Blumenau",
@@ -3491,13 +3520,15 @@
       "name": "TV Gazeta Alagoas",
       "isFree": true,
       "website": "https://redeglobo.globo.com/al/tvgazetaal/",
-      "priority": 3
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Gazeta Espirito Santo",
       "isFree": true,
       "website": "http://g1.globo.com/espirito-santo/",
-      "priority": 3
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Gerais",
@@ -3575,7 +3606,8 @@
       "name": "TV Grande Rio",
       "isFree": true,
       "website": "http://redeglobo.globo.com/pe/tvgranderio/",
-      "priority": 3
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Grao Para",
@@ -3628,25 +3660,29 @@
       "isFree": true,
       "keywords": "tv integracao -araxa -ituiutaba -zona -da -mata",
       "website": "http://redeglobo.globo.com/mg/tvintegracao/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Integracao Araxa",
       "isFree": true,
       "website": "http://redeglobo.globo.com/mg/tvintegracao/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Integracao Ituiutaba",
       "isFree": true,
       "website": "http://redeglobo.globo.com/mg/tvintegracao/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Integracao Zona da Mata",
       "isFree": true,
       "website": "http://redeglobo.globo.com/mg/tvintegracao/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Iracema",
@@ -3693,7 +3729,8 @@
       "name": "TV Liberal",
       "isFree": true,
       "website": "http://redeglobo.globo.com/pa/tvliberal/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Maceio",
@@ -3760,7 +3797,8 @@
       "isFree": true,
       "keywords": "tv mirante -cocais -imperatriz",
       "website": "https://redeglobo.globo.com/ma/tvmirante/",
-      "priority": 3
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Mirante Cocais",
@@ -3785,7 +3823,8 @@
       "name": "TV Morena Campo Grande",
       "isFree": true,
       "website": "http://redeglobo.globo.com/tvmorena/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Morena Ponta Pora",
@@ -3942,19 +3981,22 @@
       "name": "TV Rio Sul",
       "isFree": true,
       "website": "http://redeglobo.globo.com/rj/tvriosul/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Rondonia",
       "isFree": true,
       "website": "https://g1.globo.com/ro/rondonia/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Rede Amazonica"
     },
     {
       "name": "TV Roraima",
       "isFree": true,
       "website": "https://g1.globo.com/rr/roraima/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Rede Amazonica"
     },
     {
       "name": "TV Sagres",
@@ -3971,7 +4013,8 @@
       "name": "TV Sao Francisco",
       "isFree": true,
       "website": "http://www.redebahia.com.br/empresas/tv/tv-sao-francisco",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Sao Raimundo",
@@ -3982,7 +4025,8 @@
       "name": "TV Sergipe",
       "isFree": true,
       "website": "https://g1.globo.com/se/sergipe/",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Serra Dourada",
@@ -4000,7 +4044,8 @@
       "name": "TV Subae",
       "isFree": true,
       "website": "http://www.redebahia.com.br/empresas/tv/tv-subae",
-      "priority": 2
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Sucesso",
@@ -4028,7 +4073,8 @@
       "name": "TV Tapajos",
       "isFree": true,
       "website": "https://redeglobo.globo.com/pa/tvtapajos/",
-      "priority": 3
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Taroba Cascavel",
@@ -4046,25 +4092,29 @@
       "name": "TV TEM Bauru",
       "isFree": true,
       "website": "http://redeglobo.globo.com/sp/tvtem/",
-      "priority": 7
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV TEM Itapetininga",
       "isFree": true,
       "website": "http://redeglobo.globo.com/sp/tvtem/",
-      "priority": 6
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV TEM Sao Jose do Rio Preto",
       "isFree": true,
       "website": "http://redeglobo.globo.com/sp/tvtem/",
-      "priority": 7
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV TEM Sorocaba",
       "isFree": true,
       "website": "http://redeglobo.globo.com/sp/tvtem/",
-      "priority": 7
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Thathi Campinas",
@@ -4153,7 +4203,8 @@
       "isFree": true,
       "keywords": "tv verdes mares -cariri",
       "website": "https://redeglobo.globo.com/tvverdesmares/",
-      "priority": 4
+      "priority": 8,
+      "retransmits": "Globo"
     },
     {
       "name": "TV Verdes Mares Cariri",
